@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<omegat>
+    <project version="1.0">
+        <source_dir>__DEFAULT__</source_dir>
+        <source_dir_excludes>
+            <mask>**/.svn/**</mask>
+            <mask>**/CVS/**</mask>
+            <mask>**/.cvs/**</mask>
+            <mask>**/desktop.ini</mask>
+            <mask>**/~$*</mask>
+            <mask>**/.~lock.*</mask>
+            <mask>**/.ignore/**</mask>
+            <mask>**/Thumbs.db</mask>
+            <mask>**/.DS_Store</mask>
+        </source_dir_excludes>
+        <target_dir>__DEFAULT__</target_dir>
+        <tm_dir>__DEFAULT__</tm_dir>
+        <glossary_dir>__DEFAULT__</glossary_dir>
+        <glossary_file>__DEFAULT__</glossary_file>
+        <dictionary_dir>__DEFAULT__</dictionary_dir>
+        <source_lang>es</source_lang>
+        <target_lang>pl</target_lang>
+        <source_tok>org.omegat.tokenizer.LuceneSpanishTokenizer</source_tok>
+        <target_tok>org.omegat.tokenizer.LucenePolishTokenizer</target_tok>
+        <sentence_seg>true</sentence_seg>
+        <support_default_translations>true</support_default_translations>
+        <remove_tags>false</remove_tags>
+        <external_command></external_command>
+	<repositories>
+          <repository type="git" url="https://github.com/OmegaT-L10N/es-pl.git">
+            <mapping local="/" repository="/"/>
+            <mapping local="source/pl" repository="source/es"/>
+            <mapping local="source/pl.yml" repository="source/es.yml"/>
+          </repository>
+	</repositories>  
+    </project>
+</omegat>
