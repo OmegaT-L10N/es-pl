@@ -29,8 +29,8 @@
 	<repositories>
           <repository type="git" url="https://github.com/OmegaT-L10N/es-pl.git">
             <mapping local="/" repository="/"/>
-            <mapping local="source/pl" repository="source/es"/>
-            <mapping local="source/pl.yml" repository="source/es.yml"/>
+            <mapping local="source/pl" repository="_i18n/es"/>
+            <mapping local="source/pl.yml" repository="_i18n/es.yml"/>
           </repository>
 	</repositories>  
     </project>
