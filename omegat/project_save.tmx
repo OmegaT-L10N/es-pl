@@ -1,9 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.5.0_0_644ca3846" segtype="sentence" srclang="es"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="es"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="es">
+        <seg>Disculpe</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Maria" changedate="20210228T210348Z" creationid="Maria" creationdate="20210228T210348Z">
+        <seg>Disculpe</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
