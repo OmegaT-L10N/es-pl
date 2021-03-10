@@ -4,22 +4,6 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.3.2_0_6a661c5e" segtype="sentence" srclang="es"/>
   <body>
 <!-- Default translations -->
-    <tu>
-      <tuv lang="es">
-        <seg>Disculpe</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Hope13-4" changedate="20210310T185031Z" creationid="Maria" creationdate="20210228T210348Z">
-        <seg>Przepraszamy</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>No pudimos encontrar la página que busca.</seg>
-      </tuv>
-      <tuv lang="pl" changeid="Hope13-4" changedate="20210310T185150Z" creationid="Hope13-4" creationdate="20210310T185150Z">
-        <seg>Nie udało nam się znaleźć strony.</seg>
-      </tuv>
-    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
