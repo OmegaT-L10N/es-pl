@@ -52,6 +52,14 @@
         <seg>Otros recursos de OmegaT</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento meta o en las que el segmento meta es igual que el segmento origen.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T183646Z" creationid="Justita" creationdate="20210314T183646Z">
+        <seg>Wykonywany z linii poleceń skrypt Java usuwający zbędne jednostki tłumaczeniowe z pliku TMX (usuwa wszystkie jednostki bez segmentu docelowego i jednostki, w których segment źródłowy i docelowy są takie same).</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
