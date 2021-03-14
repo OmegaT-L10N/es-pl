@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Independiente de plataforma; es necesario tcl/tk.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185501Z" creationid="Justita" creationdate="20210314T185501Z">
+        <seg>Niezależna od platformy; niezbędny jest tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT - La herramienta TAO gratuita</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T150118Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T150118Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Scripts de Toxic</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185244Z" creationid="Justita" creationdate="20210314T185244Z">
+        <seg>Skrypty Toxic</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Se recomienda al resto de usuarios usar el &lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt; en su lugar.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
@@ -82,6 +98,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184926Z" creationid="Justita" creationdate="20210314T184926Z">
         <seg>Toxic został stworzony przez Marca Priora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Toxic para Linux</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185118Z" creationid="Justita" creationdate="20210314T185118Z">
+        <seg>Toxic dla systemu Linux</seg>
       </tuv>
     </tu>
     <tu>
@@ -102,10 +126,26 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Versiones en scripts de Toxic.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185258Z" creationid="Justita" creationdate="20210314T185258Z">
+        <seg>Wersje skryptów Toxic.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Versión binaria de Toxic para Linux.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185201Z" creationid="Justita" creationdate="20210314T185201Z">
+        <seg>Toxic w wersji binarnej dla sytsemu Linux.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Versión de Toxic ejecutable en Windows.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T185107Z" creationid="Justita" creationdate="20210314T185107Z">
-        <seg>Toxic w wersji dla systemów Windows.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185211Z" creationid="Justita" creationdate="20210314T185107Z">
+        <seg>Toxic w wersji dla systemu Windows.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
