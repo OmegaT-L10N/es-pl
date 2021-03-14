@@ -16,8 +16,8 @@
       <tuv lang="es">
         <seg>Contribución de Henry Pijffers.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T182548Z" creationid="Justita" creationdate="20210314T182548Z">
-        <seg>Autorstwa Henry´ego Pijffersa.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190251Z" creationid="Justita" creationdate="20210314T182548Z">
+        <seg>Autor: Henry Pijffers.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +176,8 @@
       <tuv lang="es">
         <seg>ej., código fuente) para traducirlo en OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T190135Z" creationid="Justita" creationdate="20210314T190135Z">
-        <seg>np., kod źródłowy) w celu przetłumaczenia go w OmegaT.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
+        <seg>np., kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
