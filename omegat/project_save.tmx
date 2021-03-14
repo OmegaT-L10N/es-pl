@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Esta recopilación de scripts puede resultar de utilidad a los programadores de scripts que tengan conocimientos de tcl/tk.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T184239Z" creationid="Justita" creationdate="20210314T184239Z">
+        <seg>Ten zbiór skryptów może przydać się osobom programistom posiadającym znajomość tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de usuarios</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134227Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134227Z">
