@@ -78,10 +78,34 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Toxic es una contribución de Marc Prior.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T184926Z" creationid="Justita" creationdate="20210314T184926Z">
+        <seg>Toxic został stworzony przez Marca Priora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Toxic para Windows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T184947Z" creationid="Justita" creationdate="20210314T184947Z">
+        <seg>Toxic dla systemu Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Utilidad para convertir los archivos de Trados TagEditor (TTX) a un formato intermedio, de forma que se puedan traducir en OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T183815Z" creationid="Justita" creationdate="20210314T183815Z">
         <seg>Przydatny do konwertowania plików Trados TagEditor (TTX) do formatu pośredniego, który pozwala na ich tłumaczenie w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Versión de Toxic ejecutable en Windows.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T185107Z" creationid="Justita" creationdate="20210314T185107Z">
+        <seg>Toxic w wersji dla systemów Windows.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
