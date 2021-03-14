@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Se recomienda al resto de usuarios usar el &lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt; en su lugar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
+        <seg>Pozostałym użytkownikom zaleca się natomiast korzystanie z &lt;a0&gt;rozszerzenia z filtrami Okapi&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Utilidad para convertir los archivos de Trados TagEditor (TTX) a un formato intermedio, de forma que se puedan traducir en OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T183815Z" creationid="Justita" creationdate="20210314T183815Z">
