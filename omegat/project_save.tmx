@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Contribución de Marc Prior.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190203Z" creationid="Justita" creationdate="20210314T190203Z">
+        <seg>Autor: Marc Prior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Disculpe</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210311T192155Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210311T192155Z">
         <seg>Disculpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Es necesario tcl/tk.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190152Z" creationid="Justita" creationdate="20210314T190152Z">
+        <seg>Niezbędny jest tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -154,6 +170,22 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T185211Z" creationid="Justita" creationdate="20210314T185107Z">
         <seg>Toxic w wersji dla systemu Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>ej., código fuente) para traducirlo en OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190135Z" creationid="Justita" creationdate="20210314T190135Z">
+        <seg>np., kod źródłowy) w celu przetłumaczenia go w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T190235Z" creationid="Justita" creationdate="20210314T190235Z">
+        <seg>&gt;{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
