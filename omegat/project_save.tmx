@@ -60,6 +60,14 @@
         <seg>Wykonywany z linii poleceń skrypt Java usuwający zbędne jednostki tłumaczeniowe z pliku TMX (usuwa wszystkie jednostki bez segmentu docelowego i jednostki, w których segment źródłowy i docelowy są takie same).</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Utilidad para convertir los archivos de Trados TagEditor (TTX) a un formato intermedio, de forma que se puedan traducir en OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210314T183815Z" creationid="Justita" creationdate="20210314T183815Z">
+        <seg>Przydatny do konwertowania plików Trados TagEditor (TTX) do formatu pośredniego, który pozwala na ich tłumaczenie w OmegaT.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
