@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmegaT es una aplicación y un proyecto de código abierto.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102414Z" creationid="Anna Wolska" creationdate="20210315T102414Z">
+        <seg>OmegaT jest oprogramowaniem i projektem typu „open source”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Otros recursos de OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T135434Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
