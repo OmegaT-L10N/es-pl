@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La filosofía de código abierto</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102047Z" creationid="Anna Wolska" creationdate="20210315T102047Z">
+        <seg>Filozofia „open source”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT - La herramienta TAO gratuita</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T150118Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T150118Z">
