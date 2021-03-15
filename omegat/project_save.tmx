@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Colaborar con el desarrollo de aplicaciones profesionales está de moda.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101821Z" creationid="Anna Wolska" creationdate="20210315T101821Z">
+        <seg>Praca przy tworzeniu profesjonalnych narzędzi jest na czasie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Contribución de Henry Pijffers.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190251Z" creationid="Justita" creationdate="20210314T182548Z">
