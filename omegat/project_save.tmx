@@ -240,5 +240,16 @@
         <seg>Oznacza to, że dostęp do kodu źródłowego programu OmegaT jest bezpłatny, a licencja zapewnia użytkownikom dużą swobodę.</seg>
       </tuv>
     </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Esto significa que el código fuente del programa OmegaT está disponible de manera gratuita y que la licencia de OmegaT da amplia libertad a sus usuarios.</prop>
+      <prop type="next">Un aspecto importante de esta libertad es que los usuarios también pueden modificar el código del programa.</prop>
+      <tuv lang="es">
+        <seg>No solo pueden usar el programa sin costo, sino también tienen la libertad de hacer copias y distribuirlas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T160607Z" creationid="Anna Wolska" creationdate="20210317T160607Z">
+        <seg>Mogą oni nie tylko korzystać z programu za darmo, lecz także tworzyć jego kopie i rozpowszechniać je.</seg>
+      </tuv>
+    </tu>
   </body>
 </tmx>
