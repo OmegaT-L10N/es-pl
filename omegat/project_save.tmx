@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Son necesarios tcl/tk, Abiword y pdftotext.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210317T171702Z" creationid="Justita" creationdate="20210317T171702Z">
+        <seg>Wymagane tcl/tk, Abiword i pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Toxic es una contribución de Marc Prior.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184926Z" creationid="Justita" creationdate="20210314T184926Z">
@@ -178,6 +186,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184947Z" creationid="Justita" creationdate="20210314T184947Z">
         <seg>Toxic dla systemu Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Utilidad para contar TKount.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210317T171626Z" creationid="Justita" creationdate="20210317T171626Z">
+        <seg>Narzędzie do liczenia TKount.</seg>
       </tuv>
     </tu>
     <tu>
