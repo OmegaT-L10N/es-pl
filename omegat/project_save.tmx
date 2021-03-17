@@ -293,8 +293,8 @@
       <tuv lang="es">
         <seg>En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T171529Z" creationid="Anna Wolska" creationdate="20210317T170925Z">
-        <seg>Jeśli chodzi o rutynowe zadania, wolontariusze pracujący nad projektem OmegaT mają co do zasady możliwie największą swobodę w ustalaniu zasad współpracy.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T173025Z" creationid="Anna Wolska" creationdate="20210317T170925Z">
+        <seg>Jeśli chodzi o rutynowe zadania, wolontariusze pracujący nad projektem OmegaT mają co do zasady możliwie największą swobodę w ustalaniu sposobu współpracy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -387,13 +387,24 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">En algunos temas, hay un grado mayor de coordinación.</prop>
+      <prop type="next">Sin embargo, solo si se considera que benefician a los usuarios de OmegaT, el equipo de desarrollo los incluirá en el programa.</prop>
+      <tuv lang="es">
+        <seg>Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T173306Z" creationid="Anna Wolska" creationdate="20210317T173306Z">
+        <seg>Każdy może na przykład zmodyfikować kod źródłowy OmegaT i przesłać te zmiany do zespołu programistów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">La manera de hacerlo depende enteramente de ellos.</prop>
       <prop type="next">En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</prop>
       <tuv lang="es">
         <seg>Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170917Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
-        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli materiał okaże się to przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T172942Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
+        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
       </tuv>
     </tu>
     <tu>
