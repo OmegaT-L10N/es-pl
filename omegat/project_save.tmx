@@ -277,6 +277,28 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Desarrollo de OmegaT</prop>
+      <prop type="next">No obstante, hay un gran espacio dentro del proyecto para que los usuarios sugieran mejoras e influyan en el curso del desarrollo futuro.</prop>
+      <tuv lang="es">
+        <seg>Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT es hecho por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T175805Z" creationid="Anna Wolska" creationdate="20210317T175805Z">
+        <seg>Tak jak wszystko inne związane z OmegaT, programowanie także wykonywane jest przez wolontariuszy. Zgodnie z główną ideą projektu, to od nich zależy rozwój programu i wprowadzane ulepszenia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Así se garantiza la protección de los intereses de los usuarios y también ha significado que OmegaT recibiera la &lt;a0&gt;garantía "100% FREE" de Softpedia&lt;/a0&gt;.</prop>
+      <prop type="next">Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT es hecho por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</prop>
+      <tuv lang="es">
+        <seg>Desarrollo de OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T174137Z" creationid="Anna Wolska" creationdate="20210317T174137Z">
+        <seg>Rozwój OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</prop>
       <prop type="next">http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</prop>
       <tuv lang="es">
