@@ -236,8 +236,8 @@
       <tuv lang="es">
         <seg>A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170041Z" creationid="Anna Wolska" creationdate="20210317T170041Z">
-        <seg>Jednocześnie mogą, a nawet są zachęcani (ale nie zmuszani) do współtworzenia projektu.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170259Z" creationid="Anna Wolska" creationdate="20210317T170041Z">
+        <seg>Jednocześnie mogą współtworzyć projekt, do czego są zresztą zachęcani (ale nie zmuszani).</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +282,17 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T165417Z" creationid="Anna Wolska" creationdate="20210317T165417Z">
         <seg>Filozofia projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</prop>
+      <prop type="next">Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</prop>
+      <tuv lang="es">
+        <seg>La manera de hacerlo depende enteramente de ellos.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170347Z" creationid="Anna Wolska" creationdate="20210317T170347Z">
+        <seg>Tylko od nich zależy, w jaki sposób to zrobią.</seg>
       </tuv>
     </tu>
     <tu>
