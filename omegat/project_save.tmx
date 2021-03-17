@@ -231,6 +231,28 @@
 <!-- Alternative translations -->
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Los usuarios tienen la libertad de descargar y usar el programa.</prop>
+      <prop type="next">La manera de hacerlo depende enteramente de ellos.</prop>
+      <tuv lang="es">
+        <seg>A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170041Z" creationid="Anna Wolska" creationdate="20210317T170041Z">
+        <seg>Jednocześnie mogą, a nawet są zachęcani (ale nie zmuszani) do współtworzenia projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">La filosofía del proyecto OmegaT</prop>
+      <prop type="next">Los usuarios tienen la libertad de descargar y usar el programa.</prop>
+      <tuv lang="es">
+        <seg>Este es el mismo espíritu que se encuentra en el proyecto OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T165602Z" creationid="Anna Wolska" creationdate="20210317T165602Z">
+        <seg>Właśnie ta idea przyświeca projektowi OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">Para el movimiento de código abierto, la libertad que los usuarios tienen para cambiar un programa y acomodarlo a sus propias necesidades es más importante que el hecho de que no tengan que pagar por ello.</prop>
       <prop type="next">La filosofía del proyecto OmegaT</prop>
       <tuv lang="es">
@@ -260,6 +282,17 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T165417Z" creationid="Anna Wolska" creationdate="20210317T165417Z">
         <seg>Filozofia projektu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Este es el mismo espíritu que se encuentra en el proyecto OmegaT.</prop>
+      <prop type="next">A su vez, tienen la libertad y, de hecho, se les incentiva (aunque esto no implica obligación) a colaborar en el proyecto.</prop>
+      <tuv lang="es">
+        <seg>Los usuarios tienen la libertad de descargar y usar el programa.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T165658Z" creationid="Anna Wolska" creationdate="20210317T165658Z">
+        <seg>Użytkownicy mogą swobodnie pobierać program i korzystać z niego.</seg>
       </tuv>
     </tu>
     <tu>
