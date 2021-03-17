@@ -258,6 +258,17 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</prop>
+      <prop type="next">http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</prop>
+      <tuv lang="es">
+        <seg>El actual coordinador del proyecto OmegaT describe este método relajado como "anarquía delegada".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T172413Z" creationid="Anna Wolska" creationdate="20210317T172413Z">
+        <seg>Obecny koordynator projektu OmegaT nazywa to luźne podejście „anarchią delegowaną”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</prop>
       <prop type="next">El actual coordinador del proyecto OmegaT describe este método relajado como "anarquía delegada".</prop>
       <tuv lang="es">
