@@ -266,6 +266,17 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Sin embargo, solo si se considera que benefician a los usuarios de OmegaT, el equipo de desarrollo los incluirá en el programa.</prop>
+      <prop type="next">Desarrollo de OmegaT</prop>
+      <tuv lang="es">
+        <seg>Así se garantiza la protección de los intereses de los usuarios y también ha significado que OmegaT recibiera la &lt;a0&gt;garantía "100% FREE" de Softpedia&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T173547Z" creationid="Anna Wolska" creationdate="20210317T173547Z">
+        <seg>Dzięki temu zagwarantowana jest ochrona interesów użytkowników </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</prop>
       <prop type="next">http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</prop>
       <tuv lang="es">
@@ -405,6 +416,17 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T172942Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
         <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</prop>
+      <prop type="next">Así se garantiza la protección de los intereses de los usuarios y también ha significado que OmegaT recibiera la &lt;a0&gt;garantía "100% FREE" de Softpedia&lt;/a0&gt;.</prop>
+      <tuv lang="es">
+        <seg>Sin embargo, solo si se considera que benefician a los usuarios de OmegaT, el equipo de desarrollo los incluirá en el programa.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T173449Z" creationid="Anna Wolska" creationdate="20210317T173449Z">
+        <seg>Jednak będą one wprowadzone tylko jeśli zostaną uznane za przydatne dla użytkowników programu.</seg>
       </tuv>
     </tu>
     <tu>
