@@ -269,6 +269,17 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</prop>
+      <prop type="next">Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</prop>
+      <tuv lang="es">
+        <seg>En algunos temas, hay un grado mayor de coordinación.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T172517Z" creationid="Anna Wolska" creationdate="20210317T172517Z">
+        <seg>W niektórych kwestiach wymagany jest większy stopień koordynacji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</prop>
       <prop type="next">El actual coordinador del proyecto OmegaT describe este método relajado como "anarquía delegada".</prop>
       <tuv lang="es">
