@@ -72,8 +72,8 @@
       <tuv lang="es">
         <seg>Independiente de plataforma; es necesario tcl/tk.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T185501Z" creationid="Justita" creationdate="20210314T185501Z">
-        <seg>Niezależna od platformy; niezbędny jest tcl/tk.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210317T171815Z" creationid="Justita" creationdate="20210314T185501Z">
+        <seg>Niezależna od platformy; wymagane jest zinstalowanie biblioteki tcl/tk.</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Se ha probado en Linux.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210317T171837Z" creationid="Justita" creationdate="20210317T171837Z">
+        <seg>Narzędzie testowane w systemie Linux..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Se recomienda al resto de usuarios usar el &lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt; en su lugar.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
@@ -160,8 +168,8 @@
       <tuv lang="es">
         <seg>Son necesarios tcl/tk, Abiword y pdftotext.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210317T171702Z" creationid="Justita" creationdate="20210317T171702Z">
-        <seg>Wymagane tcl/tk, Abiword i pdftotext.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210317T171723Z" creationid="Justita" creationdate="20210317T171702Z">
+        <seg>Wymaga zainstalowania bibliotek tcl/tk i Abiword oraz narzędzia pdftotext.</seg>
       </tuv>
     </tu>
     <tu>
