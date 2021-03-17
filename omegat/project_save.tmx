@@ -253,13 +253,24 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Un aspecto importante de esta libertad es que los usuarios también pueden modificar el código del programa.</prop>
+      <prop type="next">Esto se conoce como "libre" más que simplemente "gratis".</prop>
+      <tuv lang="es">
+        <seg>Para el movimiento de código abierto, la libertad que los usuarios tienen para cambiar un programa y acomodarlo a sus propias necesidades es más importante que el hecho de que no tengan que pagar por ello.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T164931Z" creationid="Anna Wolska" creationdate="20210317T164931Z">
+        <seg>Dla zwolenników otwartego oprogramowania fakt, że użytkownicy mogą zmieniać program i dostosowywać go do swoich potrzeb jest ważniejszy od braku opłat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">No solo pueden usar el programa sin costo, sino también tienen la libertad de hacer copias y distribuirlas.</prop>
       <prop type="next">Para el movimiento de código abierto, la libertad que los usuarios tienen para cambiar un programa y acomodarlo a sus propias necesidades es más importante que el hecho de que no tengan que pagar por ello.</prop>
       <tuv lang="es">
         <seg>Un aspecto importante de esta libertad es que los usuarios también pueden modificar el código del programa.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T163128Z" creationid="Anna Wolska" creationdate="20210317T163128Z">
-        <seg>Ważnym elementem tej swobody użytkowników jest możliwość modyfikacji kodu źródłowego.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T164936Z" creationid="Anna Wolska" creationdate="20210317T163128Z">
+        <seg>Istotnym elementem tej swobody użytkowników jest możliwość modyfikacji kodu źródłowego.</seg>
       </tuv>
     </tu>
   </body>
