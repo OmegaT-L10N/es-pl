@@ -330,6 +330,17 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">La manera de hacerlo depende enteramente de ellos.</prop>
+      <prop type="next">En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</prop>
+      <tuv lang="es">
+        <seg>Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170917Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
+        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli materiał okaże się to przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">No solo pueden usar el programa sin costo, sino también tienen la libertad de hacer copias y distribuirlas.</prop>
       <prop type="next">Para el movimiento de código abierto, la libertad que los usuarios tienen para cambiar un programa y acomodarlo a sus propias necesidades es más importante que el hecho de que no tengan que pagar por ello.</prop>
       <tuv lang="es">
