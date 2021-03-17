@@ -242,6 +242,17 @@
     </tu>
     <tu>
       <prop type="file">pl/philosophy.html</prop>
+      <prop type="prev">Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</prop>
+      <prop type="next">El actual coordinador del proyecto OmegaT describe este método relajado como "anarquía delegada".</prop>
+      <tuv lang="es">
+        <seg>En lo que concierne a tareas de rutina, los voluntarios que trabajan en el proyecto OmegaT generalmente tienen tanta libertad como sea posible en determinar de qué manera colaborar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170925Z" creationid="Anna Wolska" creationdate="20210317T170925Z">
+        <seg>Jeśli chodzi o </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="file">pl/philosophy.html</prop>
       <prop type="prev">La filosofía del proyecto OmegaT</prop>
       <prop type="next">Los usuarios tienen la libertad de descargar y usar el programa.</prop>
       <tuv lang="es">
