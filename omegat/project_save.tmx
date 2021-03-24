@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Son necesarios Linux, w3m y tcl/tk (suelen incluirse con Linux).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T130354Z" creationid="Justita" creationdate="20210324T130118Z">
+        <seg>Wymaga zaintalowania systemu Linux, przeglądarki w3m y biblioteki tcl/tk (zazwyczaj w pakiecie systemu Linux).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Son necesarios tcl/tk, Abiword y pdftotext.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171723Z" creationid="Justita" creationdate="20210317T171702Z">
