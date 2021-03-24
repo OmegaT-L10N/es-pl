@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Consiste en un modelo de manual del estudiante con instrucciones para los formadores para la adaptación y recursos de muestra.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T143647Z" creationid="Justita" creationdate="20210324T143647Z">
+        <seg>Składa się z przykładowego podręcznika dla słuchaczy, instrukcji dla osób prowadzących szkolenie oraz przykładowych zasobów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Contribución de Dmitri Gabinski.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T142205Z" creationid="Justita" creationdate="20210324T142205Z">
