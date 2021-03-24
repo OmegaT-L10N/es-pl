@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Hay un tutorial detallado disponible.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T154004Z" creationid="Justita" creationdate="20210324T154004Z">
+        <seg>Dostępny jest szczegółowy samouczek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Herramienta de consulta de diccionarios en línea.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T130016Z" creationid="Justita" creationdate="20210324T130016Z">
