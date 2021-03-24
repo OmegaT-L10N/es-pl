@@ -40,16 +40,16 @@
       <tuv lang="es">
         <seg>Conversor de archivos TMX de Wordfast</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210324T130703Z" creationid="Justita" creationdate="20210324T130703Z">
-        <seg>Konwertor plików TMX z oprogramowania Wordfast</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T133145Z" creationid="Justita" creationdate="20210324T130703Z">
+        <seg>Konwertor plików TMX programu Wordfast</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es">
         <seg>Convierte las memorias de traducción en formato TMX generadas por Wordfast de forma que las pueda leer OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210324T133131Z" creationid="Justita" creationdate="20210324T133131Z">
-        <seg>Konwertuje pamięci tłumaczeniowe programu Wordfast (format TMX) na format obsługiwany przez narzędzie OmegaT.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T133307Z" creationid="Justita" creationdate="20210324T133131Z">
+        <seg>Konwertuje pamięci tłumaczeniowe programu Wordfast (format TMX) na format obsługiwany przez OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
