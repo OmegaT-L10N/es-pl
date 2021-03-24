@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Iconos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T143700Z" creationid="Justita" creationdate="20210324T143700Z">
+        <seg>Ikony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Independiente de plataforma; es necesario tcl/tk.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171815Z" creationid="Justita" creationdate="20210314T185501Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
         <seg>Pozostałym użytkownikom zaleca się natomiast korzystanie z &lt;a0&gt;rozszerzenia z filtrami Okapi&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Selección de iconos alternativos para usar con OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T143851Z" creationid="Justita" creationdate="20210324T143851Z">
+        <seg>Zestaw alternatywnych ikon dla programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
