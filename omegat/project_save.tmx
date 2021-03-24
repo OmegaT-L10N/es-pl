@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Herramienta de consulta de diccionarios en línea.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T130016Z" creationid="Justita" creationdate="20210324T130016Z">
+        <seg>Narzędzie umożliwiające korzystanie ze słowników online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Independiente de plataforma; es necesario tcl/tk.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171815Z" creationid="Justita" creationdate="20210314T185501Z">
