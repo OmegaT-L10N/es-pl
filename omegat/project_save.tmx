@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Este sitio web</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T152412Z" creationid="Justita" creationdate="20210324T152412Z">
+        <seg>Niniejsza strona web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de usuarios</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134227Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134227Z">
@@ -154,6 +162,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102047Z" creationid="Anna Wolska" creationdate="20210315T102047Z">
         <seg>Filozofia „open source”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los archivos de este sitio, en un cómodo paquete para aquellos que deseen localizarlo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T152742Z" creationid="Justita" creationdate="20210324T152543Z">
+        <seg>Pliki składające się na niniejszą stronę w poręcznej formie archiwum skierowanego do osób chcących tę stronę zlokalizować.</seg>
       </tuv>
     </tu>
     <tu>
