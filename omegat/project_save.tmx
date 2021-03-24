@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Repositorio de TMX de la localización</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T152247Z" creationid="Justita" creationdate="20210324T152247Z">
+        <seg>Repositorio TMX de la localización</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento meta o en las que el segmento meta es igual que el segmento origen.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T183646Z" creationid="Justita" creationdate="20210314T183646Z">
