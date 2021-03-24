@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Textos de muestra</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T143908Z" creationid="Justita" creationdate="20210324T143908Z">
+        <seg>Przykładowe teksty</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Toxic es una contribución de Marc Prior.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184926Z" creationid="Justita" creationdate="20210314T184926Z">
