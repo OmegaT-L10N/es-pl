@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Contribución de Dmitri Gabinski.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T142205Z" creationid="Justita" creationdate="20210324T142205Z">
+        <seg>Autor: Dmitri Gabinski.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Contribución de Henry Pijffers.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190251Z" creationid="Justita" creationdate="20210314T182548Z">
@@ -130,6 +138,14 @@
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T135434Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
         <seg>Otros recursos de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Recursos variados</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T142440Z" creationid="Justita" creationdate="20210324T142440Z">
+        <seg>Inne zasoby</seg>
       </tuv>
     </tu>
     <tu>
