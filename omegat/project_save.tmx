@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Permite la traducción de numerosos formatos de archivo con los que no se puede trabajar de forma nativa con OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T153904Z" creationid="Justita" creationdate="20210324T153904Z">
+        <seg>Umożliwia tłumaczenie plików o różnych formatach niobsługiwanych bezpośrednio przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Recursos de localización</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152255Z" creationid="Justita" creationdate="20210324T144227Z">
