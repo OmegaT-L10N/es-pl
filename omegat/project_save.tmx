@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Un completo conjunto de utilidades para preparar los archivos para su traducción en una herramienta TAO.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210324T153637Z" creationid="Justita" creationdate="20210324T153637Z">
+        <seg>Kompletny zestaw narzędzi słuzących do przygotowania plików do przetłumaczenia z uzyciem narzędzi CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Utilidad para contar TKount.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171626Z" creationid="Justita" creationdate="20210317T171626Z">
