@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Comprobar la ortografía (varios procedimientos)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131541Z" creationid="Justita" creationdate="20210330T131541Z">
+        <seg>Sprawdzanie pisowni (różne procedury)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Consiste en un modelo de manual del estudiante con instrucciones para los formadores para la adaptación y recursos de muestra.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143647Z" creationid="Justita" creationdate="20210324T143647Z">
