@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Una herramienta inteligente de alineación en línea de comandos para crear archivos de memorias de traducción a partir de textos antiguos y sus traducciones.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130700Z" creationid="Justita" creationdate="20210330T130700Z">
+        <seg>z wcześniejszych tekstów i ich tłumaczeń.Inteligentne narzędzie do zestawiania plików w  w wierszu poleceń w celu stworzenia pamięci tłumaczeniowych z wcześniejszych tekstów i ich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Utilidad para contar TKount.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171626Z" creationid="Justita" creationdate="20210317T171626Z">
