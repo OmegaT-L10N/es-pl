@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Herramienta de alineación con GUI para crear archivos de memorias de traducción a partir de textos antiguos y sus traducciones.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130431Z" creationid="Justita" creationdate="20210330T130431Z">
+        <seg>Narzędzie z interfejsem GUI służące do zestawiania plików  w celu stworzenia pamięci tłumaczeniowych z tekstów źródłowych i przetłumaczonych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Herramienta de consulta de diccionarios en línea.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T130016Z" creationid="Justita" creationdate="20210324T130016Z">
