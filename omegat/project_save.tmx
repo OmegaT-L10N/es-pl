@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Descripciones y enlaces de los scripts y procedimientos de Samuel Murray.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130858Z" creationid="Justita" creationdate="20210330T130858Z">
+        <seg>Opisy i linki skryptów i procedur autorstwa Samuela Murray'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Diccionarios ortográficos</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153001Z" creationid="Justita" creationdate="20210324T152846Z">
@@ -160,8 +168,8 @@
       <tuv lang="es">
         <seg>Herramienta de alineación con GUI para crear archivos de memorias de traducción a partir de textos antiguos y sus traducciones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210330T130431Z" creationid="Justita" creationdate="20210330T130431Z">
-        <seg>Narzędzie z interfejsem GUI służące do zestawiania plików  w celu stworzenia pamięci tłumaczeniowych z tekstów źródłowych i przetłumaczonych.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130715Z" creationid="Justita" creationdate="20210330T130431Z">
+        <seg>Narzędzie z interfejsem GUI służące do zestawiania plików  w celu stworzenia pamięci tłumaczeniowych z wcześniejszych tekstów i ich tłumaczeń.</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Scripts y procedimientos de Samuel Murray</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130823Z" creationid="Justita" creationdate="20210330T130748Z">
+        <seg>Skrypty i proceduty autorstwa Samuela Murray'a</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Se ha probado en Linux.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171837Z" creationid="Justita" creationdate="20210317T171837Z">
@@ -408,8 +424,8 @@
       <tuv lang="es">
         <seg>Una herramienta inteligente de alineación en línea de comandos para crear archivos de memorias de traducción a partir de textos antiguos y sus traducciones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210330T130700Z" creationid="Justita" creationdate="20210330T130700Z">
-        <seg>z wcześniejszych tekstów i ich tłumaczeń.Inteligentne narzędzie do zestawiania plików w  w wierszu poleceń w celu stworzenia pamięci tłumaczeniowych z wcześniejszych tekstów i ich tłumaczeń.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T130728Z" creationid="Justita" creationdate="20210330T130700Z">
+        <seg>Inteligentne narzędzie do zestawiania plików w  w wierszu poleceń w celu stworzenia pamięci tłumaczeniowych z wcześniejszych tekstów i ich tłumaczeń.</seg>
       </tuv>
     </tu>
     <tu>
