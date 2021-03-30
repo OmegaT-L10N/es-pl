@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Extraer todo el texto origen de los archivos de proyecto en un solo archivo de texto grande</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131139Z" creationid="Justita" creationdate="20210330T131139Z">
+        <seg>Kopiowanie wszystkich tekstów źródłowych z plików projektu do jednego, dużego pliku tekstowego</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de usuarios</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134227Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134227Z">
@@ -214,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los scripts y procedimientos están disponibles para permitirle hacer lo siguiente:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131047Z" creationid="Justita" creationdate="20210330T131047Z">
+        <seg>Dzięki tym skryptom i procedurom możliwe są następujące operacje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT &lt;s0&gt;La herramienta TAO gratuita&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T090524Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
@@ -234,6 +250,14 @@
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T135434Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
         <seg>Otros recursos de OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para la mayoría de estos scripts se necesita MS Windows, aunque algunos procedimientos también pueden funcionar en otras plataformas.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131009Z" creationid="Justita" creationdate="20210330T131009Z">
+        <seg>Większość tych skryptów wymaga systemu MS Windows, aczkolwiek niektóre procedury mogą również działać na innych platformach&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +306,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153045Z" creationid="Justita" creationdate="20210324T153045Z">
         <seg>Repozytoria słowników ortofraficznych online współpracujące z OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Saltar los segmentos con un conjunto de caracteres específico</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131112Z" creationid="Justita" creationdate="20210330T131112Z">
+        <seg>Pomijanie segmentów zawierających określony zestaw znaków</seg>
       </tuv>
     </tu>
     <tu>
