@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
+        <seg>Agregar términos a un glosario mientras traduce en OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131252Z" creationid="Justita" creationdate="20210330T131252Z">
+        <seg>Dodawanie terminów do glosariusza w trakcie tłumaczenia w programie OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Alternativas gratuitas (y compatibles) a Microsoft Office.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153432Z" creationid="Justita" creationdate="20210324T153432Z">
@@ -26,6 +34,14 @@
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134225Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134225Z">
         <seg>Autores del contenido del sitio web</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Añadir números a todos los segmentos, de forma que todos sean "únicos"</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131354Z" creationid="Justita" creationdate="20210330T131354Z">
+        <seg>Numerowanie wszystkich segmentów tak, aby każdy posiadał unikalny numer</seg>
       </tuv>
     </tu>
     <tu>
@@ -86,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Crear un archivo TMX con todas las cadenas con el mismo texto origen que meta</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131225Z" creationid="Justita" creationdate="20210330T131225Z">
+        <seg>Tworzenie pliku TMX ze wszystkimi liniami, w których tekst źródłowy i tłumaczenie są identyczne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Curso de formación</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T142457Z" creationid="Justita" creationdate="20210324T142457Z">
@@ -122,6 +146,14 @@
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210311T192155Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210311T192155Z">
         <seg>Disculpe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Eliminar todo el texto pero no las etiquetas, o todas las etiquetas pero no el texto</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210330T131528Z" creationid="Justita" creationdate="20210330T131528Z">
+        <seg>Usuwanie całego tekstu z zachowaniem znaczników lub wszystkich znaczników z zachowaniem tesktu</seg>
       </tuv>
     </tu>
     <tu>
