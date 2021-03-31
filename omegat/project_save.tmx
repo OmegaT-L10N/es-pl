@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los desarrolladores de OmegaT, al ser voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162409Z" creationid="Anna Wolska" creationdate="20210331T162409Z">
+        <seg>Współtwórcy OmegaT jako wolontariusze </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los errores, las solicitudes de funcionalidad y la documentación se manejan en los sistemas de seguimiento de Sourceforge.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235908Z" creationid="la_justyna" creationdate="20210330T235908Z">
