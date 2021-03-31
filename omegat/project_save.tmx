@@ -16,8 +16,8 @@
       <tuv lang="es">
         <seg>Acceso rápido a sitios web Soporte de sitio web puede ser escrito en Groovy&lt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165728Z" creationid="Anna Wolska" creationdate="20210331T165716Z">
-        <seg>Szybki dostęp do witryn internetowych. Skrypt strony może być w języku Groovy.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190701Z" creationid="Anna Wolska" creationdate="20210331T165716Z">
+        <seg>Szybki dostęp do witryn internetowych. Skrypt strony może być napisany w języku Groovy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -464,8 +464,8 @@
       <tuv lang="es">
         <seg>Importante: los complementos mencionados funcionan con la versión 4 de OmegaT y superiores.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165919Z" creationid="Anna Wolska" creationdate="20210331T165919Z">
-        <seg>Uwaga: wymienione rozszerzenia działają w 4. i nowszych wersjach OmegaT.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190746Z" creationid="Anna Wolska" creationdate="20210331T165919Z">
+        <seg>Uwaga: wymienione dodatki działają od 4. wersji OmegaT wzwyż.</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +994,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T130728Z" creationid="Justita" creationdate="20210330T130700Z">
         <seg>Inteligentne narzędzie do zestawiania plików w  w wierszu poleceń w celu stworzenia pamięci tłumaczeniowych z wcześniejszych tekstów i ich tłumaczeń.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Utilidad de alineación Aligner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191017Z" creationid="Anna Wolska" creationdate="20210331T191017Z">
+        <seg>"Aligner" - narzędzie do tworzenia pamięci tłumaczeniowych z przetłumaczonych plików</seg>
       </tuv>
     </tu>
     <tu>
