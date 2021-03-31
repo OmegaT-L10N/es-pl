@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Acceso rápido a sitios web Soporte de sitio web puede ser escrito en Groovy&lt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165716Z" creationid="Anna Wolska" creationdate="20210331T165716Z">
+        <seg>Szybki dostęp do witryn internetowych. Skrypt strony może być napisany językiem Groovy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Administración</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000423Z" creationid="la_justyna" creationdate="20210331T000423Z">
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153904Z" creationid="Justita" creationdate="20210324T153904Z">
         <seg>Umożliwia tłumaczenie plików o różnych formatach niobsługiwanych bezpośrednio przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Plugin para navegador web</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165344Z" creationid="Anna Wolska" creationdate="20210331T165344Z">
+        <seg>Wtyczka do przeglądarki internetowej</seg>
       </tuv>
     </tu>
     <tu>
