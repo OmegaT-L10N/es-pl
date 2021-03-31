@@ -144,8 +144,8 @@
       <tuv lang="es">
         <seg>Complemento de filtros de Okapi</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190643Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
-        <seg>Dodatek filtrujący Okapi</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191323Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
+        <seg>Okapi - dodatek filtrujący</seg>
       </tuv>
     </tu>
     <tu>
@@ -178,6 +178,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000651Z" creationid="la_justyna" creationdate="20210331T000651Z">
         <seg>Kontakt z&lt;a0&gt;administratorem projektu OmegaT&lt;/a0&gt;w innych kwestiach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Contribución de Didier Briel.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191505Z" creationid="Anna Wolska" creationdate="20210331T191505Z">
+        <seg>Autor: Didier Briel.</seg>
       </tuv>
     </tu>
     <tu>
@@ -362,6 +370,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191031Z" creationid="Anna Wolska" creationdate="20210331T191031Z">
         <seg>Narzędzie napisane w języku Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Escrita en Python/Perl.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191450Z" creationid="Anna Wolska" creationdate="20210331T191450Z">
+        <seg>Narzędzie napisane w języku Python/Perl.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1008,8 +1024,16 @@
       <tuv lang="es">
         <seg>Utilidad de alineación Aligner</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191017Z" creationid="Anna Wolska" creationdate="20210331T191017Z">
-        <seg>"Aligner" - narzędzie do tworzenia pamięci tłumaczeniowych z przetłumaczonych plików</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191357Z" creationid="Anna Wolska" creationdate="20210331T191017Z">
+        <seg>Aligner - narzędzie do tworzenia pamięci tłumaczeniowych z przetłumaczonych plików</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Utilidad de alineación Bligner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191447Z" creationid="Anna Wolska" creationdate="20210331T191447Z">
+        <seg>Blinger - narzędzie do tworzenia pamięci tłumaczeniowych z przetłumaczonych plików</seg>
       </tuv>
     </tu>
     <tu>
