@@ -480,8 +480,8 @@
       <tuv lang="es">
         <seg>Los desarrolladores de OmegaT, al ser voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162409Z" creationid="Anna Wolska" creationdate="20210331T162409Z">
-        <seg>Współtwórcy OmegaT jako wolontariusze </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162749Z" creationid="Anna Wolska" creationdate="20210331T162409Z">
+        <seg>Współtwórcy OmegaT jako wolontariusze chętniej przyjmują propozycje, których realizacja byłaby finansowana przez osobę przesyłającą sugestię. </seg>
       </tuv>
     </tu>
     <tu>
@@ -832,8 +832,8 @@
       <tuv lang="es">
         <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162250Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
-        <seg>Przyjęcie propozycji zależy przede wszystkim od tego, czy zespół programistów uzna ją za korzystną dla programu OmegaT, a także od dostępności współtwórcy, który mógłby wprowadzić dane rozwiązanie.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162503Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
+        <seg>Przyjęcie propozycji zależy przede wszystkim od tego, czy zespół programistów uzna ją za korzystną dla programu OmegaT, a także od tego, czy któryś ze współtwórców chciałby wprowadzić dane rozwiązanie.</seg>
       </tuv>
     </tu>
     <tu>
