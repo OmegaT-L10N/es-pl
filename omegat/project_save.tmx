@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>En primer lugar está el &lt;a0&gt;grupo de usuarios de OmegaT&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154128Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
+        <seg>Przede wszystkim </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Es necesario tcl/tk.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190152Z" creationid="Justita" creationdate="20210314T190152Z">
