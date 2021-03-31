@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Complemento Apertium</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165153Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
+        <seg>Rozszerzenie Apertium</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Complemento de filtros de Okapi</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164827Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
@@ -450,6 +458,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171815Z" creationid="Justita" creationdate="20210314T185501Z">
         <seg>Niezależna od platformy; wymagane jest zinstalowanie biblioteki tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Integra la función de traducción automática de Apertium en OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165259Z" creationid="Anna Wolska" creationdate="20210331T165259Z">
+        <seg>Wprowadza funkcję tłumaczenia automatycznego Apertium w OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
