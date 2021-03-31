@@ -184,8 +184,8 @@
       <tuv lang="es">
         <seg>Contactar al &lt;a3&gt;administrador web&lt;/a3&gt; sobre cualquier tema relacionado específicamente con el sitio web.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224806Z" creationid="la_justyna" creationdate="20210331T224806Z">
-        <seg>Kontakt z&lt;a3&gt;administratorem sieci&lt;/a3&gt;w kwestiach związanych ze stroną internetową. </seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224858Z" creationid="la_justyna" creationdate="20210331T224806Z">
+        <seg>Kontakt z&lt;a3&gt;administratorem sieci&lt;/a3&gt;w kwestiach związanych ze stroną internetową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Manuales de usuario</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224948Z" creationid="la_justyna" creationdate="20210331T224948Z">
+        <seg>Instrukcje obsługi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>No obstante, hay un gran espacio dentro del proyecto para que los usuarios sugieran mejoras e influyan en el curso del desarrollo futuro.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153945Z" creationid="Anna Wolska" creationdate="20210331T153945Z">
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T090524Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
         <seg>OmegaT - La herramienta TAO gratuita</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT cuenta con un completo manual de usuario.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225022Z" creationid="la_justyna" creationdate="20210331T225022Z">
+        <seg>OmegaT zawiera pełną instrukcję obsługi.</seg>
       </tuv>
     </tu>
     <tu>
@@ -666,6 +682,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164657Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
         <seg>Dodatki do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para abrir el manual desde dentro de OmegaT, simplemente seleccione Ayuda &gt; Manual de usuario... o pulse F1.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225200Z" creationid="la_justyna" creationdate="20210331T225200Z">
+        <seg>Aby otworzyć instrukcję przez program OmegaT, wybierz Pomoc &gt; Instrukcja obsługi... lub naciśnij F1.</seg>
       </tuv>
     </tu>
     <tu>
