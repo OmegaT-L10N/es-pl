@@ -630,6 +630,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Lista de reproducción de vídeos de OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232339Z" creationid="la_justyna" creationdate="20210331T232339Z">
+        <seg>Playlista filmów OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Listas de distribución de correo</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235120Z" creationid="la_justyna" creationdate="20210330T234950Z">
@@ -1238,6 +1246,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Tutorial de introducción a OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232434Z" creationid="la_justyna" creationdate="20210331T232434Z">
+        <seg>Tutorial wprowadzający do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Tutoriales</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230048Z" creationid="la_justyna" creationdate="20210331T230048Z">
@@ -1342,10 +1358,26 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Vídeo de introducción a OmegaT en inglés, de John Moran.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232500Z" creationid="la_justyna" creationdate="20210331T232500Z">
+        <seg>Film wprowadzający do OmegaT w języku angielskim autorstwa Johna Morana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Vídeos de formación</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232229Z" creationid="la_justyna" creationdate="20210331T232229Z">
         <seg>Filmy szkoleniowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Vídeos sobre OmegaT en el canal de YouTube Qabiria.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232409Z" creationid="la_justyna" creationdate="20210331T232409Z">
+        <seg>Film dotyczący OmegaT na kanale Youtube Qabiria.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1372,6 +1404,15 @@ http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231108Z" creationid="la_justyna" creationdate="20210331T231108Z">
         <seg>
 http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232246Z" creationid="la_justyna" creationdate="20210331T232246Z">
+        <seg>
+http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
       </tuv>
     </tu>
     <tu>
