@@ -192,8 +192,8 @@
       <tuv lang="es">
         <seg>Cuando un usuario ha formulado un cambio o mejora a OmegaT, hay un procedimiento definido para enviarlo para consideración del equipo de desarrollo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160701Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
-        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów zgodnie z określoną procedurą. </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161842Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
+        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów za pomocą określonego narzędzia. </seg>
       </tuv>
     </tu>
     <tu>
@@ -272,8 +272,8 @@
       <tuv lang="es">
         <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161628Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
-        <seg>Procedura nosi nazwę &lt;a0&gt;RFE (od angielskiego „Request for Feature Enhancement”) i jest dostępna tutaj&lt;/a0&gt;.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161907Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
+        <seg>Narzędzie nosi nazwę &lt;a0&gt;RFE (od angielskiego „Request for Feature Enhancement”) i jest dostępne tutaj&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -750,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Sin embargo, enviar una RFE no significa que la funcionalidad o mejora deseada será implementada automáticamente.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162035Z" creationid="Anna Wolska" creationdate="20210331T162035Z">
+        <seg>Jednak przesłanie sugestii przez RFE nie oznacza, że pożądana funkcja lub ulepszenie automatycznie zostaną wdrożone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Sistema de seguimiento</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235725Z" creationid="la_justyna" creationdate="20210330T235725Z">
@@ -810,6 +818,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171723Z" creationid="Justita" creationdate="20210317T171702Z">
         <seg>Wymaga zainstalowania bibliotek tcl/tk i Abiword oraz narzędzia pdftotext.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162250Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
+        <seg>Przyjęcie propozycji zależy przede wszystkim od tego, czy zespół programistów uzna ją za korzystną dla programu OmegaT, a także od dostępności współtwórcy, który mógłby wprowadzić dane rozwiązanie.</seg>
       </tuv>
     </tu>
     <tu>
