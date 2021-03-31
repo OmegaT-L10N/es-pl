@@ -6,6 +6,54 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
+        <seg>Administración</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000423Z" creationid="la_justyna" creationdate="20210331T000423Z">
+        <seg>Administracja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Administrador de documentación</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233847Z" creationid="la_justyna" creationdate="20210330T233847Z">
+        <seg>Administrator dokumentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Administrador de integración</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233809Z" creationid="la_justyna" creationdate="20210330T233809Z">
+        <seg>Administrator integracji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Administrador de localización, administrador del grupo de usuarios</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233929Z" creationid="la_justyna" creationdate="20210330T233929Z">
+        <seg>Administrator lokalizacji i uzytkowników</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Administrador de proyecto</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233520Z" creationid="la_justyna" creationdate="20210330T233520Z">
+        <seg>Administrator projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Administrador web</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233828Z" creationid="la_justyna" creationdate="20210330T233828Z">
+        <seg>Administrator sieci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Agregar términos a un glosario mientras traduce en OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131252Z" creationid="Justita" creationdate="20210330T131252Z">
@@ -30,10 +78,18 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Autor original de la aplicación OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233459Z" creationid="la_justyna" creationdate="20210330T233459Z">
+        <seg>Autor wersji oryginalnej programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Autores del contenido del sitio web</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134225Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134225Z">
-        <seg>Autores del contenido del sitio web</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232818Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134225Z">
+        <seg>Autorzy strony</seg>
       </tuv>
     </tu>
     <tu>
@@ -66,6 +122,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143647Z" creationid="Justita" creationdate="20210324T143647Z">
         <seg>Składa się z przykładowego podręcznika dla słuchaczy, instrukcji dla osób prowadzących szkolenie oraz przykładowych zasobów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Contactar al &lt;a0&gt;administrador del proyecto OmegaT&lt;/a0&gt; sobre cualquier tema no descrito aquí.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000651Z" creationid="la_justyna" creationdate="20210331T000651Z">
+        <seg>Kontakt z&lt;a0&gt;administratorem projektu OmegaT&lt;/a0&gt;w innych kwestiach.</seg>
       </tuv>
     </tu>
     <tu>
@@ -134,10 +198,34 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Desarrollador jefe</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233628Z" creationid="la_justyna" creationdate="20210330T233628Z">
+        <seg>Lider</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Desarrolladores</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234015Z" creationid="la_justyna" creationdate="20210330T234015Z">
+        <seg>Producenci</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Descripciones y enlaces de los scripts y procedimientos de Samuel Murray.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T130858Z" creationid="Justita" creationdate="20210330T130858Z">
         <seg>Opisy i linki skryptów i procedur autorstwa Samuela Murray'a.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Desde su origen, el proyecto ha recibido el apoyo de docenas de otros colaboradores, demasiados para mencionarlos aquí, pero cuya ayuda agradecemos encarecidamente.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234353Z" creationid="la_justyna" creationdate="20210330T234323Z">
+        <seg>Od początku powstania projekt spotkał się z uznaniem wielu partnerów, którym jesteśmy bardzo wdzięczni.</seg>
       </tuv>
     </tu>
     <tu>
@@ -152,8 +240,32 @@
       <tuv lang="es">
         <seg>Disculpe</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210311T192155Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210311T192155Z">
-        <seg>Disculpe</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232607Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210311T192155Z">
+        <seg>Przepraszamy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Diseño del sitio web</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232946Z" creationid="la_justyna" creationdate="20210330T232946Z">
+        <seg>Projekt strony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>El proyecto OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233149Z" creationid="la_justyna" creationdate="20210330T233149Z">
+        <seg>Projekt OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>El proyecto OmegaT es mantenido por un grupo informal e internacional de voluntarios.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233229Z" creationid="la_justyna" creationdate="20210330T233229Z">
+        <seg>Projektem OmegaT kieruje międzynarodowa grupa wolontariuszy</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +286,34 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Esta lista de distribución de correo es para los localizadores de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235718Z" creationid="la_justyna" creationdate="20210330T235718Z">
+        <seg>Ta lista dystrybucji poczty e-mail przeznaczona jest dla osób lokalizujących OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Esta lista es para discutir aspectos técnicos de las funciones y el desarrollo y está pensada para los desarrolladores de OmegaT y otros interesados.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235614Z" creationid="la_justyna" creationdate="20210330T235614Z">
+        <seg>Tutaj omawiane są aspekty techniczne funkcji programu i rozwój. Lista została stworzona z myślą o producentach i innych osobach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Esta recopilación de scripts puede resultar de utilidad a los programadores de scripts que tengan conocimientos de tcl/tk.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184239Z" creationid="Justita" creationdate="20210314T184239Z">
         <seg>Ten zbiór skryptów może przydać się osobom programistom posiadającym znajomość tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Este es el &lt;a0&gt;canal de soporte recomendado&lt;/a0&gt; al que invitamos a los usuarios a suscribirse.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234911Z" creationid="la_justyna" creationdate="20210330T234911Z">
+        <seg>Zapraszamy do&lt;a0&gt;subskrypcji w celu&lt;/a0&gt;wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -198,10 +334,18 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Grupo de Facebook</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000353Z" creationid="la_justyna" creationdate="20210331T000353Z">
+        <seg>Grupa na Facebook</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de usuarios</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T134227Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134227Z">
-        <seg>Grupo de usuarios</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234604Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T134227Z">
+        <seg>Grupa użytkowników</seg>
       </tuv>
     </tu>
     <tu>
@@ -254,6 +398,30 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La filosofía del proyecto está descrita &lt;a0&gt;aquí&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234528Z" creationid="la_justyna" creationdate="20210330T234157Z">
+        <seg>Więcej na temat idei&lt;a0&gt;projektu znajdziesz tutaj&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La lista de los desarrolladores de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235430Z" creationid="la_justyna" creationdate="20210330T235430Z">
+        <seg>Lista producentów OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Listas de distribución de correo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235120Z" creationid="la_justyna" creationdate="20210330T234950Z">
+        <seg>Listy dystrybucyjne poczty e-mail</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los archivos de este sitio, en un cómodo paquete para aquellos que deseen localizarlo.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152742Z" creationid="Justita" creationdate="20210324T152543Z">
@@ -262,10 +430,42 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los errores, las solicitudes de funcionalidad y la documentación se manejan en los sistemas de seguimiento de Sourceforge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235908Z" creationid="la_justyna" creationdate="20210330T235908Z">
+        <seg>Błędy, zapytania o funkcje i dokumentacja zarządzane są w systemach monitorowania Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los scripts y procedimientos están disponibles para permitirle hacer lo siguiente:</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131047Z" creationid="Justita" creationdate="20210330T131047Z">
         <seg>Dzięki tym skryptom i procedurom możliwe są następujące operacje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Ls miembros principales del proyecto son:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233436Z" creationid="la_justyna" creationdate="20210330T233436Z">
+        <seg>Główni członkowie projektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>No pudimos encontrar la página que busca.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232626Z" creationid="la_justyna" creationdate="20210330T232626Z">
+        <seg>Podana strona nie istnieje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>No se recomienda usar estos sistemas antes de haber hecho la pregunta en el grupo de usuarios o en las listas de distribución de correo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000034Z" creationid="la_justyna" creationdate="20210331T000034Z">
+        <seg>Zanim użyjesz systemu, poszukaj pomocy na grupie użytkowników lub na listach dystrybucji poczty e-mail.</seg>
       </tuv>
     </tu>
     <tu>
@@ -282,6 +482,30 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102414Z" creationid="Anna Wolska" creationdate="20210315T102414Z">
         <seg>OmegaT jest oprogramowaniem i projektem typu „open source”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT también tiene las siguientes listas de distribución de correo y sistemas de seguimiento alojados en Sourceforge:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235351Z" creationid="la_justyna" creationdate="20210330T235041Z">
+        <seg>Omega T posiada listy dystrybucyjne poczty e-mail ii systemy monitorowania hostowane w Sourceforge </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT tiene presencia en distintas redes sociales.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000337Z" creationid="la_justyna" creationdate="20210331T000337Z">
+        <seg>OmegaT znajdziesz w mediach społecznościowych.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT tiene un grupo de usuarios muy activo, colaborativo y multilinguüe.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234721Z" creationid="la_justyna" creationdate="20210330T234721Z">
+        <seg>Użytkownicy OmegaT to osoby aktywne, współpracujące i wielojęzyczne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +542,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Puede ir a la &lt;a0&gt;página principal&lt;/a0&gt; y debería encontrar la información que necesita desde ahí.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232744Z" creationid="la_justyna" creationdate="20210330T232653Z">
+        <seg>Wszelkie informacje&lt;a0&gt;znajdują się&lt;/a0&gt;na stronie głównej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Recursos de localización</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152255Z" creationid="Justita" creationdate="20210324T144227Z">
@@ -330,6 +562,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T142440Z" creationid="Justita" creationdate="20210324T142440Z">
         <seg>Inne zasoby</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Redes sociales</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000258Z" creationid="la_justyna" creationdate="20210331T000258Z">
+        <seg>Media społecznościowe</seg>
       </tuv>
     </tu>
     <tu>
@@ -422,6 +662,38 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Sistema de seguimiento</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235725Z" creationid="la_justyna" creationdate="20210330T235725Z">
+        <seg>System monitorowania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sistema de seguimiento de documentación</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000230Z" creationid="la_justyna" creationdate="20210331T000230Z">
+        <seg>System monitorowania dokumentacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sistema de seguimiento de problemas/errores</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000103Z" creationid="la_justyna" creationdate="20210331T000103Z">
+        <seg>System monitorowania usterek/błędów</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sistema de seguimiento de solicitudes de funcionalidad</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000205Z" creationid="la_justyna" creationdate="20210331T000205Z">
+        <seg>System monitorowania zapytań o funkcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Software de terceros</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152805Z" creationid="Justita" creationdate="20210324T152805Z">
@@ -454,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Su objetivo es desarrollar, distribuir y dar soporte al uso de OmegaT, un programa de memorias de traducción de código abierto.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233421Z" creationid="la_justyna" creationdate="20210330T233421Z">
+        <seg>Celem projektu jest rozwój i pomoc w użytkowaniu OmegaT, programu pamięci tłumaczeniowych w wolnym dostępie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Textos de muestra</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143908Z" creationid="Justita" creationdate="20210324T143908Z">
@@ -482,6 +762,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184947Z" creationid="Justita" creationdate="20210314T184947Z">
         <seg>Toxic dla systemu Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Traducciones de la versión en inglés</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233041Z" creationid="la_justyna" creationdate="20210330T233041Z">
+        <seg>Tłumaczenia wersji angielskiej</seg>
       </tuv>
     </tu>
     <tu>
@@ -550,10 +838,27 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{% endfor %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233131Z" creationid="la_justyna" creationdate="20210330T233131Z">
+        <seg>
+{% endfor %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190235Z" creationid="Justita" creationdate="20210314T190235Z">
         <seg>&gt;{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.links.support }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
+        <seg>{{ site.data.links.support }</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
