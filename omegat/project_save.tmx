@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>De Sheila Gomes (en portugués brasileño).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230704Z" creationid="la_justyna" creationdate="20210331T230704Z">
+        <seg>Autorstwa Sheily Gomes (w języku portugalskim, odmiana brazylijska).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>De Susan Welsh (formato PDF).</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230343Z" creationid="la_justyna" creationdate="20210331T230343Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230224Z" creationid="la_justyna" creationdate="20210331T230224Z">
         <seg>Autorstwa Susan Welsh (format Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>De Vladimir Zhdanov (en ruso).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230507Z" creationid="la_justyna" creationdate="20210331T230430Z">
+        <seg>Autorstwa Vladimira Zhdanova (w języku rosyjskim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -838,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Recursos do OmegaT: primeiros passos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230557Z" creationid="la_justyna" creationdate="20210331T230557Z">
+        <seg>Zasoby OmegaT: pierwsze kroki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Recursos variados</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T142440Z" creationid="Justita" creationdate="20210324T142440Z">
@@ -1268,6 +1292,15 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
         <seg>{{ site.data.links.support }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>В помощь переводчику: 10 советов по OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230401Z" creationid="la_justyna" creationdate="20210331T230401Z">
+        <seg>
+В помощь переводчику: 10 советов по OmegaT</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
