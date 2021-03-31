@@ -406,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La discusión técnica detallada sobre los cambios es mejor llevarla directamente a los desarrolladores de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155933Z" creationid="Anna Wolska" creationdate="20210331T155933Z">
+        <seg>Techniczne szczegóły dotyczące zmian lepiej kierować bezpośrednio do współtwórców OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La filosofía de código abierto</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T152801Z" creationid="Anna Wolska" creationdate="20210315T102047Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153428Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
         <seg>Dodatki do OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para esto, hay una &lt;a0&gt;lista de distribución de correo para desarrolladores&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160152Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
+        <seg>Do tego celu służy lista mailingowa współtwórców.</seg>
       </tuv>
     </tu>
     <tu>
