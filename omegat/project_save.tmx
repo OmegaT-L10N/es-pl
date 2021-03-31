@@ -774,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Script de línea de comandos de Java para combinar dos o más archivos TMX.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191715Z" creationid="Anna Wolska" creationdate="20210331T191715Z">
+        <seg>Skrypt Java wykonywany z linii poleceń, który łączy dwa lub więcej plików TMX.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento meta o en las que el segmento meta es igual que el segmento origen.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T183646Z" creationid="Justita" creationdate="20210314T183646Z">
