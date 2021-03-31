@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Escrita en Python.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191031Z" creationid="Anna Wolska" creationdate="20210331T191031Z">
+        <seg>Narzędzie napisane w języku Python.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Esta lista de distribución de correo es para los localizadores de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235718Z" creationid="la_justyna" creationdate="20210330T235718Z">
