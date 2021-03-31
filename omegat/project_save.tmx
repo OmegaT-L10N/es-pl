@@ -870,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Procedimiento de uso de OmegaT para localizar los archivos XLIFF exportados de Wordpress.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231402Z" creationid="la_justyna" creationdate="20210331T231402Z">
+        <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji plików XLIFF eksportowanych z programu Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Proporciona filtros para usar más formatos de archivo, incluido el TTX de Trados.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165144Z" creationid="Anna Wolska" creationdate="20210331T165144Z">
@@ -1198,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Traducción con Rainbow y OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231426Z" creationid="la_justyna" creationdate="20210331T231426Z">
+        <seg>Tłumaczenie z Rainbow i OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Traducción de NetBeans IDE</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231019Z" creationid="la_justyna" creationdate="20210331T231019Z">
@@ -1234,6 +1250,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155236Z" creationid="Anna Wolska" creationdate="20210331T155236Z">
         <seg>Warto to robić między innymi dlatego, że pożądana funkcja mogła już zostać wprowadzona albo istnieją powody, dla których nie można jej wdrożyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Una guía paso a paso sobre cómo usar las utilidades de extracción y combinación de texto desde Rainbow para procesar antes y después los archivos a traducir con OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231710Z" creationid="la_justyna" creationdate="20210331T231710Z">
+        <seg>Instrukcja użytkowania narzędzi ekstrakcji i dopasowania tekstu w Rainbow w celu obróbki plików do tłumaczenia w OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
