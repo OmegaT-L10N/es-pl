@@ -566,6 +566,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Puede haber también funciones o soluciones alternativas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155350Z" creationid="Anna Wolska" creationdate="20210331T155350Z">
+        <seg>Mogą być też dostępne alternatywne funkcje lub rozwiązania.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Puede ir a la &lt;a0&gt;página principal&lt;/a0&gt; y debería encontrar la información que necesita desde ahí.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T232744Z" creationid="la_justyna" creationdate="20210330T232653Z">
