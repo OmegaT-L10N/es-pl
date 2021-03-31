@@ -478,6 +478,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Estas utilidades permiten el uso de OmegaT para traducir formatos de archivos para los que los filtros de conversión a XLIFF están disponibles.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232117Z" creationid="la_justyna" creationdate="20210331T232117Z">
+        <seg>Te narzędzia pozwalają na wykorzystanie OmegaT w celu tłumaczenia formatów plików i aby  filtry konwersji do XLIFF były dostępne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Este es el &lt;a0&gt;canal de soporte recomendado&lt;/a0&gt; al que invitamos a los usuarios a suscribirse.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T234911Z" creationid="la_justyna" creationdate="20210330T234911Z">
