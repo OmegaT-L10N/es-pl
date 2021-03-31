@@ -328,8 +328,8 @@
       <tuv lang="es">
         <seg>Este es el foco principal de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154410Z" creationid="Anna Wolska" creationdate="20210331T154410Z">
-        <seg>To głównie na niej skupia się uwaga społeczności użytkowników OmegaT.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154610Z" creationid="Anna Wolska" creationdate="20210331T154410Z">
+        <seg>Jest to główny trzon społeczności użytkowników OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -664,8 +664,8 @@
       <tuv lang="es">
         <seg>Se invita a los usuarios nuevos de OmegaT a hacer ahí sus sugerencias.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154539Z" creationid="Anna Wolska" creationdate="20210331T154539Z">
-        <seg>Nowi użytkownicy programu są zachęcani do przedstawiania tam swoich sugestii.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154708Z" creationid="Anna Wolska" creationdate="20210331T154539Z">
+        <seg>Nowi użytkownicy programu są zachęcani do zamieszczania tam swoich sugestii.</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +810,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153637Z" creationid="Justita" creationdate="20210324T153637Z">
         <seg>Kompletny zestaw narzędzi słuzących do przygotowania plików do przetłumaczenia z uzyciem narzędzi CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Un motivo es que la funcionalidad deseada puede haber sido ya implementada o que haya razones por las que no se puede implementar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155236Z" creationid="Anna Wolska" creationdate="20210331T155236Z">
+        <seg>Warto to robić między innymi dlatego, że pożądana funkcja mogła już zostać wprowadzona albo istnieją powody, dla których nie można jej wdrożyć.</seg>
       </tuv>
     </tu>
     <tu>
