@@ -136,24 +136,24 @@
       <tuv lang="es">
         <seg>Complemento Apertium</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165153Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
-        <seg>Rozszerzenie Apertium</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190632Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
+        <seg>Dodatek Apertium</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es">
         <seg>Complemento de filtros de Okapi</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164827Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
-        <seg>Rozszerzenie filtrujące Okapi</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190643Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
+        <seg>Dodatek filtrujący Okapi</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es">
         <seg>Complementos</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164701Z" creationid="Anna Wolska" creationdate="20210331T164613Z">
-        <seg>Rozszerzenia</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190611Z" creationid="Anna Wolska" creationdate="20210331T164613Z">
+        <seg>Narzędzia dodatkowe</seg>
       </tuv>
     </tu>
     <tu>
