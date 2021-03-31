@@ -512,8 +512,8 @@
       <tuv lang="es">
         <seg>Otros recursos de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210312T135434Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
-        <seg>Otros recursos de OmegaT</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153428Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
+        <seg>Dodatki do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -990,8 +990,8 @@
       <tuv lang="es">
         <seg>La manera de hacerlo depende enteramente de ellos.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T170347Z" creationid="Anna Wolska" creationdate="20210317T170347Z">
-        <seg>Tylko od nich zależy, w jaki sposób to zrobią.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153210Z" creationid="Anna Wolska" creationdate="20210317T170347Z">
+        <seg>Tylko od nich zależy, w jaki sposób się zaangażują.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1001,8 +1001,8 @@
       <tuv lang="es">
         <seg>Los usuarios tienen la libertad de descargar y usar el programa.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T165658Z" creationid="Anna Wolska" creationdate="20210317T165658Z">
-        <seg>Użytkownicy mogą swobodnie pobierać program i korzystać z niego.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153142Z" creationid="Anna Wolska" creationdate="20210317T165658Z">
+        <seg>Użytkownicy mogą swobodnie pobierać program i z niego korzystać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1045,8 +1045,8 @@
       <tuv lang="es">
         <seg>Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T172942Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
-        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153240Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
+        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli dany materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
       </tuv>
     </tu>
     <tu>
