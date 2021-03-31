@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>De manera predeterminada, se muestra una Guía de inicio rápido en la interfaz de usuario de OmegaT que le guía a través de los procedimientos y funciones principales de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225524Z" creationid="la_justyna" creationdate="20210331T225524Z">
+        <seg>Domyślnie użytkownik zobaczy Skróconą instrukcję obsługi widoczną w interfejsie użytkownika programu, która opisuje postępowanie i podstawowe funkcje OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Desarrollador jefe</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233628Z" creationid="la_justyna" creationdate="20210330T233628Z">
