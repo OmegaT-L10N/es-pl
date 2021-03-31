@@ -272,8 +272,8 @@
       <tuv lang="es">
         <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161501Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
-        <seg>Procedura nosi nazwę RFE (od angielskiego „Request for Feature Enhancement”) i jest dostępna tutaj</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161628Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
+        <seg>Procedura nosi nazwę &lt;a0&gt;RFE (od angielskiego „Request for Feature Enhancement”) i jest dostępna tutaj&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -576,8 +576,8 @@
       <tuv lang="es">
         <seg>Para esto, hay una &lt;a0&gt;lista de distribución de correo para desarrolladores&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160152Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
-        <seg>Do tego celu służy lista mailingowa współtwórców.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161528Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
+        <seg>Do tego celu służy &lt;a0&gt;lista mailingowa współtwórców&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -706,6 +706,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171837Z" creationid="Justita" creationdate="20210317T171837Z">
         <seg>Narzędzie testowane w systemie Linux..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Se han hecho cientos de RFE y muchas ya están implementadas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161734Z" creationid="Anna Wolska" creationdate="20210331T161734Z">
+        <seg>Za pośrednictwem RFE zaproponowano setki rozwiązań, z których wiele już zostało wprowadzonych.</seg>
       </tuv>
     </tu>
     <tu>
