@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Documentación externa</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230730Z" creationid="la_justyna" creationdate="20210331T230730Z">
+        <seg>Dokumentacja zewnętrzna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161907Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171815Z" creationid="Justita" creationdate="20210314T185501Z">
         <seg>Niezależna od platformy; wymagane jest zinstalowanie biblioteki tcl/tk.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Información sobre los procedimientos y funciones de OmegaT para usuarios avanzados que pueden encontrarse en otros sitios web.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230929Z" creationid="la_justyna" creationdate="20210331T230929Z">
+        <seg>Informacje dotyczące postępowania i funkcji OmegaT dla zaawansowanych użytkowników, ktore można znaleźć na innych stronach internetowych.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1258,6 +1274,15 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
         <seg>np., kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230942Z" creationid="la_justyna" creationdate="20210331T230942Z">
+        <seg>
+https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
       </tuv>
     </tu>
     <tu>
