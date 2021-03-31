@@ -606,6 +606,38 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Manual de usuario de OmegaT en formato PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225841Z" creationid="la_justyna" creationdate="20210331T225841Z">
+        <seg>Instrukcja obsługi OmegaT w formacie PDF ({{ site.data.versions.standard.name }}).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Manual de usuario en HTML de la versión estándar de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225954Z" creationid="la_justyna" creationdate="20210331T225954Z">
+        <seg>Instrukcja obsługi w formacie HTML wersji standardowej programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Manual de usuario en línea</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225807Z" creationid="la_justyna" creationdate="20210331T225807Z">
+        <seg>Instrukcja obsługi online</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Manual de usuario en línea en HTML</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T225911Z" creationid="la_justyna" creationdate="20210331T225911Z">
+        <seg>Instrukcja obsługi online w formacie HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Manuales de usuario</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T224948Z" creationid="la_justyna" creationdate="20210331T224948Z">
@@ -1066,6 +1098,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233041Z" creationid="la_justyna" creationdate="20210330T233041Z">
         <seg>Tłumaczenia wersji angielskiej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Tutoriales</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230048Z" creationid="la_justyna" creationdate="20210331T230048Z">
+        <seg>Tutoriale</seg>
       </tuv>
     </tu>
     <tu>
