@@ -280,8 +280,8 @@
       <tuv lang="es">
         <seg>En primer lugar está el &lt;a0&gt;grupo de usuarios de OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154128Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
-        <seg>Przede wszystkim </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154230Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
+        <seg>Przede wszystkim mają do dyspozycji grupę dyskusyjną.</seg>
       </tuv>
     </tu>
     <tu>
@@ -322,6 +322,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T234911Z" creationid="la_justyna" creationdate="20210330T234911Z">
         <seg>Zapraszamy do&lt;a0&gt;subskrypcji w celu&lt;/a0&gt;wsparcia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Este es el foco principal de la comunidad de usuarios de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154410Z" creationid="Anna Wolska" creationdate="20210331T154410Z">
+        <seg>To głównie na niej skupia się uwaga społeczności użytkowników OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -650,6 +658,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210317T171837Z" creationid="Justita" creationdate="20210317T171837Z">
         <seg>Narzędzie testowane w systemie Linux..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Se invita a los usuarios nuevos de OmegaT a hacer ahí sus sugerencias.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154539Z" creationid="Anna Wolska" creationdate="20210331T154539Z">
+        <seg>Nowi użytkownicy programu są zachęcani do przedstawiania tam swoich sugestii.</seg>
       </tuv>
     </tu>
     <tu>
