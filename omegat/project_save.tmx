@@ -16,8 +16,8 @@
       <tuv lang="es">
         <seg>Acceso rápido a sitios web Soporte de sitio web puede ser escrito en Groovy&lt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165716Z" creationid="Anna Wolska" creationdate="20210331T165716Z">
-        <seg>Szybki dostęp do witryn internetowych. Skrypt strony może być napisany językiem Groovy.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165728Z" creationid="Anna Wolska" creationdate="20210331T165716Z">
+        <seg>Szybki dostęp do witryn internetowych. Skrypt strony może być w języku Groovy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -458,6 +458,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143700Z" creationid="Justita" creationdate="20210324T143700Z">
         <seg>Ikony</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Importante: los complementos mencionados funcionan con la versión 4 de OmegaT y superiores.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165919Z" creationid="Anna Wolska" creationdate="20210331T165919Z">
+        <seg>Uwaga: wymienione rozszerzenia działają w 4. i nowszych wersjach OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
