@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161501Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
+        <seg>Procedura nosi nazwę RFE (od angielskiego „Request for Feature Enhancement”) i jest dostępna tutaj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>El proyecto OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233149Z" creationid="la_justyna" creationdate="20210330T233149Z">
