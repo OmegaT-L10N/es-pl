@@ -1342,6 +1342,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Vídeos de formación</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232229Z" creationid="la_justyna" creationdate="20210331T232229Z">
+        <seg>Filmy szkoleniowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>ej., código fuente) para traducirlo en OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
