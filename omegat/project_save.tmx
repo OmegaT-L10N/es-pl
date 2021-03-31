@@ -1014,6 +1014,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Utilidades</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165929Z" creationid="Anna Wolska" creationdate="20210331T165929Z">
+        <seg>Narzędzia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Versiones en scripts de Toxic.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T185258Z" creationid="Justita" creationdate="20210314T185258Z">
