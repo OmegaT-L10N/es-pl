@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Contactar al &lt;a3&gt;administrador web&lt;/a3&gt; sobre cualquier tema relacionado específicamente con el sitio web.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224806Z" creationid="la_justyna" creationdate="20210331T224806Z">
+        <seg>Kontakt z&lt;a3&gt;administratorem sieci&lt;/a3&gt;w kwestiach związanych ze stroną internetową. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Contribución de Didier Briel.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191505Z" creationid="Anna Wolska" creationdate="20210331T191505Z">
