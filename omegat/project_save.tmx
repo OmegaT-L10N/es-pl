@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>De Susan Welsh (formato PDF).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230343Z" creationid="la_justyna" creationdate="20210331T230343Z">
+        <seg>Autorstwa Susan Welsh (format PDF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>De Susan Welsh (formato de Open Document).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230224Z" creationid="la_justyna" creationdate="20210331T230224Z">
+        <seg>Autorstwa Susan Welsh (format Open Document).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>De manera predeterminada, se muestra una Guía de inicio rápido en la interfaz de usuario de OmegaT que le guía a través de los procedimientos y funciones principales de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T225524Z" creationid="la_justyna" creationdate="20210331T225524Z">
@@ -594,6 +610,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131047Z" creationid="Justita" creationdate="20210330T131047Z">
         <seg>Dzięki tym skryptom i procedurom możliwe są następujące operacje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los siguientes tutoriales están disponibles en línea/para su descarga:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230120Z" creationid="la_justyna" creationdate="20210331T230120Z">
+        <seg>Poniższe tutoriale dostępne są online/do pobrania:</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Tutorial de OmegaT para principiantes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230155Z" creationid="la_justyna" creationdate="20210331T230155Z">
+        <seg>Tutorial OmegaT dla początkujących</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Tutoriales</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230048Z" creationid="la_justyna" creationdate="20210331T230048Z">
@@ -1211,6 +1243,15 @@
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233131Z" creationid="la_justyna" creationdate="20210330T233131Z">
         <seg>
 {% endfor %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.odt' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T230129Z" creationid="la_justyna" creationdate="20210331T230129Z">
+        <seg>
+{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.odt' | prepend: site.baseurl_root }}</seg>
       </tuv>
     </tu>
     <tu>
