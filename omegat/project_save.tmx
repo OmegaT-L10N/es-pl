@@ -126,10 +126,18 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Complemento de filtros de Okapi</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164827Z" creationid="Anna Wolska" creationdate="20210331T164827Z">
+        <seg>Rozszerzenie filtrujące Okapi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Complementos</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164613Z" creationid="Anna Wolska" creationdate="20210331T164613Z">
-        <seg>Dodatki</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164701Z" creationid="Anna Wolska" creationdate="20210331T164613Z">
+        <seg>Rozszerzenia</seg>
       </tuv>
     </tu>
     <tu>
@@ -592,8 +600,8 @@
       <tuv lang="es">
         <seg>Otros recursos de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164606Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
-        <seg>Inne zasoby do pracy w OmegaT</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164657Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
+        <seg>Dodatki do OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +634,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153904Z" creationid="Justita" creationdate="20210324T153904Z">
         <seg>Umożliwia tłumaczenie plików o różnych formatach niobsługiwanych bezpośrednio przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Proporciona filtros para usar más formatos de archivo, incluido el TTX de Trados.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165144Z" creationid="Anna Wolska" creationdate="20210331T165144Z">
+        <seg>Zawiera filtry umożliwiające obsługę plików w większej liczbie formatów, włącznie z TTX z Tradosa.</seg>
       </tuv>
     </tu>
     <tu>
