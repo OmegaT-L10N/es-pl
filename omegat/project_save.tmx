@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Así se pueden administrar muchas sugerencias con más facilidad.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161223Z" creationid="Anna Wolska" creationdate="20210331T161223Z">
+        <seg>Dzięki temu łatwiej jest zająć się dużą liczbą propozycji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Autor original de la aplicación OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233459Z" creationid="la_justyna" creationdate="20210330T233459Z">
@@ -184,8 +192,8 @@
       <tuv lang="es">
         <seg>Cuando un usuario ha formulado un cambio o mejora a OmegaT, hay un procedimiento definido para enviarlo para consideración del equipo de desarrollo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160617Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
-        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów według ściśle określonej procedury. </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160701Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
+        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów zgodnie z określoną procedurą. </seg>
       </tuv>
     </tu>
     <tu>
