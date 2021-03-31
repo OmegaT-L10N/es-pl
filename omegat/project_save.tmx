@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>También es posible hacer encargos a desarrolladores externos para su implementación en OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163851Z" creationid="Anna Wolska" creationdate="20210331T163851Z">
+        <seg>Można również zlecać zewnętrznym programistom realizację rozwiązań, które zostaną wprowadzone do OmegaT. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Textos de muestra</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143908Z" creationid="Justita" creationdate="20210324T143908Z">
