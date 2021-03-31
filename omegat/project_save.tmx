@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>De la serie de vídeos de YouTube sobre OmegaT de Miguel Navarro (en español).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232634Z" creationid="la_justyna" creationdate="20210331T232634Z">
+        <seg>Seria filmów na kanale Youtube dotyczących OmegaT autorstwa Miguela Navarro (w języku hiszpańskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>De manera predeterminada, se muestra una Guía de inicio rápido en la interfaz de usuario de OmegaT que le guía a través de los procedimientos y funciones principales de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T225524Z" creationid="la_justyna" creationdate="20210331T225524Z">
@@ -1354,6 +1362,30 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T185211Z" creationid="Justita" creationdate="20210314T185107Z">
         <seg>Toxic w wersji dla systemu Windows.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Vídeo 1</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232543Z" creationid="la_justyna" creationdate="20210331T232543Z">
+        <seg>Film 1</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Vídeo 2</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232725Z" creationid="la_justyna" creationdate="20210331T232725Z">
+        <seg>Film 2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Vídeo 3</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232749Z" creationid="la_justyna" creationdate="20210331T232749Z">
+        <seg>Film 3</seg>
       </tuv>
     </tu>
     <tu>
