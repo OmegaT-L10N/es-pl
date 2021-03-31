@@ -3,3 +3,5 @@ código fuente	kod źródłowy
 grupo de usuarios	grupa dyskusyjna
 lista de distribución de correo	lista mailingowa
 complemento de filtros	rozszerzenie filtrujące
+Plugin	wtyczka
+navegador web	przeglądarka internetowa
