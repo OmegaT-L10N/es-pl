@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Complementos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164613Z" creationid="Anna Wolska" creationdate="20210331T164613Z">
+        <seg>Dodatki</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Comprobar la ortografía (varios procedimientos)</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131541Z" creationid="Justita" creationdate="20210330T131541Z">
@@ -584,8 +592,8 @@
       <tuv lang="es">
         <seg>Otros recursos de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153428Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
-        <seg>Dodatki do OmegaT</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164606Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210312T135434Z">
+        <seg>Inne zasoby do pracy w OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -768,8 +776,8 @@
       <tuv lang="es">
         <seg>Sin embargo, como ocurre con los desarrollos libres, el principio de que cualquier cambio a OmegaT debe beneficiar a la aplicación y a sus usuarios sigue teniendo validez.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164332Z" creationid="Anna Wolska" creationdate="20210331T164038Z">
-        <seg>Jak zawsze w przypadku programowania w wolnym dostępie, obowiązuje zasada, że każda zmiana w OmegaT musi być korzystna dla tego narzędzia, jak i dla jego użytkowników.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T164516Z" creationid="Anna Wolska" creationdate="20210331T164038Z">
+        <seg>Zgodnie z ideą programowania w wolnym dostępie obowiązuje zasada, że każda zmiana w OmegaT musi być korzystna dla tego narzędzia, jak i dla jego użytkowników.</seg>
       </tuv>
     </tu>
     <tu>
