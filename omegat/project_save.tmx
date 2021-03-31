@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>No obstante, hay un gran espacio dentro del proyecto para que los usuarios sugieran mejoras e influyan en el curso del desarrollo futuro.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153945Z" creationid="Anna Wolska" creationdate="20210331T153945Z">
+        <seg>Jednak użytkownicy mają dużą przestrzeń do proponowania lepszych rozwiązań i wpływania na kierunek przyszłego rozwoju projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>No pudimos encontrar la página que busca.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T232626Z" creationid="la_justyna" creationdate="20210330T232626Z">
