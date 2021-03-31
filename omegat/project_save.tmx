@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Para solicitudes de soporte, usar el &lt;a1&gt;canal de soporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224637Z" creationid="la_justyna" creationdate="20210331T224637Z">
+        <seg>W celu uzyskania pomocy lub użycia&lt;a1&gt;odpowiedniego kanału wsparcia&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Para testear y mostrar el funcionamiento de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T144036Z" creationid="Justita" creationdate="20210324T144036Z">
