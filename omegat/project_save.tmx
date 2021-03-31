@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funcionalidades.&lt;/a0&gt; Si usted desea financiar el trabajo de implementación de su funcionalidad deseada, contacte al equipo de desarrollo en privado para solicitar una cotización.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163511Z" creationid="Anna Wolska" creationdate="20210331T163511Z">
+        <seg>&lt;a0&gt;Wprowadzono już kilka rozwiązań sponsorowanych.&lt;/a0&gt;Jeśli chciałbyś sfinansować wdrożenie jakiejś funkcji, skontaktuj się prywatnie z zespołem programistów i poproś o wycenę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Administración</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000423Z" creationid="la_justyna" creationdate="20210331T000423Z">
