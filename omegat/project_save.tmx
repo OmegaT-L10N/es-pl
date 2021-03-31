@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Cuando un usuario ha formulado un cambio o mejora a OmegaT, hay un procedimiento definido para enviarlo para consideración del equipo de desarrollo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T160617Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
+        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów według ściśle określonej procedury. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Curso de formación</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T142457Z" creationid="Justita" creationdate="20210324T142457Z">
