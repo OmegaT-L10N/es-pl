@@ -270,6 +270,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Cómo traducir Magento</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231120Z" creationid="la_justyna" creationdate="20210331T231120Z">
+        <seg>Jak tłumaczyć Magneto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Cómo traducir los archivos XLIFF de Wordpress</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231302Z" creationid="la_justyna" creationdate="20210331T231302Z">
+        <seg>Jak tłumaczyć pliki XLIFF programu Wordpress</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>De Sheila Gomes (en portugués brasileño).</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230704Z" creationid="la_justyna" creationdate="20210331T230704Z">
@@ -838,6 +854,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Procedimiento de uso de OmegaT para localizar Magento.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231201Z" creationid="la_justyna" creationdate="20210331T231201Z">
+        <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji Magneto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Procedimiento de uso de OmegaT para localizar NetBeans IDE.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231057Z" creationid="la_justyna" creationdate="20210331T231057Z">
+        <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji NetBeans IDE.. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Proporciona filtros para usar más formatos de archivo, incluido el TTX de Trados.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165144Z" creationid="Anna Wolska" creationdate="20210331T165144Z">
@@ -1166,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Traducción de NetBeans IDE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231019Z" creationid="la_justyna" creationdate="20210331T231019Z">
+        <seg>Tłumaczenie NetBeans IDE </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Tutorial de OmegaT para principiantes</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230155Z" creationid="la_justyna" creationdate="20210331T230155Z">
@@ -1274,6 +1314,24 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
         <seg>np., kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231218Z" creationid="la_justyna" creationdate="20210331T231218Z">
+        <seg>
+http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231108Z" creationid="la_justyna" creationdate="20210331T231108Z">
+        <seg>
+http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
       </tuv>
     </tu>
     <tu>
