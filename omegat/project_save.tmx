@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Introducción a OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T170143Z" creationid="DELL" creationdate="20210403T170143Z">
+        <seg>Wprowadzenie do programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La discusión técnica detallada sobre los cambios es mejor llevarla directamente a los desarrolladores de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155933Z" creationid="Anna Wolska" creationdate="20210331T155933Z">
@@ -848,8 +856,8 @@
       <tuv lang="es">
         <seg>OmegaT &lt;s0&gt;La herramienta TAO gratuita&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210403T164537Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
-        <seg>OmegaT - Bezpłatne narzędzie CAT</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T170116Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
+        <seg>OmegaT - Darmowe narzędzie CAT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232749Z" creationid="la_justyna" creationdate="20210331T232749Z">
         <seg>Film 3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Vídeo de &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T170343Z" creationid="DELL" creationdate="20210403T170343Z">
+        <seg>Wideo autorstwa &lt;a0&gt;CATguruEN&lt;/a0&gt; (Dominique Pivard)</seg>
       </tuv>
     </tu>
     <tu>
