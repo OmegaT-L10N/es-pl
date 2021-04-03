@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los paquetes de código fuente no son necesarios para los usuarios y están pensados solo para desarrolladores.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T163855Z" creationid="DELL" creationdate="20210403T163855Z">
+        <seg>Pakiety z kodem źródłowym są przeznaczone dla deweloperów i nie są potrzebne użytkownikom. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los scripts y procedimientos están disponibles para permitirle hacer lo siguiente:</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131047Z" creationid="Justita" creationdate="20210330T131047Z">
