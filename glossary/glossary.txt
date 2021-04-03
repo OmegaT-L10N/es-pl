@@ -5,3 +5,5 @@ lista de distribución de correo	lista mailingowa
 Plugin	wtyczka
 navegador web	przeglądarka internetowa
 
+desarrollador	deweloper, programista	programista - koncentruje się tylko na programowaniu, nie tworzy nic nowego;
+2. deweloper - programowanie jest tylko częścią jego pracy, dodatkowo tworzy nowe koncepcje, funkcje, etc.
