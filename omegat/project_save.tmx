@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
+        <seg>#get-started</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T165001Z" creationid="DELL" creationdate="20210403T165001Z">
+        <seg>#rozpocznij</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>(En italiano)</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233024Z" creationid="la_justyna" creationdate="20210331T233024Z">
