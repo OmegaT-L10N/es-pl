@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Descargar&lt;/a0&gt; &lt;a1&gt;Introducción&lt;/a1&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T170033Z" creationid="DELL" creationdate="20210403T170033Z">
+        <seg>&lt;a0&gt;Pobieranie&lt;/a0&gt; &lt;a1&gt;Wprowadzenie&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funcionalidades.&lt;/a0&gt; Si usted desea financiar el trabajo de implementación de su funcionalidad deseada, contacte al equipo de desarrollo en privado para solicitar una cotización.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163511Z" creationid="Anna Wolska" creationdate="20210331T163511Z">
