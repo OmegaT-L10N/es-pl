@@ -832,8 +832,8 @@
       <tuv lang="es">
         <seg>OmegaT &lt;s0&gt;La herramienta TAO gratuita&lt;/s0&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T090524Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
-        <seg>OmegaT - La herramienta TAO gratuita</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T164537Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
+        <seg>OmegaT - Bezpłatne narzędzie CAT</seg>
       </tuv>
     </tu>
     <tu>
@@ -1490,6 +1490,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232409Z" creationid="la_justyna" creationdate="20210331T232409Z">
         <seg>Film dotyczący OmegaT na kanale Youtube Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T164743Z" creationid="DELL" creationdate="20210403T164743Z">
+        <seg>pobierz</seg>
       </tuv>
     </tu>
     <tu>
