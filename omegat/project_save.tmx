@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>También se puede conseguir usando el siguiente comando:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T160722Z" creationid="DELL" creationdate="20210403T160722Z">
+        <seg>Moźna ją rówież uzyskać pod następującym linkiem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Textos de muestra</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143908Z" creationid="Justita" creationdate="20210324T143908Z">
