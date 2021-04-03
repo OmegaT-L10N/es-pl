@@ -1118,6 +1118,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Se pueden encontrar en las carpetas de las versiones compiladas correspondientes.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T164418Z" creationid="DELL" creationdate="20210403T164418Z">
+        <seg>Można je znaleźć w folderach właściwych dla skompiowanch wersji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Se recomienda al resto de usuarios usar el &lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt; en su lugar.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
