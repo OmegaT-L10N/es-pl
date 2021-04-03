@@ -678,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Las compilaciones periódicas están disponibles en Sourceforge.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T160818Z" creationid="DELL" creationdate="20210403T160818Z">
+        <seg>Zestawienia okresowe są dostępne w Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Libros</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232800Z" creationid="la_justyna" creationdate="20210331T232800Z">
