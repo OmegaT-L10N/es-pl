@@ -4,4 +4,4 @@ grupo de usuarios	grupa dyskusyjna
 lista de distribución de correo	lista mailingowa
 Plugin	wtyczka
 navegador web	przeglądarka internetowa
-desarrollador	programista,deweloper,koder	programista - profesjonalista, który wie, jak kodować;
+
