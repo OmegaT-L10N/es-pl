@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Información sobre la privacidad: OmegaT Java Web Start no guarda ninguna información en los servidores web de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125827Z" creationid="Natalia Kołosowska" creationdate="20210406T125827Z">
+        <seg>Informacja o ochronie prywatności: OmegaT Java Web Start nie przechowuje żadnych informacji na serwerach OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Información sobre los procedimientos y funciones de OmegaT para usuarios avanzados que pueden encontrarse en otros sitios web.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230929Z" creationid="la_justyna" creationdate="20210331T230929Z">
@@ -914,6 +922,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170143Z" creationid="DELL" creationdate="20210403T170143Z">
         <seg>Wprowadzenie do programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La aplicación se ejecuta en su equipo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125851Z" creationid="Natalia Kołosowska" creationdate="20210406T125851Z">
+        <seg>Aplikacja działa na komputerze użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -978,6 +994,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124412Z" creationid="Agata Borkowska" creationdate="20210406T124219Z">
         <seg>Wersja "Standard" programu OmegaT zawiera pełną instrukcję obsługi (przynajmniej w języku angielskim) i przez pewien czas będzie testowana w celu wyeliminowania błędów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La versión "master" (alfa) refleja el último estado de desarrollo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T130120Z" creationid="Natalia Kołosowska" creationdate="20210406T130120Z">
+        <seg>W wersji "master" (alfa) udostępniono najnowszy etap rozwoju programu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1354,6 +1378,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161528Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
         <seg>Do tego celu służy &lt;a0&gt;lista mailingowa współtwórców&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para instalar la versión Web Start, es necesario que tenga la versión de Java 1.3 o posterior instalada en su equipo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125801Z" creationid="Natalia Kołosowska" creationdate="20210406T125801Z">
+        <seg>Aby zainstalować wersję Web Start, na komputerze musi być zainstalowana Java w wersji 1.3 lub nowszej.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1914,6 +1946,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233421Z" creationid="la_justyna" creationdate="20210330T233421Z">
         <seg>Celem projektu jest rozwój i pomoc w użytkowaniu OmegaT, programu pamięci tłumaczeniowych w wolnym dostępie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sus documentos y memorias de traducción permanecen en su equipo y el proyecto de OmegaT no tendrá acceso a su trabajo ni a su información.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125935Z" creationid="Natalia Kołosowska" creationdate="20210406T125935Z">
+        <seg>Dokumenty i pamięci tłumaczeniowe użytkownika pozostają na jego komputerze, a projekt OmegaT nie ma dostępu do pracy ani informacji użytkownika.</seg>
       </tuv>
     </tu>
     <tu>
