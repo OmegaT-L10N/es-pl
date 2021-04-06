@@ -592,8 +592,8 @@
       <tuv lang="es">
         <seg>El certificado está firmado por &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una organización registrada de Francia.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125425Z" creationid="Natalia Kołosowska" creationdate="20210406T125425Z">
-        <seg>Certyfikat  &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una organización registrada de Francia.</seg>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125633Z" creationid="Natalia Kołosowska" creationdate="20210406T125425Z">
+        <seg>Certyfikat jest podpisany przez organizację  &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, która jest zarejestrowana we Francji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1098,6 +1098,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T163855Z" creationid="DELL" creationdate="20210403T163855Z">
         <seg>Pakiety z kodem źródłowym są przeznaczone dla deweloperów i nie są potrzebne użytkownikom. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los permisos que le dé a esta versión (que se pueden describir como "acceso no restringido al equipo") son idénticos a los permisos que asigne a la versión local, es decir, permiten el acceso al disco duro de su equipo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125742Z" creationid="Natalia Kołosowska" creationdate="20210406T125742Z">
+        <seg>Uprawnienia nadane tej wersji (które można określić jako "nieograniczony dostęp do komputera") są takie same jak uprawnienia nadane wersji lokalnej. Oznacza to, że umożliwiają one dostęp do dysku twardego komputera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2226,6 +2234,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104304Z" creationid="Natalia Kołosowska" creationdate="20210406T104304Z">
         <seg>wersję standardową lub najnowszą), a następnie wybrać wersję, która nie zawiera Javy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125433Z" creationid="Natalia Kołosowska" creationdate="20210406T125433Z">
+        <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
       </tuv>
     </tu>
     <tu>
