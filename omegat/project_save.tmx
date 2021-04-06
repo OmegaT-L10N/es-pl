@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La documentación, sobre todo de las funciones nuevas, será menos completa que la de la versión estándar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100921Z" creationid="Natalia Kołosowska" creationdate="20210406T100921Z">
+        <seg>Dokumentacja, zwłaszcza dotycząca nowych funkcji, jest mniej obszerna niż w przypadku wersji standardowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La filosofía de código abierto</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T152801Z" creationid="Anna Wolska" creationdate="20210315T102047Z">
@@ -722,6 +730,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100629Z" creationid="Natalia Kołosowska" creationdate="20210406T100629Z">
         <seg>Najnowsza wersja wymaga Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La última versión suele ser relativamente estable y usable, pero puede tener algunos errores.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100826Z" creationid="Natalia Kołosowska" creationdate="20210406T100826Z">
+        <seg>Najnowsza wersja jest zazwyczaj stosunkowo stabilna i gotowa do użytku, ale może posiadać pewne błędy..</seg>
       </tuv>
     </tu>
     <tu>
@@ -802,6 +818,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230120Z" creationid="la_justyna" creationdate="20210331T230120Z">
         <seg>Poniższe tutoriale dostępne są online/do pobrania:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los usuarios que ya tienen algo de experiencia con OmegaT suelen preferir la última versión.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100946Z" creationid="Natalia Kołosowska" creationdate="20210406T100946Z">
+        <seg>Użytkownicy, którzy mają już pewne doświadczenie z programem OmegaT, preferują najnowszą wersję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1510,6 +1534,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Versión de desarrollo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T101425Z" creationid="Natalia Kołosowska" creationdate="20210406T101425Z">
+        <seg>Wersja deweloperska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Vídeo 1</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232543Z" creationid="la_justyna" creationdate="20210331T232543Z">
@@ -1652,6 +1684,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{% for platform in site.data.downloads.latest.platforms %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100949Z" creationid="Natalia Kołosowska" creationdate="20210406T100949Z">
+        <seg>{% for platform in site.data.downloads.latest.platforms %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100418Z" creationid="Natalia Kołosowska" creationdate="20210406T100418Z">
@@ -1672,6 +1712,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100430Z" creationid="Natalia Kołosowska" creationdate="20210406T100430Z">
         <seg>{% if platform.noInfo != true %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% if platform.noInfo != true %} &lt;s0&gt; &lt;/s0&gt; {% endif %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100953Z" creationid="Natalia Kołosowska" creationdate="20210406T100953Z">
+        <seg>{% if platform.noInfo != true %} &lt;s0&gt; &lt;/s0&gt; {% endif %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1705,6 +1753,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100439Z" creationid="Natalia Kołosowska" creationdate="20210406T100439Z">
         <seg>{{ platform.link }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100956Z" creationid="Natalia Kołosowska" creationdate="20210406T100956Z">
+        <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.latest.folder }}/{{ site.data.versions.latest.name }}/OmegaT_{{ site.data.versions.latest.version }}_{{ platform.fileName}}/download</seg>
       </tuv>
     </tu>
     <tu>
