@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Selector de descarga&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201026Z" creationid="DELL" creationdate="20210406T201026Z">
+        <seg>&lt;a0&gt;Selektor pobrań&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;b0&gt;Cerrar&lt;/b0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170359Z" creationid="DELL" creationdate="20210403T170359Z">
@@ -1600,8 +1608,8 @@
       <tuv lang="es">
         <seg>Para encontrar la versión más apropiada para usted, haga clic en el siguiente enlace al Selector de descarga.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T200635Z" creationid="DELL" creationdate="20210406T200635Z">
-        <seg>Kliknij na poniższy link Selektora pobierania, aby znaleźć najbardziej odpowiednią dla siebie wersję..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201007Z" creationid="DELL" creationdate="20210406T200635Z">
+        <seg>Kliknij na poniższy link Selektora pobrań, aby znaleźć najbardziej odpowiednią dla siebie wersję..</seg>
       </tuv>
     </tu>
     <tu>
@@ -2610,6 +2618,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T164743Z" creationid="DELL" creationdate="20210403T164743Z">
         <seg>pobierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#downloads</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201225Z" creationid="DELL" creationdate="20210406T201225Z">
+        <seg>pobierz#pliki</seg>
       </tuv>
     </tu>
     <tu>
