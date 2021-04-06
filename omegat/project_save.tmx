@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Coincidencias aproximadas</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T191933Z" creationid="DELL" creationdate="20210406T191933Z">
+        <seg>Dopasowania przybliżone</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Colaborar con el desarrollo de aplicaciones profesionales está de moda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101821Z" creationid="Anna Wolska" creationdate="20210315T101821Z">
@@ -1626,6 +1634,22 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231402Z" creationid="la_justyna" creationdate="20210331T231402Z">
         <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji plików XLIFF eksportowanych z programu Wordpress.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Procesamiento simultáneo de proyectos de varios archivos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T192209Z" creationid="DELL" creationdate="20210406T192209Z">
+        <seg>Jednoczesne przetwarzanie projektów wieloplikowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Propagación de coincidencias</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T191954Z" creationid="DELL" creationdate="20210406T191954Z">
+        <seg>Propagacja dopasowań</seg>
       </tuv>
     </tu>
     <tu>
