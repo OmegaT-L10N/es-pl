@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;b0&gt;Cerrar&lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210403T170359Z" creationid="DELL" creationdate="20210403T170359Z">
+        <seg>&lt;b0&gt;Zamknięcie&lt;/b0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;i1&gt;OmegaT se puede instalar en cualquier sistema operativo que pueda ejecutar la versión 1.6 de Java Runtime Environment.&lt;/i1&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115525Z" creationid="Agata Borkowska" creationdate="20210406T115525Z">
@@ -710,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Es una herramienta pensada para traductores profesionales.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T183818Z" creationid="DELL" creationdate="20210406T183818Z">
+        <seg>Jest to narzędzie przeznaczone dla zawodowych tłumaczy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Es una versión más reciente que la estándar y cuenta con nuevas funciones que no están presentes en esta.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100744Z" creationid="Natalia Kołosowska" creationdate="20210406T100744Z">
@@ -1322,6 +1338,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000034Z" creationid="la_justyna" creationdate="20210331T000034Z">
         <seg>Zanim użyjesz systemu, poszukaj pomocy na grupie użytkowników lub na listach dystrybucji poczty e-mail.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>No traduce por usted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T184140Z" creationid="DELL" creationdate="20210406T184140Z">
+        <seg>Jednak nie wykonuje tłumaczenia za Ciebie. </seg>
       </tuv>
     </tu>
     <tu>
