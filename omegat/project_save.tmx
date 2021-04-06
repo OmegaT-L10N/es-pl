@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Se recomienda solo para desarrolladores y testers serios.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T130154Z" creationid="Natalia Kołosowska" creationdate="20210406T130154Z">
+        <seg>Jest ona zalecana wyłącznie dla programistów oraz testerów.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Según sus elecciones, le recomendamos que use:</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T125055Z" creationid="Agata Borkowska" creationdate="20210406T125055Z">
