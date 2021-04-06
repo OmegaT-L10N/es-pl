@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Antes de proceder</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131530Z" creationid="Agata Borkowska" creationdate="20210406T131530Z">
+        <seg>Zanim przejdziesz dalej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Archivos TMX de las localizaciones de la documentación de OmegaT y de este sitio, para uso de los localizadores.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152357Z" creationid="Justita" creationdate="20210324T152357Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161223Z" creationid="Anna Wolska" creationdate="20210331T161223Z">
         <seg>Dzięki temu łatwiej jest zająć się dużą liczbą propozycji.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Aunque OmegaT es gratuito, si usted lo encuentra útil y desea manifestar su gratitud, puede hacer un donativo a nuestra cuenta de Paypal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132021Z" creationid="Agata Borkowska" creationdate="20210406T132021Z">
+        <seg>Chociaż program OmegaT jest darmowy, jeśli uważasz, że jest użyteczny i chcesz wyrazić swoją wdzięczność, możesz przekazać darwiznę na nasze konto Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2617,6 +2633,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
         <seg>{{ site.data.links.support }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>¿H considerado donar a OmegaT?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131636Z" creationid="Agata Borkowska" creationdate="20210406T131636Z">
+        <seg>Rozważałeś przekazanie datku na program OmegaT?</seg>
       </tuv>
     </tu>
     <tu>
