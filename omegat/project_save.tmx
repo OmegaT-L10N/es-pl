@@ -1542,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si está seguro de que ya hay una versión de JRE instalada en su equipo a nivel de sistema, puede seleccionar la versión sin JRE incluido.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123844Z" creationid="Agata Borkowska" creationdate="20210406T123844Z">
+        <seg>Jeżeli użytkownik jest pewien, że na jego komputerze jest już zainstalowana odpowiednia wersja oprogramowania JRE, może pobrać wersję programu OmegaT bez JRE.o.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si está seguro de que ya tiene una versión adecuada de JRE instalada en su equipo, puede descargar una versión de OmegaT sin JRE.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104030Z" creationid="Natalia Kołosowska" creationdate="20210406T104030Z">
