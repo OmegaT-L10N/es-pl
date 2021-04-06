@@ -1046,6 +1046,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Para la mayoría de usuarios, carecen de interés.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103650Z" creationid="Natalia Kołosowska" creationdate="20210406T103650Z">
+        <seg>Nie są one istotne dla większości użytkowników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Para solicitudes de soporte, usar el &lt;a1&gt;canal de soporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T224637Z" creationid="la_justyna" creationdate="20210331T224637Z">
@@ -1290,6 +1298,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101617Z" creationid="Anna Wolska" creationdate="20210315T101617Z">
         <seg>Jeśli ogólnie znasz się nieźle na komputerach i wybierzesz jakiś prosty język skryptowy, np. Java lub Tcl/Tk, to już po paru tygodniach nauki będziesz w stanie pisać proste, ale użyteczne skrypty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sin embargo, algunos usuarios pueden encontrar restricciones (impuestas por sus sistemas operativos o versión de Java) que pueden hacer que prefieran una versión más antigua.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103853Z" creationid="Natalia Kołosowska" creationdate="20210406T103853Z">
+        <seg>Jednakże, niektórzy użytkownicy mogą napotkać ograniczenia (narzucone przez ich systemy operacyjne lub wersję Javy), które mogą spowodować, że starsza wersja programu okaże się wersją preferowaną.</seg>
       </tuv>
     </tu>
     <tu>
