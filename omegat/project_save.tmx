@@ -1886,6 +1886,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si tiene una adversión natural a leer instrucciones y su forma de usar un software nuevo es hacer clic en cada botón que vea hasta que ocurra algo parecido al efecto deseado, entonces es probable que OmegaT no sea adecuado para usted.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131508Z" creationid="Agata Borkowska" creationdate="20210406T131508Z">
+        <seg>Jeśli nięchętnie podchodzisz do czytania instrukcji, a twoje podejście do nowego programowania polega na klikaniu każdego przycisku, aż do uzyskania efektu przypominającego pożądany to program OmegaT nie jest dla ciebie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si ya tiene un JRE adecuado instalado en su sistema Windows, seleccione "sin JRE".</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120234Z" creationid="Agata Borkowska" creationdate="20210406T120234Z">
