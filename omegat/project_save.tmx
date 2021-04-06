@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;i1&gt;OmegaT se puede instalar en cualquier sistema operativo que pueda ejecutar la versión 1.6 de Java Runtime Environment.&lt;/i1&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115525Z" creationid="Agata Borkowska" creationdate="20210406T115525Z">
+        <seg>&lt;i1&gt;Program OmegaT można zainstalować na dowolnym systemie operacyjnym zdolnym do uruchomienia oprogramowania Java Runtime Environment 1,6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114802Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
@@ -1426,6 +1434,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184853Z" creationid="Justita" creationdate="20210314T184853Z">
         <seg>Pozostałym użytkownikom zaleca się natomiast korzystanie z &lt;a0&gt;rozszerzenia z filtrami Okapi&lt;/a0&gt; .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Seleccione si descargar OmegaT con Java Runtime Environment (JRE) incluido o sin él.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120058Z" creationid="Agata Borkowska" creationdate="20210406T120058Z">
+        <seg>Należy wybrać, czy pobrać program OmegaT z oprogramowanie Java Runtime Environment (JRE), czy bez niego.</seg>
       </tuv>
     </tu>
     <tu>
