@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Es posible que se tarde un tiempo en publicar las versiones firmadas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124659Z" creationid="Natalia Kołosowska" creationdate="20210406T124659Z">
+        <seg>Wydanie podpisanych wersji może zająć trochę czasu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Es una versión más reciente que la estándar y cuenta con nuevas funciones que no están presentes en esta.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100744Z" creationid="Natalia Kołosowska" creationdate="20210406T100744Z">
@@ -1082,6 +1090,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T105048Z" creationid="Natalia Kołosowska" creationdate="20210406T105048Z">
         <seg>Bardziej doświadczeni użytkownicy systemu Linux mogą zdecydować się na zainstalowanie JRE firmy Oracle (dawniej Sun) na poziomie systemu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los usuarios que tengan prisa pueden usar en su lugar la versión sin firmar; si tiene dificultades para ejecutar la aplicación, consulte cómo &lt;a0&gt;Abrir una app de un desarrollador no identificado&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124903Z" creationid="Natalia Kołosowska" creationdate="20210406T124903Z">
+        <seg>Użytkownicy, którym zależy na szybkim skorzystaniu z programu, mogą skorzystać z wersji niepodpisanej. Jeśli masz problem z uruchomieniem aplikacji, zobacz &lt;a0&gt;Otwórz aplikację niezidentyfikowanego dewelopera&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2215,6 +2231,14 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230942Z" creationid="la_justyna" creationdate="20210331T230942Z">
         <seg>
 https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://support.apple.com/kb/ph14369</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124624Z" creationid="Natalia Kołosowska" creationdate="20210406T124624Z">
+        <seg>https://support.apple.com/kb/ph14369</seg>
       </tuv>
     </tu>
     <tu>
