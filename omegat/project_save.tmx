@@ -2270,6 +2270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>También puede hacer clic en el botón para ver información general sobre las distintas versiones de OmegaT disponibles si ya sabe cuál quiere descargar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T200744Z" creationid="DELL" creationdate="20210406T200744Z">
+        <seg>Jeśli wiesz już, którą wersję programu OmegaT chcesz pobrać, możesz również kliknąć ten przycisk, aby wyświetlić przegląd różnych dostępnych wersji programu..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>También se puede conseguir usando el siguiente comando:</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T160722Z" creationid="DELL" creationdate="20210403T160722Z">
@@ -2602,6 +2610,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T164743Z" creationid="DELL" creationdate="20210403T164743Z">
         <seg>pobierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#selector</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T200802Z" creationid="DELL" creationdate="20210406T200802Z">
+        <seg>pobierz#selektor</seg>
       </tuv>
     </tu>
     <tu>
