@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Glosarios de usuario con reconocimiento de flexiones</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T193028Z" creationid="DELL" creationdate="20210406T193028Z">
+        <seg>Glosariusze użytkownika z rozpoznawaniem flekcji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de Facebook</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000353Z" creationid="la_justyna" creationdate="20210331T000353Z">
