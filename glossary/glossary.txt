@@ -9,3 +9,4 @@ instrucciones detalladas	szczegółowe instrukcje
 versión de desarrollo	wersja deweloperska
 binarios	pliki binarne
 versiones heredadas	starsze wersje
+Formato de documento abierto	OpenDocument	znany również jako ODF (Open Document Format for Office Applications) oraz ISO/IEC 26300
