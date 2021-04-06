@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Al proyecto OmegaT le vendría bien más apoyo por parte de voluntarios en casi todas las áreas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203514Z" creationid="DELL" creationdate="20210406T203514Z">
+        <seg>Projekt OmegaT mógłby się cieszyć większym wsparciem wolontariuszy w prawie wszystkich obszarach.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Alternativas gratuitas (y compatibles) a Microsoft Office.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153432Z" creationid="Justita" creationdate="20210324T153432Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132021Z" creationid="Agata Borkowska" creationdate="20210406T132021Z">
         <seg>Chociaż program OmegaT jest darmowy, jeśli uważasz, że jest użyteczny i chcesz wyrazić swoją wdzięczność, możesz przekazać darwiznę na nasze konto Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Aunque muchos usuarios son conscientes de esto, su reacción suele ser "¡Pero yo no sé programar!".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203624Z" creationid="DELL" creationdate="20210406T203624Z">
+        <seg>Chociaż wielu użytkowników zdaje sobie z tego sprawę, ich typowa reakcją to "Ale ja nie umiem programować!".</seg>
       </tuv>
     </tu>
     <tu>
