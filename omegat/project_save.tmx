@@ -878,6 +878,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Formato de documento abierto (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194004Z" creationid="DELL" creationdate="20210406T194004Z">
+        <seg>ODF (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Funciona con más de 30 formatos de archivo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T193232Z" creationid="DELL" creationdate="20210406T193232Z">
+        <seg>Obsługuje ponad 30 formatów plików </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Funciones profesionales</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T192921Z" creationid="DELL" creationdate="20210406T192921Z">
@@ -2482,6 +2498,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232409Z" creationid="la_justyna" creationdate="20210331T232409Z">
         <seg>Film dotyczący OmegaT na kanale Youtube Qabiria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>XHTML y HTML</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T193244Z" creationid="DELL" creationdate="20210406T193244Z">
+        <seg>XHTML i HTML</seg>
       </tuv>
     </tu>
     <tu>
