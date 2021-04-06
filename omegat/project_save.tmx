@@ -1398,6 +1398,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si no está seguro de qué versión descargar, puede usar el &lt;a0&gt;Selector de descarga&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110444Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
+        <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać narzędzia &lt;a0&gt;Wsparcie pobierania &lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Sin embargo, algunos usuarios pueden encontrar restricciones (impuestas por sus sistemas operativos o versión de Java) que pueden hacer que prefieran una versión más antigua.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103853Z" creationid="Natalia Kołosowska" creationdate="20210406T103853Z">
