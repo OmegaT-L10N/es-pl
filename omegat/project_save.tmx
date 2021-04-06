@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Para encontrar la versión más apropiada para usted, haga clic en el siguiente enlace al Selector de descarga.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T200635Z" creationid="DELL" creationdate="20210406T200635Z">
+        <seg>Kliknij na poniższy link Selektora pobierania, aby znaleźć najbardziej odpowiednią dla siebie wersję..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Para esto, hay una &lt;a0&gt;lista de distribución de correo para desarrolladores&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161528Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
