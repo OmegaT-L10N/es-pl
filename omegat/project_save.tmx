@@ -1334,6 +1334,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmegaT no es especialmente difícil de instalar ni usar, pero es necesario tener la voluntad de leer y seguir las instrucciones.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131226Z" creationid="Agata Borkowska" creationdate="20210406T131226Z">
+        <seg>Program OmegaT nie jest szczególnie trudny w instalacji i użytkowaniu, ale wymaga chęci czytania i postępowania zgodnie z instrukcjami .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124939Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
@@ -1466,6 +1474,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103650Z" creationid="Natalia Kołosowska" creationdate="20210406T103650Z">
         <seg>Nie są one istotne dla większości użytkowników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para obtener OpenOffice.org o LibreOffice, haga clic en el enlace del botón "Software de terceros" a la izquierda.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131034Z" creationid="Agata Borkowska" creationdate="20210406T130950Z">
+        <seg>Aby uzyskać oprogramowanie OpenOffice.org lub LibreOffice, kliknij w link "Inne oprogramowanie" po lewej stronie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1642,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130053Z" creationid="Agata Borkowska" creationdate="20210406T130053Z">
         <seg>Wymagania systemowe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Requisitos del usuario</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131121Z" creationid="Agata Borkowska" creationdate="20210406T131045Z">
+        <seg>Wymagania wobec uzytkownika</seg>
       </tuv>
     </tu>
     <tu>
