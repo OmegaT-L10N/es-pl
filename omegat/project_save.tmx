@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Normalmente, OmegaT funciona en cualquier sistema Linux en el que se pueda instalar una versión adecuada de Java Runtime Environment (JRE).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120827Z" creationid="Agata Borkowska" creationdate="20210406T120827Z">
+        <seg>Program OmegaT działa na dowolnym systemie Linux, na którym można zaintsalować odpowiednią werjsję oprogramowania Java Runtime Environment (JRE).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT &lt;s0&gt;La herramienta TAO gratuita&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170116Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
