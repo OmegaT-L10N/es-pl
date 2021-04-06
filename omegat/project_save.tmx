@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Blog empresarial de Velior&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T103631Z" creationid="Agata Borkowska" creationdate="20210406T103631Z">
+        <seg>Blog firmowy przedsiębiorstwa Velior&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Blogs</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T101742Z" creationid="Agata Borkowska" creationdate="20210406T101742Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154230Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
         <seg>Przede wszystkim mają do dyspozycji grupę dyskusyjną.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Entradas de blog sobre OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104021Z" creationid="Agata Borkowska" creationdate="20210406T104021Z">
+        <seg>Wpisy z bloga dotyczące programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1743,6 +1759,22 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230942Z" creationid="la_justyna" creationdate="20210331T230942Z">
         <seg>
 https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>industria de la traducción</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T103826Z" creationid="Agata Borkowska" creationdate="20210406T103826Z">
+        <seg>branży tłumaczeniowej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>sobre traducción y la&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T103807Z" creationid="Agata Borkowska" creationdate="20210406T103758Z">
+        <seg>o przekładzie i&lt;br1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
