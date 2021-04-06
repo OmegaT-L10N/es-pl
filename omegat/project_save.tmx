@@ -1408,8 +1408,8 @@
       <tuv lang="es">
         <seg>Si no está seguro de qué versión descargar, puede usar el &lt;a0&gt;Selector de descarga&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110609Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
-        <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać  &lt;a0&gt;Wyszukiwarka wersji &lt;/a0&gt;.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110650Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
+        <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać narzędzia  &lt;a0&gt;Wsparcie pobierania &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1466,6 +1466,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000205Z" creationid="la_justyna" creationdate="20210331T000205Z">
         <seg>System monitorowania zapytań o funkcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sistema operativo</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110756Z" creationid="Agata Borkowska" creationdate="20210406T110756Z">
+        <seg>System Operacyjny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1558,6 +1566,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Tipo de instalación</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110741Z" creationid="Agata Borkowska" creationdate="20210406T110741Z">
+        <seg>Sposób instalacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Toxic es una contribución de Marc Prior.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184926Z" creationid="Justita" creationdate="20210314T184926Z">
@@ -1578,6 +1594,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T184947Z" creationid="Justita" creationdate="20210314T184947Z">
         <seg>Toxic dla systemu Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Tradicional</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110832Z" creationid="Agata Borkowska" creationdate="20210406T110832Z">
+        <seg>Tradycyjny</seg>
       </tuv>
     </tu>
     <tu>
@@ -1718,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Versión</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110746Z" creationid="Agata Borkowska" creationdate="20210406T110746Z">
+        <seg>Wersja</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Versión binaria de Toxic para Linux.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T185201Z" creationid="Justita" creationdate="20210314T185201Z">
@@ -1738,6 +1770,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T101425Z" creationid="Natalia Kołosowska" creationdate="20210406T101425Z">
         <seg>Wersja deweloperska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Versión para instalación para usuarios familiarizados con OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110958Z" creationid="Agata Borkowska" creationdate="20210406T110958Z">
+        <seg>Wersja dla uzytkowników znających program OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1879,6 +1919,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T103807Z" creationid="Agata Borkowska" creationdate="20210406T103758Z">
         <seg>o przekładzie i&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>traditional</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110826Z" creationid="Agata Borkowska" creationdate="20210406T110826Z">
+        <seg>tradycyjny</seg>
       </tuv>
     </tu>
     <tu>
