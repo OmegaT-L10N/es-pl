@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;s0&gt;Robert Corner, Institut Laue-Langevin, Francia&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202553Z" creationid="DELL" creationdate="20210406T202553Z">
+        <seg>&lt;s0&gt;Robert Corner, Instytut Laue-Langevin, Francja&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;s0&gt;Usuarios de Linux&lt;/s0&gt;: la mayoría de distribuciones de Linux cuentan con Java Runtime Environment, pero algunas implementaciones de código abierto no funcionan bien con OmegaT (aunque no lo parezca en un primer momento).</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104939Z" creationid="Natalia Kołosowska" creationdate="20210406T104939Z">
@@ -778,6 +786,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233229Z" creationid="la_justyna" creationdate="20210330T233229Z">
         <seg>Projektem OmegaT kieruje międzynarodowa grupa wolontariuszy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>El proyecto OmegaT y usted</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202705Z" creationid="DELL" creationdate="20210406T202705Z">
+        <seg>Projekt OmegaT i Ty</seg>
       </tuv>
     </tu>
     <tu>
@@ -1610,6 +1626,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131226Z" creationid="Agata Borkowska" creationdate="20210406T131226Z">
         <seg>Program OmegaT nie jest szczególnie trudny w instalacji i użytkowaniu, ale wymaga chęci czytania i postępowania zgodnie z instrukcjami .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT no es solo un producto, es un proyecto apasionante y usted puede formar parte de él.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202830Z" creationid="DELL" creationdate="20210406T202830Z">
+        <seg>OmegaT nie tylko jest produktem, ale także ekscytującym projektem, którego możesz być częścią.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2482,6 +2506,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132109Z" creationid="Agata Borkowska" creationdate="20210406T132109Z">
         <seg>USD &lt;a0&gt;Wpłać&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Un amplio rango de funciones, una interfaz despejada y, lo que es más importante, ¡un desarrollo de código abierto regular y constante!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202536Z" creationid="DELL" creationdate="20210406T202536Z">
+        <seg>Szeroki zakres funkcji, przejrzysty interfejs i, co najważniejsze, regularny i stały rozwój open source!</seg>
       </tuv>
     </tu>
     <tu>
