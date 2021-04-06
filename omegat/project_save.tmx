@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si no lo tiene o no está seguro, seleccione "con JRE".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120517Z" creationid="Agata Borkowska" creationdate="20210406T120348Z">
+        <seg>Jeśli go nie ma lub użytkownik nie jest pewny, należy wyvrać wersję "z JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si ya tiene un JRE adecuado instalado en su sistema Windows, seleccione "sin JRE".</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120234Z" creationid="Agata Borkowska" creationdate="20210406T120234Z">
