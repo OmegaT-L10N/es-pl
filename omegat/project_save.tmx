@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Actualmente, es necesaria la versión 1.6 de JRE o una posterior.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120915Z" creationid="Agata Borkowska" creationdate="20210406T120915Z">
+        <seg>Obecnie wymagana jest wersja 1,6 lub kolejna oprogramowania JRE .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Administración</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000423Z" creationid="la_justyna" creationdate="20210331T000423Z">
@@ -1146,6 +1154,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T225200Z" creationid="la_justyna" creationdate="20210331T225200Z">
         <seg>Aby otworzyć instrukcję przez program OmegaT, wybierz Pomoc &gt; Instrukcja obsługi... lub naciśnij F1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para comprobar qué versión de JRE, si hay alguna, está instalada en su sistema Linux, abra la consola (ventana de línea de comandos) y escriba:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T121925Z" creationid="Agata Borkowska" creationdate="20210406T121925Z">
+        <seg>Aby sprawdzić, która wersja oprogramowania JRE zainstalowana jest na systemie Linux, jeśli jest zainstalowana otwórz konsolę poleceń (okno wiersza poleceń) i wpisz, :</seg>
       </tuv>
     </tu>
     <tu>
