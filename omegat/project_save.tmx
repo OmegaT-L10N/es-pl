@@ -2198,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Texto sin formato</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194213Z" creationid="DELL" creationdate="20210406T194213Z">
+        <seg>Tekst zwykły</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Textos de muestra</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143908Z" creationid="Justita" creationdate="20210324T143908Z">
