@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Con JRE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122426Z" creationid="Agata Borkowska" creationdate="20210406T122426Z">
+        <seg>Z JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Con/sin JRE</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103858Z" creationid="Natalia Kołosowska" creationdate="20210406T103858Z">
@@ -858,6 +866,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235430Z" creationid="la_justyna" creationdate="20210330T235430Z">
         <seg>Lista producentów OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La versión "con pilas incluidas" de OmegaT, con su propio Java Runtime Environment.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122723Z" creationid="Agata Borkowska" creationdate="20210406T122723Z">
+        <seg>Werjsa programu OmegaT "z bateriami w pakiecie", z wbudowanym oprogramowaniem Java Runtime Environment .</seg>
       </tuv>
     </tu>
     <tu>
