@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Como su nombre indica, la "última versión" de OmegaT está más actualizada.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124524Z" creationid="Agata Borkowska" creationdate="20210406T124524Z">
+        <seg>Jak sama nazawa wskazuje "najnowsza wersja" prgorramu OmegaT jest najbardziej aktualna.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Complemento Apertium</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190632Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
@@ -618,6 +626,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104021Z" creationid="Agata Borkowska" creationdate="20210406T104021Z">
         <seg>Wpisy z bloga dotyczące programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Es la versión recomendada para los usuarios nuevos.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124434Z" creationid="Agata Borkowska" creationdate="20210406T124434Z">
+        <seg>Jest to wersje zalecana dla nowych użytkowników.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1154,6 +1170,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153945Z" creationid="Anna Wolska" creationdate="20210331T153945Z">
         <seg>Jednak użytkownicy mają dużą przestrzeń do proponowania lepszych rozwiązań i wpływania na kierunek przyszłego rozwoju projektu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>No obstante, las últimas versiones de OmegaT suelen ser muy estables y se recomiendan para usuarios que ya tengan experiencia con OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124711Z" creationid="Agata Borkowska" creationdate="20210406T124711Z">
+        <seg>OmegaT suelen ser muy estables y se recomiendan para usuarios que ya tengan experiencia con OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1714,6 +1738,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162035Z" creationid="Anna Wolska" creationdate="20210331T162035Z">
         <seg>Jednak przesłanie sugestii przez RFE nie oznacza, że pożądana funkcja lub ulepszenie automatycznie zostaną wdrożone.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sin embargo, es posible que el manual de usuario no esté actualizado (y por lo tanto sea confuso) y que aparezcan errores leves.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124700Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
+        <seg>Niemniej jednak, instrukcja obsługi może nie być zaktualizowana (może być myląca) oraz mogą mojawić się drobne błędy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2361,6 +2393,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
         <seg>{{ site.data.links.support }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Última versión</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124449Z" creationid="Agata Borkowska" creationdate="20210406T124449Z">
+        <seg>Najnowsza wersja</seg>
       </tuv>
     </tu>
     <tu>
