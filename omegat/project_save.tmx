@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Compatibilidad con Unicode (UTF-8): puede usarse con alfabetos no latinos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194949Z" creationid="DELL" creationdate="20210406T194949Z">
+        <seg>Kompatybilność z Unicode (UTF-8): może być używany z alfabetami innymi niż łaciński</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Complemento Apertium</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190632Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
@@ -904,8 +912,8 @@
       <tuv lang="es">
         <seg>Funciones profesionales</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T192921Z" creationid="DELL" creationdate="20210406T192921Z">
-        <seg>Funkcje profesjonalne</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194713Z" creationid="DELL" creationdate="20210406T192921Z">
+        <seg>Funkcje standardowe</seg>
       </tuv>
     </tu>
     <tu>
