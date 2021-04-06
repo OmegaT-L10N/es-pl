@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Blogs</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T101742Z" creationid="Agata Borkowska" creationdate="20210406T101742Z">
+        <seg>Blogi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Colaborar con el desarrollo de aplicaciones profesionales está de moda.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101821Z" creationid="Anna Wolska" creationdate="20210315T101821Z">
