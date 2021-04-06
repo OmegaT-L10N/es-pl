@@ -272,8 +272,16 @@
       <tuv lang="es">
         <seg>Con JRE</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122426Z" creationid="Agata Borkowska" creationdate="20210406T122426Z">
-        <seg>Z JRE</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123022Z" creationid="Agata Borkowska" creationdate="20210406T122426Z">
+        <seg>Z  oprogramowaniem JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Con JRE de 64 bits</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123015Z" creationid="Agata Borkowska" creationdate="20210406T123015Z">
+        <seg>Z oprogramowaniem JRE 64 bity</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230730Z" creationid="la_justyna" creationdate="20210331T230730Z">
         <seg>Dokumentacja zewnętrzna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>El JRE incluido es la versión de 64 bits.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123225Z" creationid="Agata Borkowska" creationdate="20210406T123225Z">
+        <seg>Dołączone oprogramowanie JRE jest wersją 64-biową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1554,6 +1570,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122123Z" creationid="Agata Borkowska" creationdate="20210406T122123Z">
         <seg>Jeśli użytkownik nie jest pewny, czy w systemie zainstalowana jest odpowiednia wersja oprogramowania JRE, może pobrać i zainstalować werjsę programu OmegaT z JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Si no está seguro, seleccione esta opción.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122955Z" creationid="Agata Borkowska" creationdate="20210406T122955Z">
+        <seg>W razie niepewności, należy wybrać tę opcję.</seg>
       </tuv>
     </tu>
     <tu>
