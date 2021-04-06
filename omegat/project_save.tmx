@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Estándar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124021Z" creationid="Agata Borkowska" creationdate="20210406T124021Z">
+        <seg>Standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Extraer todo el texto origen de los archivos de proyecto en un solo archivo de texto grande</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131139Z" creationid="Justita" creationdate="20210330T131139Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123507Z" creationid="Agata Borkowska" creationdate="20210406T122723Z">
         <seg>Werjsa programu OmegaT "z bateriami w pakiecie", czyli z dołączonym oprogramowaniem Java Runtime Environment .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La versión "estándar" de OmegaT incluye un manual de usuario completo (al menos en inglés) y suele probarse durante un tiempo para eliminar los errores.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124219Z" creationid="Agata Borkowska" creationdate="20210406T124219Z">
+        <seg>.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1544,8 +1560,8 @@
       <tuv lang="es">
         <seg>Si está seguro de que ya hay una versión de JRE instalada en su equipo a nivel de sistema, puede seleccionar la versión sin JRE incluido.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123844Z" creationid="Agata Borkowska" creationdate="20210406T123844Z">
-        <seg>Jeżeli użytkownik jest pewien, że na jego komputerze jest już zainstalowana odpowiednia wersja oprogramowania JRE, może pobrać wersję programu OmegaT bez JRE.o.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124001Z" creationid="Agata Borkowska" creationdate="20210406T123844Z">
+        <seg>Jeżeli użytkownik jest pewien, że na jego komputerze jest już zainstalowana odpowiednia wersja oprogramowania JRE, może pobrać wersję programu OmegaT bez JRE.</seg>
       </tuv>
     </tu>
     <tu>
