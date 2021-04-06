@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Es una versión más reciente que la estándar y cuenta con nuevas funciones que no están presentes en esta.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100744Z" creationid="Natalia Kołosowska" creationdate="20210406T100744Z">
+        <seg>Niniejsza wersja jest nowsza od wersji standardowej i posiada ona nowe funkcje, niedostępne w wersji standardowej.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Escrita en Python.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191031Z" creationid="Anna Wolska" creationdate="20210331T191031Z">
@@ -706,6 +714,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235430Z" creationid="la_justyna" creationdate="20210330T235430Z">
         <seg>Lista producentów OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La última versión requiere Java {{site.data.versions.latest.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100629Z" creationid="Natalia Kołosowska" creationdate="20210406T100629Z">
+        <seg>Najnowsza wersja wymaga Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1611,11 +1627,59 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{% else %} &lt;a0&gt;Descargar&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100502Z" creationid="Natalia Kołosowska" creationdate="20210406T100502Z">
+        <seg>{% else %} &lt;a0&gt;Pobierz&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{% endfor %}</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233131Z" creationid="la_justyna" creationdate="20210330T233131Z">
         <seg>
 {% endfor %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% endif %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100434Z" creationid="Natalia Kołosowska" creationdate="20210406T100434Z">
+        <seg>{% endif %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100418Z" creationid="Natalia Kołosowska" creationdate="20210406T100418Z">
+        <seg>{% for platform in site.data.downloads.standard.platforms %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Descargar&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100446Z" creationid="Natalia Kołosowska" creationdate="20210406T100446Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Descargar&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% if platform.noInfo != true %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100430Z" creationid="Natalia Kołosowska" creationdate="20210406T100430Z">
+        <seg>{% if platform.noInfo != true %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% translate platform.name %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100424Z" creationid="Natalia Kołosowska" creationdate="20210406T100424Z">
+        <seg>{% translate platform.name %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -1637,10 +1701,34 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{{ platform.link }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100439Z" creationid="Natalia Kołosowska" creationdate="20210406T100439Z">
+        <seg>{{ platform.link }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.standard.folder }}/{{ site.data.versions.standard.name }}/OmegaT_{{ site.data.versions.standard.version }}_{{ platform.fileName}}/download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100452Z" creationid="Natalia Kołosowska" creationdate="20210406T100452Z">
+        <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.standard.folder }}/{{ site.data.versions.standard.name }}/OmegaT_{{ site.data.versions.standard.version }}_{{ platform.fileName}}/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{{ site.data.links.support }}</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
         <seg>{{ site.data.links.support }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Última versión - {{site.data.versions.latest.name}}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100513Z" creationid="Natalia Kołosowska" creationdate="20210406T100513Z">
+        <seg>Najnowsza wersja - {{site.data.versions.latest.name}}</seg>
       </tuv>
     </tu>
     <tu>
