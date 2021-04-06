@@ -56,8 +56,16 @@
       <tuv lang="es">
         <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114610Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
-        <seg>&lt;s1&gt;Zaleta&lt;/s1&gt;: .&lt;br2/&gt;</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114802Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
+        <seg>&lt;s1&gt;Zaleta&lt;/s1&gt;: .&lt;br2/&gt;: po pierwszym uruchomnieniu przyszłe aktualizacje wersji Web Start zainstalują się automatycznie na komputerze użytkownika.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;s3&gt;La desventaja&lt;/s3&gt;: por el momento, no se puede usar esta versión con complementos, por lo que no están disponibles todas las funciones.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115012Z" creationid="Agata Borkowska" creationdate="20210406T115012Z">
+        <seg>&lt;s3&gt;Wada&lt;/s3&gt;:na ten moment tej wetsji nie można używać z dodatkami, więc niektóre funkcjie nie będą dostępne.</seg>
       </tuv>
     </tu>
     <tu>
