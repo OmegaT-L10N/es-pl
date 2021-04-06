@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Aún se pueden encontrar &lt;a0&gt;versiones más antiguas que se han sustituido&lt;/a0&gt; de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103532Z" creationid="Natalia Kołosowska" creationdate="20210406T103532Z">
+        <seg>Nadal dostępne są &lt;a0&gt;starsze,  podmienione wersje&lt;/a0&gt; programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Blogs</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T101742Z" creationid="Agata Borkowska" creationdate="20210406T101742Z">
@@ -770,6 +778,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T160818Z" creationid="DELL" creationdate="20210403T160818Z">
         <seg>Zestawienia okresowe są dostępne w Sourceforge.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Las versiones heredadas son versiones más antiguas que se han sustituido.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103557Z" creationid="Natalia Kołosowska" creationdate="20210406T103557Z">
+        <seg>Starsze wersje to wersje programu, które zostały podmienione</seg>
       </tuv>
     </tu>
     <tu>
@@ -1566,6 +1582,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Versiones heredadas</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103240Z" creationid="Natalia Kołosowska" creationdate="20210406T103240Z">
+        <seg>Starsze wersje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Versión binaria de Toxic para Linux.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T185201Z" creationid="Justita" creationdate="20210314T185201Z">
@@ -1817,6 +1841,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100452Z" creationid="Natalia Kołosowska" creationdate="20210406T100452Z">
         <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.standard.folder }}/{{ site.data.versions.standard.name }}/OmegaT_{{ site.data.versions.standard.version }}_{{ platform.fileName}}/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.downloads.legacy }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103241Z" creationid="Natalia Kołosowska" creationdate="20210406T103241Z">
+        <seg>{{ site.data.downloads.legacy }}</seg>
       </tuv>
     </tu>
     <tu>
