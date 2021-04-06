@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>(En inglés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104035Z" creationid="Agata Borkowska" creationdate="20210406T104035Z">
+        <seg>(W języku angielskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>(En italiano)</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233024Z" creationid="la_justyna" creationdate="20210331T233024Z">
         <seg>(W języku włoskim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>(En ruso).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104109Z" creationid="Agata Borkowska" creationdate="20210406T104109Z">
+        <seg>(W języku rosyjskim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -34,6 +50,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163511Z" creationid="Anna Wolska" creationdate="20210331T163511Z">
         <seg>&lt;a0&gt;Wprowadzono już kilka rozwiązań sponsorowanych.&lt;/a0&gt;Jeśli chciałbyś sfinansować wdrożenie jakiejś funkcji, skontaktuj się prywatnie z zespołem programistów i poproś o wycenę.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>A continuación se muestran enlaces a las distintas versiones de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104624Z" creationid="Agata Borkowska" creationdate="20210406T104624Z">
+        <seg>Poniżej znajdują się linki do różnych wersji programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
