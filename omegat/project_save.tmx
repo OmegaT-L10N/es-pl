@@ -976,8 +976,16 @@
       <tuv lang="es">
         <seg>Esto quiere decir que los usuarios como usted son libres de descargarlo y usarlo con muy pocas restricciones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T203007Z" creationid="DELL" creationdate="20210406T203007Z">
-        <seg>Oznacza to, że użytkownicy tacy jak Ty mogą swobodnie pobierać i korzystać z niego z bardzo niewielkimi ograniczeniami..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203056Z" creationid="DELL" creationdate="20210406T203007Z">
+        <seg>Oznacza to, że użytkownicy tacy jak Ty mogą swobodnie pobierać i korzystać z niego z bardzo niewielkimi ograniczeniami.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Esto quiere decir que si le apetece, puede modificar OmegaT para ajustarlo a sus propias necesidades.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203231Z" creationid="DELL" creationdate="20210406T203231Z">
+        <seg>Oznacza to, że jeśli masz ochotę, możesz zmodyfikować program OmegaT, aby dostosować go do własnych potrzeb.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1622,6 +1630,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmegaT es un software de código abierto.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203135Z" creationid="DELL" creationdate="20210406T203135Z">
+        <seg>OmegaT jest oprogramowaniem typu open source.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT es una aplicación y un proyecto de código abierto.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102414Z" creationid="Anna Wolska" creationdate="20210315T102414Z">
@@ -1794,6 +1810,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103650Z" creationid="Natalia Kołosowska" creationdate="20210406T103650Z">
         <seg>Nie są one istotne dla większości użytkowników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Para los defensores del software de código abierto, esta libertad es incluso más importante que el hecho de no tener que pagar nada.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203403Z" creationid="DELL" creationdate="20210406T203403Z">
+        <seg>Dla zwolenników oprogramowania open source, wolność ta jest nawet ważniejsza niż brak konieczności płacenia za cokolwiek.</seg>
       </tuv>
     </tu>
     <tu>
