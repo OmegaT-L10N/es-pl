@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmegaT funcionará en cualquier sistema en el que esté instalado o pueda instalarse JRE (Java Runtime Environment).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130218Z" creationid="Agata Borkowska" creationdate="20210406T130218Z">
+        <seg>Profram OmegaT zadziała na dowolnym systemie, na którym jest zainstalowane oprogramowanie JRE (Java Runtime Environment), lub możliwe jest jego zainstalowanie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124939Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
@@ -1578,6 +1586,22 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153045Z" creationid="Justita" creationdate="20210324T153045Z">
         <seg>Repozytoria słowników ortofraficznych online współpracujące z OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Requisitos</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130029Z" creationid="Agata Borkowska" creationdate="20210406T130029Z">
+        <seg>Wymagania</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Requisitos del sistema</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130053Z" creationid="Agata Borkowska" creationdate="20210406T130053Z">
+        <seg>Wymagania systemowe</seg>
       </tuv>
     </tu>
     <tu>
