@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a la versión actual de los formatos de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130910Z" creationid="Agata Borkowska" creationdate="20210406T130910Z">
+        <seg>Pliki w straszych formatach MS Word, Excel i PowerPoint mogą być tłumaczone po przekonwertowaniu ich do wersji aktualnej formatu Microsoft Office,lub do fromatu Office Open XML, który można utworzyć w  OpenOffice.org lub LibreOffice (również bezpłatnie).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los binarios anteriores a la compilación están disponibles como nightly builds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103128Z" creationid="Natalia Kołosowska" creationdate="20210406T102732Z">
