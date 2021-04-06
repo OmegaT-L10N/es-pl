@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; está disponible en un gran número de versiones diferentes para ajustarse a las distintas necesidades de los usuarios.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195938Z" creationid="DELL" creationdate="20210406T195938Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  jest dostępny w wielu różnych wersjach, aby sprostać różnym wymaganiom użytkowników.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;s0&gt;Usuarios de Linux&lt;/s0&gt;: la mayoría de distribuciones de Linux cuentan con Java Runtime Environment, pero algunas implementaciones de código abierto no funcionan bien con OmegaT (aunque no lo parezca en un primer momento).</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104939Z" creationid="Natalia Kołosowska" creationdate="20210406T104939Z">
@@ -294,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Captura de pantalla de OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195602Z" creationid="DELL" creationdate="20210406T195602Z">
+        <seg>Zrzut ekranu programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Coincidencias aproximadas</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T191933Z" creationid="DELL" creationdate="20210406T191933Z">
@@ -330,6 +346,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T195033Z" creationid="DELL" creationdate="20210406T195033Z">
         <seg>Kompatybilność z językami pisanymi od prawej do lewej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Compatible con otras aplicaciones de memoria de traducción (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195415Z" creationid="DELL" creationdate="20210406T195415Z">
+        <seg>Kompatybilność z innymi narzędziami CAT (TMX, TTX, TXML, XLIFF, SDLXLIFF)</seg>
       </tuv>
     </tu>
     <tu>
@@ -1058,6 +1082,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165259Z" creationid="Anna Wolska" creationdate="20210331T165259Z">
         <seg>Wprowadza funkcję tłumaczenia automatycznego Apertium w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Integración del Traductor de Google</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195504Z" creationid="DELL" creationdate="20210406T195504Z">
+        <seg>Integracja z Google Tłumacz</seg>
       </tuv>
     </tu>
     <tu>
