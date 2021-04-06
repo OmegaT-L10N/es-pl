@@ -1518,6 +1518,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si no está seguro de si ya hay una versión adecuada de JRE instalada en su sistema, puede descargar e instalar una versión de OmegaT con JRE.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122123Z" creationid="Agata Borkowska" creationdate="20210406T122123Z">
+        <seg>Jeśli użytkownik nie jest pewny, czy w systemie zainstalowana jest odpowiednia wersja oprogramowania JRE, może pobrać i zainstalować werjsę programu OmegaT z JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si no está seguro, seleccione esta versión.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114432Z" creationid="Agata Borkowska" creationdate="20210406T114432Z">
