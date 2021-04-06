@@ -6,3 +6,4 @@ Plugin	wtyczka
 navegador web	przeglądarka internetowa
 desarrollador	deweloper, programista	programista tylko programuje, a deweloper programuje i rozwija cały program
 instrucciones detalladas	szczegółowe instrukcje
+versión de desarrollo	wersja deweloperska
