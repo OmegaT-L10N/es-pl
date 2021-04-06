@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;s0&gt;Usuarios de Linux&lt;/s0&gt;: la mayoría de distribuciones de Linux cuentan con Java Runtime Environment, pero algunas implementaciones de código abierto no funcionan bien con OmegaT (aunque no lo parezca en un primer momento).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104939Z" creationid="Natalia Kołosowska" creationdate="20210406T104939Z">
+        <seg>&lt;s0&gt;Użytkownicy systemu Linux&lt;/s0&gt;: większość dystrybucji systemu Linux jest wyposażona w Java Runtime Environment ale niektóre implementacje open-source nie współpracują poprawnie z OmegaT (choć może to nie być od razu widoczne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114802Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
@@ -742,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Firmado/sin firmar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124323Z" creationid="Natalia Kołosowska" creationdate="20210406T124323Z">
+        <seg>Podpisana/niepodpisana wersja programu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Formación</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233040Z" creationid="la_justyna" creationdate="20210331T233040Z">
@@ -1046,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los usuarios de Linux más experimentados pueden preferir instalar JRE de Oracle (antes Sun) a nivel de sistema.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T105048Z" creationid="Natalia Kołosowska" creationdate="20210406T105048Z">
+        <seg>Bardziej doświadczeni użytkownicy systemu Linux mogą zdecydować się na zainstalowanie JRE firmy Oracle (dawniej Sun) na poziomie systemu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los usuarios que ya tienen algo de experiencia con OmegaT suelen preferir la última versión.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100946Z" creationid="Natalia Kołosowska" creationdate="20210406T100946Z">
@@ -1058,6 +1082,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233436Z" creationid="la_justyna" creationdate="20210330T233436Z">
         <seg>Główni członkowie projektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Mac OS X tiene una función llamada Gatekeeper que incrementa la seguridad dificultando la ejecución de programas sin firmar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124420Z" creationid="Natalia Kołosowska" creationdate="20210406T124420Z">
+        <seg>Mac OS X zawiera technologię o nazwie Gatekeeper, która ma zapewnić uruchamianie jedynie zaufanego, podpisanego oprogramowania.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1170,6 +1202,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T102414Z" creationid="Anna Wolska" creationdate="20210315T102414Z">
         <seg>OmegaT jest oprogramowaniem i projektem typu „open source”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124620Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
+        <seg>Program OmegaT dla Mac OS X dostępny jest zarówno w wersji podpisanej, jak i niepodpisanej. Mają one te same funkcje, ale zaleca się wybór wersji podpisane, ponieważ system rozpozna, że program pochodzi od zidenyfikowanego dewelopera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1550,6 +1590,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si es relativamente nuevo en Linux, le recomendamos que seleccione una versión de OmegaT con JRE incluido.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T105033Z" creationid="Natalia Kołosowska" creationdate="20210406T105033Z">
+        <seg>Jeśli jesteś początkującym użytkownikiem systemu Linux, radzimy wybrać wersję OmegaT z dołączonym JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si está moderadamente familiarizado con los equipos en general y elige un lenguaje de scripting sencillo como JavaScript o Tcl/Tk, podría aprender usted mismo a escribir scripts simples pero útiles en tan solo un par de semanas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101617Z" creationid="Anna Wolska" creationdate="20210315T101617Z">
@@ -1586,6 +1634,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110650Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
         <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać narzędzia  &lt;a0&gt;Wsparcie pobierania &lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Si no está seguro de si tiene o no una versión adecuada de JRE, seleccione una versión con JRE (o la versión predeterminada).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104608Z" creationid="Natalia Kołosowska" creationdate="20210406T104608Z">
+        <seg>Jeśli nie jesteś pewien, czy posiadasz odpowiednią wersję JRE, wybierz wersję z JRE (lub wersję domyślną).</seg>
       </tuv>
     </tu>
     <tu>
