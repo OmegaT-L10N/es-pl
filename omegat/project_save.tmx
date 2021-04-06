@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Esta versión de JRE solo se usará de manera local para OmegaT; no entrará en conflicto, reemplazará ni desinstalará las otras instalaciones de JRE y, por lo tanto, su uso es seguro.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122421Z" creationid="Agata Borkowska" creationdate="20210406T122421Z">
+        <seg>Ta wersja JRE będzie wykorzystywana tylko lokalnie dla prgramu OmegaT; nie będzie kolidować z innymi instalacjami JRE, nie zastąpi ich, ani nie odinstaluje, a zatem jest bezpieczna w użyciu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Estas utilidades permiten el uso de OmegaT para traducir formatos de archivos para los que los filtros de conversión a XLIFF están disponibles.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232117Z" creationid="la_justyna" creationdate="20210331T232117Z">
