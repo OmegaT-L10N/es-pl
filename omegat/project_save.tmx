@@ -2302,6 +2302,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Uso simultáneo de varias memorias de traducción</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T192441Z" creationid="DELL" creationdate="20210406T192441Z">
+        <seg>Jednoczesne korzystanie z wielu pamięci tłumaczeniowych</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Utilidad de alineación Aligner</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191357Z" creationid="Anna Wolska" creationdate="20210331T191017Z">
