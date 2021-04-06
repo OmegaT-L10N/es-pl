@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Con/sin JRE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103858Z" creationid="Natalia Kołosowska" creationdate="20210406T103858Z">
+        <seg>Z/bez JRE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Consiste en un modelo de manual del estudiante con instrucciones para los formadores para la adaptación y recursos de muestra.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T143647Z" creationid="Justita" creationdate="20210324T143647Z">
@@ -502,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>En ese caso, no seleccione la versión predeterminada; seleccione una versión diferente (p.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104155Z" creationid="Natalia Kołosowska" creationdate="20210406T104155Z">
+        <seg>W takim przypadku nie należy wybierać wersji domyślnej; należy wybrać inną wersję (np.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>En primer lugar está el &lt;a0&gt;grupo de usuarios de OmegaT&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154230Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
@@ -514,6 +530,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104021Z" creationid="Agata Borkowska" creationdate="20210406T104021Z">
         <seg>Wpisy z bloga dotyczące programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Es necesario que tenga Java Runtime Environment (JRE) instalado en su equipo para que OmegaT funcione.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103951Z" creationid="Natalia Kołosowska" creationdate="20210406T103951Z">
+        <seg>Do uruchomienia programu OmegaT wymagane jest zainstalowanie na komputerze użytkownika Java Runtime Environment (JRE).</seg>
       </tuv>
     </tu>
     <tu>
@@ -722,6 +746,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170143Z" creationid="DELL" creationdate="20210403T170143Z">
         <seg>Wprowadzenie do programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La descarga será más rápida y la instalación necesitará menos espacio en su disco duro.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104056Z" creationid="Natalia Kołosowska" creationdate="20210406T104056Z">
+        <seg>Pobieranie będzie szybsze, a instalacja będzie wymagała mniej miejsca na dysku twardym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1314,6 +1346,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101617Z" creationid="Anna Wolska" creationdate="20210315T101617Z">
         <seg>Jeśli ogólnie znasz się nieźle na komputerach i wybierzesz jakiś prosty język skryptowy, np. Java lub Tcl/Tk, to już po paru tygodniach nauki będziesz w stanie pisać proste, ale użyteczne skrypty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Si está seguro de que ya tiene una versión adecuada de JRE instalada en su equipo, puede descargar una versión de OmegaT sin JRE.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104030Z" creationid="Natalia Kołosowska" creationdate="20210406T104030Z">
+        <seg>Jeżeli użytkownik jest pewien, że na jego komputerze jest już zainstalowana odpowiednia wersja JRE, może pobrać wersję programu OmegaT bez JRE.</seg>
       </tuv>
     </tu>
     <tu>
