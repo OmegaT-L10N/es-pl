@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Descargar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103140Z" creationid="Natalia Kołosowska" creationdate="20210406T103140Z">
+        <seg>Pobierz</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Descripciones y enlaces de los scripts y procedimientos de Samuel Murray.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T130858Z" creationid="Justita" creationdate="20210330T130858Z">
@@ -898,6 +906,22 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T224948Z" creationid="la_justyna" creationdate="20210331T224948Z">
         <seg>Instrukcje obsługi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Master</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103130Z" creationid="Natalia Kołosowska" creationdate="20210406T103130Z">
+        <seg>Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Nightly builds</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103142Z" creationid="Natalia Kołosowska" creationdate="20210406T103142Z">
+        <seg>Nightly builds</seg>
       </tuv>
     </tu>
     <tu>
@@ -1793,6 +1817,22 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100452Z" creationid="Natalia Kołosowska" creationdate="20210406T100452Z">
         <seg>{{ site.data.downloads.baseUrl }}/{{ site.data.downloads.standard.folder }}/{{ site.data.versions.standard.name }}/OmegaT_{{ site.data.versions.standard.version }}_{{ platform.fileName}}/download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.downloads.master }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103133Z" creationid="Natalia Kołosowska" creationdate="20210406T103133Z">
+        <seg>{{ site.data.downloads.master }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.downloads.nightly }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103144Z" creationid="Natalia Kołosowska" creationdate="20210406T103144Z">
+        <seg>{{ site.data.downloads.nightly }}</seg>
       </tuv>
     </tu>
     <tu>
