@@ -654,6 +654,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Instrucciones detalladas</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100204Z" creationid="Natalia Kołosowska" creationdate="20210406T100204Z">
+        <seg>Szczegółowe instrukcje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Integra la función de traducción automática de Apertium en OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T165259Z" creationid="Anna Wolska" creationdate="20210331T165259Z">
@@ -954,6 +962,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153904Z" creationid="Justita" creationdate="20210324T153904Z">
         <seg>Umożliwia tłumaczenie plików o różnych formatach niobsługiwanych bezpośrednio przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Plataforma</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100148Z" creationid="Natalia Kołosowska" creationdate="20210406T100148Z">
+        <seg>Platforma</seg>
       </tuv>
     </tu>
     <tu>
