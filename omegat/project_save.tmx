@@ -1262,6 +1262,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Su documentación, al menos en inglés, está relativamente actualizada.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100001Z" creationid="Natalia Kołosowska" creationdate="20210406T100001Z">
+        <seg>Dokumentacja jest aktualna, przynajmniej w języku angielskim.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Su objetivo es desarrollar, distribuir y dar soporte al uso de OmegaT, un programa de memorias de traducción de código abierto.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233421Z" creationid="la_justyna" creationdate="20210330T233421Z">
