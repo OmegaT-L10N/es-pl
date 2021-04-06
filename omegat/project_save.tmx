@@ -280,8 +280,8 @@
       <tuv lang="es">
         <seg>Con JRE de 64 bits</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123015Z" creationid="Agata Borkowska" creationdate="20210406T123015Z">
-        <seg>Z oprogramowaniem JRE 64 bity</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123240Z" creationid="Agata Borkowska" creationdate="20210406T123015Z">
+        <seg>Z oprogramowaniem JRE 64-bitowym</seg>
       </tuv>
     </tu>
     <tu>
@@ -896,8 +896,8 @@
       <tuv lang="es">
         <seg>La versión "con pilas incluidas" de OmegaT, con su propio Java Runtime Environment.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122723Z" creationid="Agata Borkowska" creationdate="20210406T122723Z">
-        <seg>Werjsa programu OmegaT "z bateriami w pakiecie", z wbudowanym oprogramowaniem Java Runtime Environment .</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123507Z" creationid="Agata Borkowska" creationdate="20210406T122723Z">
+        <seg>Werjsa programu OmegaT "z bateriami w pakiecie", czyli z dołączonym oprogramowaniem Java Runtime Environment .</seg>
       </tuv>
     </tu>
     <tu>
@@ -1602,6 +1602,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120234Z" creationid="Agata Borkowska" creationdate="20210406T120234Z">
         <seg>Jeśli w systemie Windows użytkownika jest już zainstalowane odpowiednie oprogramowanie JRE, należy wybrać wersję "bez JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sin JRE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123247Z" creationid="Agata Borkowska" creationdate="20210406T123247Z">
+        <seg>Bez oprogramowania JRE</seg>
       </tuv>
     </tu>
     <tu>
