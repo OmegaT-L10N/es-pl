@@ -974,6 +974,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Esto quiere decir que los usuarios como usted son libres de descargarlo y usarlo con muy pocas restricciones.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203007Z" creationid="DELL" creationdate="20210406T203007Z">
+        <seg>Oznacza to, że użytkownicy tacy jak Ty mogą swobodnie pobierać i korzystać z niego z bardzo niewielkimi ograniczeniami..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Estándar</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124021Z" creationid="Agata Borkowska" creationdate="20210406T124021Z">
@@ -1602,6 +1610,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T225022Z" creationid="la_justyna" creationdate="20210331T225022Z">
         <seg>OmegaT zawiera pełną instrukcję obsługi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT es software libre.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202910Z" creationid="DELL" creationdate="20210406T202910Z">
+        <seg>OmegaT jest oprogramowaniem darmowym.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2394,6 +2410,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T160722Z" creationid="DELL" creationdate="20210403T160722Z">
         <seg>Moźna ją rówież uzyskać pod następującym linkiem:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>También tiene libertad para copiarlo y pasárselo a otras personas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203046Z" creationid="DELL" creationdate="20210406T203046Z">
+        <seg>Możesz go również swobodnie kopiować i przekazywać innym osobom.</seg>
       </tuv>
     </tu>
     <tu>
