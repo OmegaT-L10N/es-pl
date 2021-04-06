@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Compatibilidad con idiomas con escritura de derecha a izquierda</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195033Z" creationid="DELL" creationdate="20210406T195033Z">
+        <seg>Kompatybilność z językami pisanymi od prawej do lewej</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Complemento Apertium</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T190632Z" creationid="Anna Wolska" creationdate="20210331T165153Z">
@@ -458,6 +466,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T133307Z" creationid="Justita" creationdate="20210324T133131Z">
         <seg>Konwertuje pamięci tłumaczeniowe programu Wordfast (format TMX) na format obsługiwany przez OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Corrector de ortografía incorporado</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T195224Z" creationid="DELL" creationdate="20210406T195224Z">
+        <seg>Włączone sprawdzanie pisowni</seg>
       </tuv>
     </tu>
     <tu>
