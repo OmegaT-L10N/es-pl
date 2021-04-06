@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114610Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
+        <seg>&lt;s1&gt;Zaleta&lt;/s1&gt;: .&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>A continuación se muestran enlaces a las distintas versiones de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104624Z" creationid="Agata Borkowska" creationdate="20210406T104624Z">
@@ -826,6 +834,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T102748Z" creationid="Natalia Kołosowska" creationdate="20210406T101510Z">
         <seg>Wersja "master" jest zaawansowaną formą wersji "alfa", która jest wciąż w fazie rozwoju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La versión Web Start es la versión para "instalar y olvidarse".&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114613Z" creationid="Agata Borkowska" creationdate="20210406T114528Z">
+        <seg>Web Start to wersja typu "zainstaluj i zapomnij" .&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
