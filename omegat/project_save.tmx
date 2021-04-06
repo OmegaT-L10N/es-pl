@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>El certificado está firmado por &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una organización registrada de Francia.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125425Z" creationid="Natalia Kołosowska" creationdate="20210406T125425Z">
+        <seg>Certyfikat  &lt;a1&gt;PnS Concept Sarl&lt;/a1&gt;, una organización registrada de Francia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>El procedimiento se conoce como &lt;a0&gt;RFE (del inglés, "Request for Feature Enhancement") y se administra aquí&lt;/a0&gt;.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161907Z" creationid="Anna Wolska" creationdate="20210331T161501Z">
