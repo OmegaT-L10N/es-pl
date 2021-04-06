@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Ha estado en uso durante algún tiempo y, por lo tanto, se ha probado.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132439Z" creationid="Agata Borkowska" creationdate="20210406T132439Z">
+        <seg>Wersja przetestowana, ponieważ była użytkowana przez pewien czas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Hay un tutorial detallado disponible.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T154004Z" creationid="Justita" creationdate="20210324T154004Z">
@@ -1050,6 +1058,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125033Z" creationid="Natalia Kołosowska" creationdate="20210406T125033Z">
         <seg>Wersja Web Start oferuje alternatywny sposób instalacji programu OmegaT na komputerze. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La versión estándar requiere Java {{site.data.versions.standard.java_version}}.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132145Z" creationid="Agata Borkowska" creationdate="20210406T132145Z">
+        <seg>Wersja Standard wymaga oprogramowania Java {{site.data.versions.standard.java_version}}.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2182,6 +2198,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>USD &lt;a0&gt;Donar&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132109Z" creationid="Agata Borkowska" creationdate="20210406T132109Z">
+        <seg>USD &lt;a0&gt;Wpłać&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Un completo conjunto de utilidades para preparar los archivos para su traducción en una herramienta TAO.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153637Z" creationid="Justita" creationdate="20210324T153637Z">
@@ -2298,6 +2322,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T101425Z" creationid="Natalia Kołosowska" creationdate="20210406T101425Z">
         <seg>Wersja deweloperska</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Versión estándar - {{site.data.versions.standard.name}}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132150Z" creationid="Agata Borkowska" creationdate="20210406T132126Z">
+        <seg>Wersja Standard - {{site.data.versions.standard.name}}</seg>
       </tuv>
     </tu>
     <tu>
