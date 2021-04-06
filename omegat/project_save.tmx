@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>(El software que hace eso se llama "traducción automática" y tendrá que buscarlo en otra parte).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T191716Z" creationid="DELL" creationdate="20210406T191716Z">
+        <seg>(Oprogramowanie oferujące tzw. funkcje "tłumaczenia maszynowego" znajdziesz w innym miejscu.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>(En inglés).</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104035Z" creationid="Agata Borkowska" creationdate="20210406T104035Z">
