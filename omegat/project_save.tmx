@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La versión "master" es una versión "alfa" de avanzada, todavía en desarrollo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T102748Z" creationid="Natalia Kołosowska" creationdate="20210406T101510Z">
+        <seg>Wersja "master" jest zaawansowaną formą wersji "alfa", która jest wciąż w fazie rozwoju.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La última versión requiere Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100629Z" creationid="Natalia Kołosowska" creationdate="20210406T100629Z">
@@ -786,6 +794,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T152742Z" creationid="Justita" creationdate="20210324T152543Z">
         <seg>Pliki składające się na niniejszą stronę w poręcznej formie archiwum skierowanego do osób chcących tę stronę zlokalizować.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Los binarios anteriores a la compilación están disponibles como nightly builds.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103128Z" creationid="Natalia Kołosowska" creationdate="20210406T102732Z">
+        <seg>Wstępnie skompilowane pliki binarne są dostępne jako nightly builds. </seg>
       </tuv>
     </tu>
     <tu>
