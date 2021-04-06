@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Ahora, JRE se incluye con OmegaT y no es necesario obtenerlo por separado.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130512Z" creationid="Agata Borkowska" creationdate="20210406T130318Z">
+        <seg>Oprogramowanie JRE jest obecnie dołączane do programu OmegaT i nie trzeba nabywać go oddzielne.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Alternativas gratuitas (y compatibles) a Microsoft Office.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T153432Z" creationid="Justita" creationdate="20210324T153432Z">
@@ -1312,8 +1320,8 @@
       <tuv lang="es">
         <seg>OmegaT funcionará en cualquier sistema en el que esté instalado o pueda instalarse JRE (Java Runtime Environment).</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130218Z" creationid="Agata Borkowska" creationdate="20210406T130218Z">
-        <seg>Profram OmegaT zadziała na dowolnym systemie, na którym jest zainstalowane oprogramowanie JRE (Java Runtime Environment), lub możliwe jest jego zainstalowanie.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130452Z" creationid="Agata Borkowska" creationdate="20210406T130218Z">
+        <seg>Profram OmegaT będzie działać na dowolnym systemie, na którym jest lub może być zainstalowane oprogramowanie JRE (Java Runtime Environment).</seg>
       </tuv>
     </tu>
     <tu>
@@ -1322,6 +1330,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124939Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
         <seg>Program OmegaT dla Mac OS X dostępny jest zarówno w wersji podpisanej, jak i niepodpisanej. Mają one te same funkcje, ale zaleca się wybór wersji podpisanej, ponieważ system rozpozna, że program pochodzi od zidenyfikowanego dewelopera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT se instala correctamente en Windows (todas las versiones posteriores a 98), Macintosh OS X y Linux.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130630Z" creationid="Agata Borkowska" creationdate="20210406T130630Z">
+        <seg>Program OmegaT można poprawnie zainstalować w Windowsie (wszystkie wersje powyżej 98), Macintosh OS X i Linux.</seg>
       </tuv>
     </tu>
     <tu>
