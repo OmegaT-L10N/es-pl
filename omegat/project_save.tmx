@@ -78,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Vista general de descargas&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201246Z" creationid="DELL" creationdate="20210406T201246Z">
+        <seg>&lt;a0&gt;Przegląd pobrań&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;b0&gt;Cerrar&lt;/b0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170359Z" creationid="DELL" creationdate="20210403T170359Z">
@@ -90,6 +98,22 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115525Z" creationid="Agata Borkowska" creationdate="20210406T115525Z">
         <seg>&lt;i1&gt;Program OmegaT można zainstalować na dowolnym systemie operacyjnym zdolnym do uruchomienia oprogramowania Java Runtime Environment 1,6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Última versión</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201506Z" creationid="DELL" creationdate="20210406T201440Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.latest.name}}&lt;/a1&gt;&lt;/s0&gt; Wersja najnowsza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Versión estándar</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201324Z" creationid="DELL" creationdate="20210406T201310Z">
+        <seg>&lt;s0&gt;&lt;a1&gt;{{site.data.versions.standard.name}}&lt;/a1&gt;&lt;/s0&gt; Wersja standardowa</seg>
       </tuv>
     </tu>
     <tu>
@@ -946,6 +970,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T194004Z" creationid="DELL" creationdate="20210406T194004Z">
         <seg>ODF (LibreOffice, OpenOffice.org)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Foto del usuario</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201517Z" creationid="DELL" creationdate="20210406T201517Z">
+        <seg>Zdjęcie użytkownika</seg>
       </tuv>
     </tu>
     <tu>
@@ -2630,10 +2662,26 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>download#latest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201357Z" creationid="DELL" creationdate="20210406T201357Z">
+        <seg>pobierz#ostatni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>download#selector</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T200802Z" creationid="DELL" creationdate="20210406T200802Z">
         <seg>pobierz#selektor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#standard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201253Z" creationid="DELL" creationdate="20210406T201253Z">
+        <seg>pobierz#standard</seg>
       </tuv>
     </tu>
     <tu>
