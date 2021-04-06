@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>...y otros 30 formatos de archivo aprox.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194305Z" creationid="DELL" creationdate="20210406T194305Z">
+        <seg>...i około 30 innych formatów plików.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;a0&gt;Descargar&lt;/a0&gt; &lt;a1&gt;Introducción&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170033Z" creationid="DELL" creationdate="20210403T170033Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210324T130016Z" creationid="Justita" creationdate="20210324T130016Z">
         <seg>Narzędzie umożliwiające korzystanie ze słowników online.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Herramientas potentes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T194641Z" creationid="DELL" creationdate="20210406T194641Z">
+        <seg>Narzędzia zaawansowane</seg>
       </tuv>
     </tu>
     <tu>
