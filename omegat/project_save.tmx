@@ -1192,8 +1192,8 @@
       <tuv lang="es">
         <seg>No obstante, las últimas versiones de OmegaT suelen ser muy estables y se recomiendan para usuarios que ya tengan experiencia con OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124711Z" creationid="Agata Borkowska" creationdate="20210406T124711Z">
-        <seg>OmegaT suelen ser muy estables y se recomiendan para usuarios que ya tengan experiencia con OmegaT.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124910Z" creationid="Agata Borkowska" creationdate="20210406T124711Z">
+        <seg>Niemniej jednak, najnowsze wersje programu OmegaT są zazwyczaj bardzo stabilne i zalecane są dla użytkowników, którzy mają doświadczenie z programem OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1606,6 +1606,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Según sus elecciones, le recomendamos que use:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T125055Z" creationid="Agata Borkowska" creationdate="20210406T125055Z">
+        <seg>W zalezności od wyboru, zalecamy użycie::</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Seleccione si descargar OmegaT con Java Runtime Environment (JRE) incluido o sin él.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120058Z" creationid="Agata Borkowska" creationdate="20210406T120058Z">
@@ -1760,8 +1768,8 @@
       <tuv lang="es">
         <seg>Sin embargo, es posible que el manual de usuario no esté actualizado (y por lo tanto sea confuso) y que aparezcan errores leves.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124700Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
-        <seg>Niemniej jednak, instrukcja obsługi może nie być zaktualizowana (może być myląca) oraz mogą mojawić się drobne błędy.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124804Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
+        <seg>Możliwe, że instrukcja obsługi nie jest zaktualizowana ( dlatego może być myląca) oraz mogą pojawić się drobne błędy.</seg>
       </tuv>
     </tu>
     <tu>
