@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;s0&gt;Diego Merino - Traductor EN &gt; ES &lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201913Z" creationid="DELL" creationdate="20210406T201913Z">
+        <seg>&lt;s0&gt;Diego Merino - Tłumacz EN &gt; ES &lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; es una aplicación de memorias de traducción libre que funciona en Windows, macOS, Linux...</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T190859Z" creationid="DELL" creationdate="20210406T190859Z">
@@ -138,6 +146,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104939Z" creationid="Natalia Kołosowska" creationdate="20210406T104939Z">
         <seg>&lt;s0&gt;Użytkownicy systemu Linux&lt;/s0&gt;: większość dystrybucji systemu Linux jest wyposażona w Java Runtime Environment ale niektóre implementacje open-source nie współpracują poprawnie z OmegaT (choć może to nie być od razu widoczne).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;s0&gt;Valter Mura - Traductor EN &gt; IT&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202050Z" creationid="DELL" creationdate="20210406T202050Z">
+        <seg>&lt;s0&gt;Valter Mura - Tłumacz EN &gt; IT&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -800,8 +816,8 @@
       <tuv lang="es">
         <seg>Es el compañero perfecto para los que no necesitamos complejidad, sino eficiencia.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201710Z" creationid="DELL" creationdate="20210406T201710Z">
-        <seg>Jest to idealny towarzysz dla tych, którzy nie potrzebują złożoności, ale wydajności..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201848Z" creationid="DELL" creationdate="20210406T201710Z">
+        <seg>Jest to idealny towarzysz dla tych, którzy nie potrzebują złożoności, ale wydajności.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1334,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los autores de ODF y los traductores italianos de LibreOffice se sienten orgullosos de usar una herramienta tan buena para su duro trabajo en la comunidad de LibreOffice.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T202036Z" creationid="DELL" creationdate="20210406T202036Z">
+        <seg>Autorzy ODF i włoscy tłumacze LibreOffice są dumni, że mogą używać tak dobrego narzędzia do swojej ciężkiej pracy w społeczności LibreOffice.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los binarios anteriores a la compilación están disponibles como nightly builds.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103128Z" creationid="Natalia Kołosowska" creationdate="20210406T102732Z">
@@ -1360,8 +1384,8 @@
       <tuv lang="es">
         <seg>Los glosarios, la opción de autocompletar y la traducción automática hacen que mi trabajo en la traducción literaria sea muy eficiente.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201833Z" creationid="DELL" creationdate="20210406T201833Z">
-        <seg>Glosariusze, autouzupełnianie i tłumaczenie maszynowe usprawniają moją pracę w zakresie tłumaczeń literackich..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T201939Z" creationid="DELL" creationdate="20210406T201833Z">
+        <seg>Glosariusze, autouzupełnianie i tłumaczenie maszynowe usprawniają moją pracę w zakresie tłumaczeń literackich.</seg>
       </tuv>
     </tu>
     <tu>
