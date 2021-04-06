@@ -1142,6 +1142,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Por lo tanto, siempre es seguro instalar la versión de OmegaT con JRE.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104506Z" creationid="Natalia Kołosowska" creationdate="20210406T104506Z">
+        <seg>Dlatego zawsze bezpiecznie jest zainstalować wersję programu OmegaT z JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Procedimiento de uso de OmegaT para localizar Magento.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231201Z" creationid="la_justyna" creationdate="20210331T231201Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104030Z" creationid="Natalia Kołosowska" creationdate="20210406T104030Z">
         <seg>Jeżeli użytkownik jest pewien, że na jego komputerze jest już zainstalowana odpowiednia wersja JRE, może pobrać wersję programu OmegaT bez JRE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Si instala la versión de OmegaT con JRE aunque ya tenga JRE instalado en su equipo, el JRE de OmegaT se instalará por separado y no entrará en conflicto.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104437Z" creationid="Natalia Kołosowska" creationdate="20210406T104437Z">
+        <seg>Jeśli użytkownik zaintaluje wersję OmegaT z JRE, mimo że JRE jest już zainstalowane na jego komputerze, JRE dla OmegaT zostanie zainstalowane oddzielnie i nie będzie kolidować z zainstalowanym już JRE.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1754,6 +1770,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
         <seg>np., kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>ej., la estándar o la última) y seleccione después una versión que no incluya Java.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104304Z" creationid="Natalia Kołosowska" creationdate="20210406T104304Z">
+        <seg>wersję standardową lub najnowszą), a następnie wybrać wersję, która nie zawiera Javy.</seg>
       </tuv>
     </tu>
     <tu>
