@@ -302,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Con esta versión, las futuras actualizaciones se instalarán automáticamente.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125049Z" creationid="Natalia Kołosowska" creationdate="20210406T125049Z">
+        <seg>W tej wersji przyszłe aktualizacje będą instalowane automatycznie.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Con/sin JRE</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103858Z" creationid="Natalia Kołosowska" creationdate="20210406T103858Z">
@@ -562,6 +570,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230730Z" creationid="la_justyna" creationdate="20210331T230730Z">
         <seg>Dokumentacja zewnętrzna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Durante la instalación, dependiendo de su sistema operativo, puede recibir varias advertencias de seguridad.&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125125Z" creationid="Natalia Kołosowska" creationdate="20210406T125125Z">
+        <seg>Podczas instalacji, w zależności od systemu operacyjnego, może zostać wyświetlonych kilka ostrzeżeń dotyczących bezpieczeństwa.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -974,6 +990,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La versión Web Start le ofrece una forma alternativa de instalar OmegaT en su equipo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125033Z" creationid="Natalia Kołosowska" creationdate="20210406T125033Z">
+        <seg>Wersja Web Start oferuje alternatywny sposób instalacji programu OmegaT na komputerze. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La última versión requiere Java {{site.data.versions.latest.java_version}}.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100629Z" creationid="Natalia Kołosowska" creationdate="20210406T100629Z">
@@ -1248,8 +1272,8 @@
       <tuv lang="es">
         <seg>OmegaT para Mac OS X está disponible en versión firmada y sin firmar; cuentan con las mismas funciones, pero es preferible usar la versión firmada porque el sistema reconoce que la ha publicado un desarrollador conocido.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124620Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
-        <seg>Program OmegaT dla Mac OS X dostępny jest zarówno w wersji podpisanej, jak i niepodpisanej. Mają one te same funkcje, ale zaleca się wybór wersji podpisane, ponieważ system rozpozna, że program pochodzi od zidenyfikowanego dewelopera.</seg>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124939Z" creationid="Natalia Kołosowska" creationdate="20210406T124620Z">
+        <seg>Program OmegaT dla Mac OS X dostępny jest zarówno w wersji podpisanej, jak i niepodpisanej. Mają one te same funkcje, ale zaleca się wybór wersji podpisanej, ponieważ system rozpozna, że program pochodzi od zidenyfikowanego dewelopera.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2221,6 +2245,14 @@ http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231108Z" creationid="la_justyna" creationdate="20210331T231108Z">
         <seg>
 http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-software.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.pnsconcept.com/coordinates.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125051Z" creationid="Natalia Kołosowska" creationdate="20210406T125051Z">
+        <seg>http://www.pnsconcept.com/coordinates.html</seg>
       </tuv>
     </tu>
     <tu>
