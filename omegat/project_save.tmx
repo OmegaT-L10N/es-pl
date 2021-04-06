@@ -1686,6 +1686,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si esta versión no está disponible, puede intentar &lt;a0&gt;descargar la versión sin firmar&lt;/a0&gt;.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130007Z" creationid="Agata Borkowska" creationdate="20210406T125706Z">
+        <seg>Jeśli ta wersje nie jest dostępna można spróbować  &lt;a0&gt;pobrać wersję niewspieraną&lt;/a0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si está moderadamente familiarizado con los equipos en general y elige un lenguaje de scripting sencillo como JavaScript o Tcl/Tk, podría aprender usted mismo a escribir scripts simples pero útiles en tan solo un par de semanas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210315T101617Z" creationid="Anna Wolska" creationdate="20210315T101617Z">
