@@ -1502,6 +1502,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si ya tiene un JRE adecuado instalado en su sistema Windows, seleccione "sin JRE".</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120234Z" creationid="Agata Borkowska" creationdate="20210406T120234Z">
+        <seg>Jeśli w systemie Windows użytkownika jest już zainstalowane odpowiednie oprogramowanie JRE, należy wybrać wersję "bez JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Sin embargo, algunos usuarios pueden encontrar restricciones (impuestas por sus sistemas operativos o versión de Java) que pueden hacer que prefieran una versión más antigua.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103853Z" creationid="Natalia Kołosowska" creationdate="20210406T103853Z">
