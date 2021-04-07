@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="es">
+        <seg>"¡Pero yo no sé programar!", dirá.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053008Z" creationid="DELL" creationdate="20210407T053008Z">
+        <seg>"¡Pero yo no sé programar!", powiesz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>#get-started</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T165001Z" creationid="DELL" creationdate="20210403T165001Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T101742Z" creationid="Agata Borkowska" creationdate="20210406T101742Z">
         <seg>Blogi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Bueno, ¿se ha planteado aprender?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053120Z" creationid="DELL" creationdate="20210407T053120Z">
+        <seg>A rozważałeś jego naukę?</seg>
       </tuv>
     </tu>
     <tu>
@@ -994,6 +1010,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232117Z" creationid="la_justyna" creationdate="20210331T232117Z">
         <seg>Te narzędzia pozwalają na wykorzystanie OmegaT w celu tłumaczenia formatów plików i aby  filtry konwersji do XLIFF były dostępne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Este código auxiliar ya se ha escrito en Javascript, Groovy y Tcl/Tk, por ejemplo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T052939Z" creationid="DELL" creationdate="20210407T052939Z">
+        <seg>Ten kod pomocniczy został już na przykład napisany w Javascript, Groovy y Tcl/Tk.</seg>
       </tuv>
     </tu>
     <tu>
