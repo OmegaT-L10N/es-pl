@@ -2990,14 +2990,6 @@
     </tu>
     <tu>
       <tuv lang="es">
-        <seg>download#downloadTrunk</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T052400Z" creationid="DELL" creationdate="20210407T052400Z">
-        <seg>pobierz#pobierzTrunk</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
         <seg>download#downloads</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T053517Z" creationid="DELL" creationdate="20210406T201225Z">
