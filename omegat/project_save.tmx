@@ -3231,8 +3231,8 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       <tuv lang="es">
         <seg>¿Ha escrito alguna vez un artículo para la revista de su asociación profesional?</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T051319Z" creationid="DELL" creationdate="20210407T051319Z">
-        <seg>Czy zdarzyło Ci się napisać artykuł do pisma branżowego?</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051515Z" creationid="DELL" creationdate="20210407T051319Z">
+        <seg>Czy kiedykolwiek miałeś okazję napisać artykuł do magazynu  branżowego?</seg>
       </tuv>
     </tu>
     <tu>
