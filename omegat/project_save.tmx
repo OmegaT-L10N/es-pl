@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Esto quiere decir que solo faltan unos pocos miles.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T050002Z" creationid="DELL" creationdate="20210407T050002Z">
+        <seg>Brakuje więc tłumaczenie na pozostałe kilka tysięcy języków!.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Estándar</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124021Z" creationid="Agata Borkowska" creationdate="20210406T124021Z">
