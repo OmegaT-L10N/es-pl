@@ -2014,6 +2014,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Pruebas</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T050608Z" creationid="DELL" creationdate="20210407T050608Z">
+        <seg>Testy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Puede haber también funciones o soluciones alternativas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155403Z" creationid="Anna Wolska" creationdate="20210331T155350Z">
@@ -2682,6 +2690,14 @@
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155236Z" creationid="Anna Wolska" creationdate="20210331T155236Z">
         <seg>Warto to robić między innymi dlatego, że pożądana funkcja mogła już zostać wprowadzona albo istnieją powody, dla których nie można jej wdrożyć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Una de las cosas más útiles que pueden hacer los usuarios de OmegaT es... usar OmegaT y, si encuentran algo que no funciona o deficiencias en la documentación, decírnoslo.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051112Z" creationid="DELL" creationdate="20210407T051112Z">
+        <seg>Jedną z najbardziej przydatnych czynności wykonywanych przez użytkowników programu OmegaT jest... używanie tego narzędzia, a jeśli zauważysz, że coś nie działa lub dostrzeżesz braki w dokumentacji, daj nam znać.  </seg>
       </tuv>
     </tu>
     <tu>
