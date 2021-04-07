@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Publicidad</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051208Z" creationid="DELL" creationdate="20210407T051132Z">
+        <seg>Reklama przez publikacje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Puede haber también funciones o soluciones alternativas.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155403Z" creationid="Anna Wolska" creationdate="20210331T155350Z">
@@ -3217,6 +3225,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131636Z" creationid="Agata Borkowska" creationdate="20210406T131636Z">
         <seg>Rozważałeś przekazanie datku na program OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>¿Ha escrito alguna vez un artículo para la revista de su asociación profesional?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051319Z" creationid="DELL" creationdate="20210407T051319Z">
+        <seg>Czy zdarzyło Ci się napisać artykuł do pisma branżowego?</seg>
       </tuv>
     </tu>
     <tu>
