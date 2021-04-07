@@ -2022,6 +2022,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Programación (en otro lenguaje)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T052716Z" creationid="DELL" creationdate="20210407T052716Z">
+        <seg>Programowanie (w innym języku)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Propagación de coincidencias</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T191954Z" creationid="DELL" creationdate="20210406T191954Z">
@@ -2286,6 +2294,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si es programador y sabe programar en Java, eche un vistazo a la documentación en el &lt;a0&gt;código fuente&lt;/a0&gt; en /docs_devel para obtener información sobre cómo empezar.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T052655Z" creationid="DELL" creationdate="20210407T052655Z">
+        <seg>Jeśli jesteś programistą i potrafisz programować w języku Java, spójrz na dokumentację w &lt;a0&gt;kodzie źródłowym&lt;/a0&gt; w /docs_devel, aby dowiedzieć się, jak zacząć.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si es relativamente nuevo en Linux, le recomendamos que seleccione una versión de OmegaT con JRE incluido.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T105033Z" creationid="Natalia Kołosowska" creationdate="20210406T105033Z">
@@ -2386,6 +2402,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120517Z" creationid="Agata Borkowska" creationdate="20210406T120348Z">
         <seg>Jeśli go nie ma lub użytkownik nie jest pewny, należy wyvrać wersję "z JRE".</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Si sabe programar en otro lenguaje, puede escribir código para complementar la aplicación base.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T052832Z" creationid="DELL" creationdate="20210407T052832Z">
+        <seg>Jeśli potrafisz programować w innym języku, możesz napisać kod uzupełnający wersję podstawową.</seg>
       </tuv>
     </tu>
     <tu>
