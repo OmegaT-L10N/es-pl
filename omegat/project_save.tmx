@@ -8,8 +8,8 @@
       <tuv lang="es">
         <seg>"¡Pero yo no sé programar!", dirá.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T053008Z" creationid="DELL" creationdate="20210407T053008Z">
-        <seg>"¡Pero yo no sé programar!", powiesz.</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T054018Z" creationid="DELL" creationdate="20210407T053008Z">
+        <seg>"Ale ja nie potrafię programować!", powiesz.</seg>
       </tuv>
     </tu>
     <tu>
@@ -192,8 +192,8 @@
       <tuv lang="es">
         <seg>A continuación hay una lista de los campos en los que los voluntarios serían más que bienvenidos.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T044441Z" creationid="DELL" creationdate="20210407T044441Z">
-        <seg>Poniżej znajduje się lista dziedzin, w których wolontariusze są mile widziani..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053942Z" creationid="DELL" creationdate="20210407T044441Z">
+        <seg>Poniżej znajduje się lista dziedzin, w których wolontariusze są mile widziani.</seg>
       </tuv>
     </tu>
     <tu>
@@ -544,8 +544,8 @@
       <tuv lang="es">
         <seg>Contacte al &lt;a0&gt;coordinador de localización de OmegaT&lt;/a0&gt; para conocer detalles sobre lo que implica localizar/traducir OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T050559Z" creationid="DELL" creationdate="20210407T050559Z">
-        <seg>W celu uzuskania &lt;a0&gt;szczegółowych informacji na temat lokalizacji/tłumaczenia programu OmegaT&lt;/a0&gt; skontaktuj się z koordynatorem ds.lokalizacji programu OmegaT.</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T054150Z" creationid="DELL" creationdate="20210407T050559Z">
+        <seg>W celu uzuskania &lt;a0&gt;szczegółowych informacji na temat lokalizacji/tłumaczenia programu OmegaT,&lt;/a0&gt; skontaktuj się z koordynatorem ds.lokalizacji programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2792,8 +2792,8 @@
       <tuv lang="es">
         <seg>Una de las cosas más útiles que pueden hacer los usuarios de OmegaT es... usar OmegaT y, si encuentran algo que no funciona o deficiencias en la documentación, decírnoslo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T051112Z" creationid="DELL" creationdate="20210407T051112Z">
-        <seg>Jedną z najbardziej przydatnych czynności wykonywanych przez użytkowników programu OmegaT jest... używanie tego narzędzia, a jeśli zauważysz, że coś nie działa lub dostrzeżesz braki w dokumentacji, daj nam znać.  </seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T054347Z" creationid="DELL" creationdate="20210407T051112Z">
+        <seg>Jedną z najbardziej przydatnych czynności wykonywanych przez użytkowników projektu OmegaT jest... używanie tego narzędzia. Jeśli zauważysz, że coś nie działa lub dostrzeżesz braki w dokumentacji, po prostu dajesz nam znać.  </seg>
       </tuv>
     </tu>
     <tu>
@@ -2986,14 +2986,6 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T193244Z" creationid="DELL" creationdate="20210406T193244Z">
         <seg>XHTML i HTML</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>documentation</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T044609Z" creationid="DELL" creationdate="20210407T044609Z">
-        <seg>dokumentacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -3303,8 +3295,8 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       <tuv lang="es">
         <seg>¿Ha pensado en escribir parte de la documentación usted mismo?</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T045216Z" creationid="DELL" creationdate="20210407T045216Z">
-        <seg>Myśleliście może, aby stworzyć  część takiej dokumentacji?</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T054122Z" creationid="DELL" creationdate="20210407T045216Z">
+        <seg>Myśleliście może, aby stworzyć część takiej dokumentacji?</seg>
       </tuv>
     </tu>
     <tu>
