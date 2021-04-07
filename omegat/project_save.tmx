@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La &lt;a0&gt;documentación&lt;/a0&gt; es muy importante.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T044654Z" creationid="DELL" creationdate="20210407T044654Z">
+        <seg> &lt;a0&gt;Dokumentacja&lt;/a0&gt; jest bardzo ważnym elementem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La aplicación se ejecuta en su equipo.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125851Z" creationid="Natalia Kołosowska" creationdate="20210406T125851Z">
@@ -1578,6 +1586,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103130Z" creationid="Natalia Kołosowska" creationdate="20210406T103130Z">
         <seg>Master</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Muchos de los que están leyendo esto probablemente sean traductores que han traducido mucha documentación de usuario.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T044844Z" creationid="DELL" creationdate="20210407T044844Z">
+        <seg>Z pewnościa wielu w Was jest tłumaczami, którzy na swoim koncie mają liczne tłumaczenia dokumenacji użytkowanika.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2818,6 +2834,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T193244Z" creationid="DELL" creationdate="20210406T193244Z">
         <seg>XHTML i HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>documentation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T044609Z" creationid="DELL" creationdate="20210407T044609Z">
+        <seg>dokumentacja</seg>
       </tuv>
     </tu>
     <tu>
