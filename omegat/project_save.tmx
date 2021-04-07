@@ -526,6 +526,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Contacte al &lt;a0&gt;coordinador de localización de OmegaT&lt;/a0&gt; para conocer detalles sobre lo que implica localizar/traducir OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T050559Z" creationid="DELL" creationdate="20210407T050559Z">
+        <seg>W celu uzuskania &lt;a0&gt;szczegółowych informacji na temat lokalizacji/tłumaczenia programu OmegaT&lt;/a0&gt; skontaktuj się z koordynatorem ds.lokalizacji programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Contribución de Didier Briel.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T191505Z" creationid="Anna Wolska" creationdate="20210331T191505Z">
@@ -1024,8 +1032,8 @@
       <tuv lang="es">
         <seg>Esto quiere decir que solo faltan unos pocos miles.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T050002Z" creationid="DELL" creationdate="20210407T050002Z">
-        <seg>Brakuje więc tłumaczenie na pozostałe kilka tysięcy języków!.</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T050032Z" creationid="DELL" creationdate="20210407T050002Z">
+        <seg>Brakuje więc tłumaczenie na pozostałe kilka tysięcy języków!</seg>
       </tuv>
     </tu>
     <tu>
@@ -1306,6 +1314,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235430Z" creationid="la_justyna" creationdate="20210330T235430Z">
         <seg>Lista producentów OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>La localización de OmegaT a otros idiomas también es una tarea en curso, ya que se añaden características y funciones nuevas constantemente.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T050303Z" creationid="DELL" creationdate="20210407T050303Z">
+        <seg>Lokalizacja programu OmegaT na inne języki jest procesem ciągłym, ponieważ dodawane są nieustanne nowe elementy i funkcje. </seg>
       </tuv>
     </tu>
     <tu>
