@@ -16,8 +16,8 @@
       <tuv lang="es">
         <seg>#get-started</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210403T165001Z" creationid="DELL" creationdate="20210403T165001Z">
-        <seg>#rozpocznij</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053222Z" creationid="DELL" creationdate="20210403T165001Z">
+        <seg>#rget.starded</seg>
       </tuv>
     </tu>
     <tu>
@@ -2994,14 +2994,6 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T044609Z" creationid="DELL" creationdate="20210407T044609Z">
         <seg>dokumentacja</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>download</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210403T164743Z" creationid="DELL" creationdate="20210403T164743Z">
-        <seg>pobierz</seg>
       </tuv>
     </tu>
     <tu>
