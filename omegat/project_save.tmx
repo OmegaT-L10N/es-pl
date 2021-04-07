@@ -782,6 +782,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Donaciones</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051912Z" creationid="DELL" creationdate="20210407T051912Z">
+        <seg>Darowizny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Durante la instalación, dependiendo de su sistema operativo, puede recibir varias advertencias de seguridad.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125125Z" creationid="Natalia Kołosowska" creationdate="20210406T125125Z">
@@ -2342,6 +2350,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si no lo ha hecho, ¿por qué no se anima a escribir uno sobre el uso de OmegaT?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051807Z" creationid="DELL" creationdate="20210407T051807Z">
+        <seg>Jeśli jeszcze tego nie zrobiłeś, to może napiszesz artykuł na temat pracy z programem OmegaT?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si no lo tiene o no está seguro, seleccione "con JRE".</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120517Z" creationid="Agata Borkowska" creationdate="20210406T120348Z">
@@ -3231,8 +3247,8 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       <tuv lang="es">
         <seg>¿Ha escrito alguna vez un artículo para la revista de su asociación profesional?</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210407T051515Z" creationid="DELL" creationdate="20210407T051319Z">
-        <seg>Czy kiedykolwiek miałeś okazję napisać artykuł do magazynu  branżowego?</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T051538Z" creationid="DELL" creationdate="20210407T051319Z">
+        <seg>Czy kiedykolwiek miałeś okazję napisać artykuł do magazynu branżowego?</seg>
       </tuv>
     </tu>
     <tu>
