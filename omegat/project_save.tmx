@@ -144,8 +144,8 @@
       <tuv lang="es">
         <seg>&lt;s0&gt;OmegaT&lt;/s0&gt; está disponible en un gran número de versiones diferentes para ajustarse a las distintas necesidades de los usuarios.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T195938Z" creationid="DELL" creationdate="20210406T195938Z">
-        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  jest dostępny w wielu różnych wersjach, aby sprostać różnym wymaganiom użytkowników.</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053402Z" creationid="DELL" creationdate="20210406T195938Z">
+        <seg>&lt;s0&gt;OmegaT&lt;/s0&gt;  jest dostępny w wielu wersjach, aby sprostać różnym wymaganiom użytkowników.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1872,8 +1872,8 @@
       <tuv lang="es">
         <seg>Para encontrar la versión más apropiada para usted, haga clic en el siguiente enlace al Selector de descarga.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201007Z" creationid="DELL" creationdate="20210406T200635Z">
-        <seg>Kliknij na poniższy link Selektora pobrań, aby znaleźć najbardziej odpowiednią dla siebie wersję..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053431Z" creationid="DELL" creationdate="20210406T200635Z">
+        <seg>Kliknij na poniższy link Selektora pobrań, aby znaleźć dla siebie najbardziej odpowiednią wersję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2632,8 +2632,8 @@
       <tuv lang="es">
         <seg>También puede hacer clic en el botón para ver información general sobre las distintas versiones de OmegaT disponibles si ya sabe cuál quiere descargar.</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T200744Z" creationid="DELL" creationdate="20210406T200744Z">
-        <seg>Jeśli wiesz już, którą wersję programu OmegaT chcesz pobrać, możesz również kliknąć ten przycisk, aby wyświetlić przegląd różnych dostępnych wersji programu..</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053447Z" creationid="DELL" creationdate="20210406T200744Z">
+        <seg>Jeśli wiesz już, którą wersję programu OmegaT chcesz pobrać, możesz również kliknąć ten przycisk, aby wyświetlić przegląd różnych dostępnych wersji programu.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3008,32 +3008,8 @@
       <tuv lang="es">
         <seg>download#downloads</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201225Z" creationid="DELL" creationdate="20210406T201225Z">
-        <seg>pobierz#pliki</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>download#latest</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201357Z" creationid="DELL" creationdate="20210406T201357Z">
-        <seg>pobierz#ostatni</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>download#selector</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T200802Z" creationid="DELL" creationdate="20210406T200802Z">
-        <seg>pobierz#selektor</seg>
-      </tuv>
-    </tu>
-    <tu>
-      <tuv lang="es">
-        <seg>download#standard</seg>
-      </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210406T201253Z" creationid="DELL" creationdate="20210406T201253Z">
-        <seg>pobierz#standard</seg>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T053517Z" creationid="DELL" creationdate="20210406T201225Z">
+        <seg>download#downloadsi</seg>
       </tuv>
     </tu>
     <tu>
