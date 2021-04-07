@@ -182,6 +182,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>A continuación hay una lista de los campos en los que los voluntarios serían más que bienvenidos.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T044441Z" creationid="DELL" creationdate="20210407T044441Z">
+        <seg>Poniżej znajduje się lista dziedzin, w których wolontariusze są mile widziani..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>A continuación se muestran enlaces a las distintas versiones de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T104624Z" creationid="Agata Borkowska" creationdate="20210406T104624Z">
@@ -570,6 +578,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T195224Z" creationid="DELL" creationdate="20210406T195224Z">
         <seg>Włączone sprawdzanie pisowni</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Creación de documentación</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T044555Z" creationid="DELL" creationdate="20210407T044555Z">
+        <seg>Tworzenie dokumentacji</seg>
       </tuv>
     </tu>
     <tu>
