@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Sin duda, la programación es la función más importante, y sin programación, no hay programa.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203721Z" creationid="DELL" creationdate="20210406T203721Z">
+        <seg>Bez wątpienia programowanie jest najważniejszą funkcją, a bez programowania program nie może powstać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Sin embargo, algunos usuarios pueden encontrar restricciones (impuestas por sus sistemas operativos o versión de Java) que pueden hacer que prefieran una versión más antigua.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T103853Z" creationid="Natalia Kołosowska" creationdate="20210406T103853Z">
@@ -2314,6 +2322,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124804Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
         <seg>Możliwe, że instrukcja obsługi nie jest zaktualizowana ( dlatego może być myląca) oraz mogą pojawić się drobne błędy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sin embargo, esto no es lo único que hay que hacer.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210406T203800Z" creationid="DELL" creationdate="20210406T203800Z">
+        <seg>Nie jest to jednak jedyna rzecz, którą należy zrobić.</seg>
       </tuv>
     </tu>
     <tu>
