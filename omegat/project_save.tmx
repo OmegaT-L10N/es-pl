@@ -3157,6 +3157,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>¿Ha pensado en escribir parte de la documentación usted mismo?</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T045216Z" creationid="DELL" creationdate="20210407T045216Z">
+        <seg>Myśleliście może, aby stworzyć  część takiej dokumentacji?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Última versión</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124449Z" creationid="Agata Borkowska" creationdate="20210406T124449Z">
