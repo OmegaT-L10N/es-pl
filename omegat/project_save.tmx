@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Gracias al trabajo de los traductores en el pasado, la interfaz de usuario de OmegaT y/o los textos de ayuda se han traducido a varios idiomas.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T045743Z" creationid="DELL" creationdate="20210407T045743Z">
+        <seg>Dzięki dotychczasowej pracy tłumaczy interfejs użytkownika oraz pomoc programu OmegaT zostały przetłumaczone na kilka języków.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de Facebook</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000353Z" creationid="la_justyna" creationdate="20210331T000353Z">
@@ -1410,6 +1418,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T202451Z" creationid="DELL" creationdate="20210406T202342Z">
         <seg>Używam programu OmegaT jako profesjonalny tłumacz od ponad 10 lat i od początku zyskałem dzięki prostej obsłudze oraz niezwykle pomocnemu forum.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Localización</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T045251Z" creationid="DELL" creationdate="20210407T045251Z">
+        <seg>Lokalizacja</seg>
       </tuv>
     </tu>
     <tu>
@@ -3145,6 +3161,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
         <seg>{{ site.data.links.support }</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>¡Le abrirá los ojos!</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T045235Z" creationid="DELL" creationdate="20210407T045235Z">
+        <seg>To napradę cenne doświadczenie!</seg>
       </tuv>
     </tu>
     <tu>
