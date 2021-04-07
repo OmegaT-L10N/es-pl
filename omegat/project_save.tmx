@@ -2262,6 +2262,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Si OmegaT le ha resultado de utilidad y le gustaría expresar su agradecimiento, puede hacer una &lt;a0&gt;donación&lt;/a0&gt; en nuestra cuenta de Paypal.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210407T052311Z" creationid="DELL" creationdate="20210407T052311Z">
+        <seg>Jeśli skorzystałeś na  pracy z programem OmegaT i chciałbyś wyrazić swoją wdzięczność, możesz dokonaćwpłaty&lt;a0&gt;darowizny&lt;/a0&gt; na nasze konto Paypal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si es relativamente nuevo en Linux, le recomendamos que seleccione una versión de OmegaT con JRE incluido.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T105033Z" creationid="Natalia Kołosowska" creationdate="20210406T105033Z">
