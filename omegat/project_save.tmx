@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmegaT - La herramienta TAO gratuita</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210409T133757Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210409T133757Z">
+        <seg>[fuzzy]OmegaT - Darmowe narzędzie CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT &lt;s0&gt;La herramienta TAO gratuita&lt;/s0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170116Z" creationid="Anna Wolska" creationdate="20210315T090524Z">
