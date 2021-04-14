@@ -184,8 +184,8 @@
       <tuv lang="es">
         <seg>&lt;s3&gt;La desventaja&lt;/s3&gt;: por el momento, no se puede usar esta versión con complementos, por lo que no están disponibles todas las funciones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115012Z" creationid="Agata Borkowska" creationdate="20210406T115012Z">
-        <seg>&lt;s3&gt;Wada&lt;/s3&gt;:na ten moment tej wetsji nie można używać z dodatkami, więc niektóre funkcjie nie będą dostępne.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130748Z" creationid="Agata Borkowska" creationdate="20210406T115012Z">
+        <seg>&lt;s3&gt;Wada&lt;/s3&gt;:na ten moment tej wersji nie można używać z dodatkami, więc niektóre funkcje nie będą dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2384,8 +2384,8 @@
       <tuv lang="es">
         <seg>Si no está seguro de qué versión descargar, puede usar el &lt;a0&gt;Selector de descarga&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110650Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
-        <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać narzędzia  &lt;a0&gt;Wsparcie pobierania &lt;/a0&gt;.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130703Z" creationid="Agata Borkowska" creationdate="20210406T110444Z">
+        <seg>Jeśli nie jesteś pewny jaką wersję pobrać, możesz skorzystać z narzędzia  &lt;a0&gt;Wsparcie pobierania &lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2416,8 +2416,8 @@
       <tuv lang="es">
         <seg>Si no está seguro, seleccione esta versión.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114432Z" creationid="Agata Borkowska" creationdate="20210406T114432Z">
-        <seg>W razie niepewności, nalezy wybrać tę wetsję.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130721Z" creationid="Agata Borkowska" creationdate="20210406T114432Z">
+        <seg>W razie niepewności, nalezy wybrać tę wersję.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2432,8 +2432,8 @@
       <tuv lang="es">
         <seg>Si no lo tiene o no está seguro, seleccione "con JRE".</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T120517Z" creationid="Agata Borkowska" creationdate="20210406T120348Z">
-        <seg>Jeśli go nie ma lub użytkownik nie jest pewny, należy wyvrać wersję "z JRE".</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130837Z" creationid="Agata Borkowska" creationdate="20210406T120348Z">
+        <seg>Jeśli go nie ma lub użytkownik nie jest pewny, należy wybrać wersję "z JRE".</seg>
       </tuv>
     </tu>
     <tu>
