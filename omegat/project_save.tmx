@@ -424,8 +424,8 @@
       <tuv lang="es">
         <seg>Como su nombre indica, la "última versión" de OmegaT está más actualizada.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124524Z" creationid="Agata Borkowska" creationdate="20210406T124524Z">
-        <seg>Jak sama nazawa wskazuje "najnowsza wersja" prgorramu OmegaT jest najbardziej aktualna.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131038Z" creationid="Agata Borkowska" creationdate="20210406T124524Z">
+        <seg>Jak sama nazawa wskazuje "najnowsza wersja" programu OmegaT jest najbardziej aktualna.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1000,8 +1000,8 @@
       <tuv lang="es">
         <seg>Esta versión tardará más en descargarse y necesitará más espacio en su disco duro, pero puede estar seguro de que funcionará.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T122849Z" creationid="Agata Borkowska" creationdate="20210406T122849Z">
-        <seg>Pobieranie tej wersji zajmie więcej czasu i będzie wymagało więcej miesjca na dyski twardym, ale użytkownik może mieć pewność, że będzie ona działać.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130951Z" creationid="Agata Borkowska" creationdate="20210406T122849Z">
+        <seg>Pobieranie tej wersji zajmie więcej czasu i będzie wymagało więcej miesjca na dysku twardym, ale użytkownik może mieć pewność, że będzie ona działać.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Los archivos en formato XML de Microsoft Office se pueden traducir directamente en OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131210Z" creationid="Agata Borkowska" creationdate="20210414T131210Z">
+        <seg>Pliki w formacie Microsoft Office XML można tłumaczyć bezpośrednio w programie OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a la versión actual de los formatos de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130910Z" creationid="Agata Borkowska" creationdate="20210406T130910Z">
@@ -1872,8 +1880,8 @@
       <tuv lang="es">
         <seg>Para comprobar qué versión de JRE, si hay alguna, está instalada en su sistema Linux, abra la consola (ventana de línea de comandos) y escriba:</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T121925Z" creationid="Agata Borkowska" creationdate="20210406T121925Z">
-        <seg>Aby sprawdzić, która wersja oprogramowania JRE zainstalowana jest na systemie Linux, jeśli jest zainstalowana otwórz konsolę poleceń (okno wiersza poleceń) i wpisz, :</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130914Z" creationid="Agata Borkowska" creationdate="20210406T121925Z">
+        <seg>Aby sprawdzić, która wersja oprogramowania JRE zainstalowana jest w systemie Linux, jeśli jest zainstalowana otwórz konsolę poleceń (okno wiersza poleceń) i wpisz:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2288,8 +2296,8 @@
       <tuv lang="es">
         <seg>Según sus elecciones, le recomendamos que use:</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T125055Z" creationid="Agata Borkowska" creationdate="20210406T125055Z">
-        <seg>W zalezności od wyboru, zalecamy użycie::</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131103Z" creationid="Agata Borkowska" creationdate="20210406T125055Z">
+        <seg>W zależności od wyboru, zalecamy użycie:</seg>
       </tuv>
     </tu>
     <tu>
@@ -2504,8 +2512,8 @@
       <tuv lang="es">
         <seg>Sin embargo, es posible que el manual de usuario no esté actualizado (y por lo tanto sea confuso) y que aparezcan errores leves.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T124804Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
-        <seg>Możliwe, że instrukcja obsługi nie jest zaktualizowana ( dlatego może być myląca) oraz mogą pojawić się drobne błędy.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131046Z" creationid="Agata Borkowska" creationdate="20210406T124700Z">
+        <seg>Możliwe, że instrukcja obsługi nie jest zaktualizowana (dlatego może być myląca) oraz mogą pojawić się drobne błędy.</seg>
       </tuv>
     </tu>
     <tu>
