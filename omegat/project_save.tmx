@@ -328,8 +328,8 @@
       <tuv lang="es">
         <seg>Aunque OmegaT es gratuito, si usted lo encuentra útil y desea manifestar su gratitud, puede hacer un donativo a nuestra cuenta de Paypal.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132021Z" creationid="Agata Borkowska" creationdate="20210406T132021Z">
-        <seg>Chociaż program OmegaT jest darmowy, jeśli uważasz, że jest użyteczny i chcesz wyrazić swoją wdzięczność, możesz przekazać darwiznę na nasze konto Paypal.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131315Z" creationid="Agata Borkowska" creationdate="20210406T132021Z">
+        <seg>Chociaż program OmegaT jest darmowy, jeśli uważasz, że jest użyteczny i chcesz wyrazić swoją wdzięczność, możesz przekazać darowiznę na nasze konto Paypal.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1176,8 +1176,8 @@
       <tuv lang="es">
         <seg>Ha estado en uso durante algún tiempo y, por lo tanto, se ha probado.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132439Z" creationid="Agata Borkowska" creationdate="20210406T132439Z">
-        <seg>Wersja przetestowana, ponieważ była użytkowana przez pewien czas.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131339Z" creationid="Agata Borkowska" creationdate="20210406T132439Z">
+        <seg>Wersja przetestowana, była użytkowana przez pewien czas.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1504,8 +1504,8 @@
       <tuv lang="es">
         <seg>Los archivos en formatos antiguos de MS Word, Excel y PowerPoint se pueden traducir después de convertirlos a la versión actual de los formatos de Microsoft Office, o al formato Office Open XML, que se puede crear en OpenOffice.org o LibreOffice (también gratuito).</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T130910Z" creationid="Agata Borkowska" creationdate="20210406T130910Z">
-        <seg>Pliki w straszych formatach MS Word, Excel i PowerPoint mogą być tłumaczone po przekonwertowaniu ich do wersji aktualnej formatu Microsoft Office,lub do fromatu Office Open XML, który można utworzyć w  OpenOffice.org lub LibreOffice (również bezpłatnie).</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T131230Z" creationid="Agata Borkowska" creationdate="20210406T130910Z">
+        <seg>Pliki w straszych formatach MS Word, Excel i PowerPoint mogą być tłumaczone po przekonwertowaniu ich do wersji aktualnej formatu Microsoft Office lub do fromatu Office Open XML, który można utworzyć w OpenOffice.org lub LibreOffice (również bezpłatnie).</seg>
       </tuv>
     </tu>
     <tu>
