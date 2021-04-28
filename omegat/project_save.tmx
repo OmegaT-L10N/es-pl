@@ -694,6 +694,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171530Z" creationid="la_justyna" creationdate="20210428T171530Z">
+        <seg>Briac Pilpré</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Bueno, ¿se ha planteado aprender?</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T053120Z" creationid="DELL" creationdate="20210407T053120Z">
@@ -3698,6 +3706,14 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171107Z" creationid="la_justyna" creationdate="20210428T171107Z">
+        <seg>http://www.youtube.com/watch?v=8m2_R6L84PE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210428T171051Z" creationid="la_justyna" creationdate="20210428T171051Z">
@@ -3802,6 +3818,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210428T170617Z" creationid="DELL" creationdate="20210428T170617Z">
         <seg>https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>index.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171226Z" creationid="la_justyna" creationdate="20210428T171226Z">
+        <seg>index.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3971,6 +3995,15 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100434Z" creationid="Natalia Kołosowska" creationdate="20210406T100434Z">
         <seg>{% endif %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% for author in site.data.credits.website %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171243Z" creationid="la_justyna" creationdate="20210428T171243Z">
+        <seg>
+{% for author in site.data.credits.website %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4164,6 +4197,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
         <seg>{{ '/files/training/translation_memory_training_course.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ author }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171330Z" creationid="la_justyna" creationdate="20210428T171330Z">
+        <seg>{{ author }}</seg>
       </tuv>
     </tu>
     <tu>
