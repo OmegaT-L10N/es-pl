@@ -30,6 +30,38 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>#tab-install-type</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170533Z" creationid="Agata Borkowska" creationdate="20210428T170533Z">
+        <seg>#tab-install-type</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>#tab-jre</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170539Z" creationid="Agata Borkowska" creationdate="20210428T170539Z">
+        <seg>#tab-jre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>#tab-operating-system</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170537Z" creationid="Agata Borkowska" creationdate="20210428T170537Z">
+        <seg>#tab-operating-system</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>#tab-version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170535Z" creationid="Agata Borkowska" creationdate="20210428T170535Z">
+        <seg>#tab-version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>(El software que hace eso se llama "traducción automática" y tendrá que buscarlo en otra parte).</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T191716Z" creationid="DELL" creationdate="20210406T191716Z">
@@ -1298,6 +1330,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170143Z" creationid="DELL" creationdate="20210403T170143Z">
         <seg>Wprowadzenie do programu OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>JRE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170539Z" creationid="Agata Borkowska" creationdate="20210428T170539Z">
+        <seg>JRE</seg>
       </tuv>
     </tu>
     <tu>
@@ -3014,6 +3054,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Windows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170544Z" creationid="Agata Borkowska" creationdate="20210428T170544Z">
+        <seg>Windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>XHTML y HTML</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T193244Z" creationid="DELL" creationdate="20210406T193244Z">
@@ -3062,11 +3110,27 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170407Z" creationid="Agata Borkowska" creationdate="20210428T170407Z">
+        <seg>http://okapi.sourceforge.net/Release/Shared/Help/tutorial_02.htm</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://qabiria.com/s/learnomegat</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233049Z" creationid="la_justyna" creationdate="20210331T233049Z">
         <seg>
 http://qabiria.com/s/learnomegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/{{ site.data.versions.standard.name }}/OmegaT_documentation_en.PDF/download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170359Z" creationid="Agata Borkowska" creationdate="20210428T170359Z">
+        <seg>http://sourceforge.net/projects/omegat/files/OmegaT%20-%20Standard/{{ site.data.versions.standard.name }}/OmegaT_documentation_en.PDF/download</seg>
       </tuv>
     </tu>
     <tu>
@@ -3097,11 +3161,51 @@ http://www.magenshop.com/magento-wiki/how-to-translate-magento-using-omegat-soft
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170518Z" creationid="Agata Borkowska" creationdate="20210428T170518Z">
+        <seg>http://www.ultimabooks.it/guida-completa-a-omegat-tecniche-trucchi-e-consigli-per-traduttori-e-project-manager</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170523Z" creationid="Agata Borkowska" creationdate="20210428T170523Z">
+        <seg>http://www.velior.ru/blog/ru/tag/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.velior.ru/tag/omegat/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170357Z" creationid="Agata Borkowska" creationdate="20210428T170357Z">
+        <seg>http://www.velior.ru/tag/omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232246Z" creationid="la_justyna" creationdate="20210331T232246Z">
         <seg>
 http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170509Z" creationid="Agata Borkowska" creationdate="20210428T170509Z">
+        <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://blog.wtigga.com/omegat/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170403Z" creationid="Agata Borkowska" creationdate="20210428T170403Z">
+        <seg>https://blog.wtigga.com/omegat/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3124,6 +3228,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>https://omegat.sourceforge.io/manual-standard/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170402Z" creationid="Agata Borkowska" creationdate="20210428T170402Z">
+        <seg>https://omegat.sourceforge.io/manual-standard/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170413Z" creationid="Anna Wolska" creationdate="20210428T170413Z">
@@ -3136,6 +3248,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124624Z" creationid="Natalia Kołosowska" creationdate="20210406T124624Z">
         <seg>https://support.apple.com/kb/ph14369</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://www.multitude.trd.br/omegat-2/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170404Z" creationid="Agata Borkowska" creationdate="20210428T170404Z">
+        <seg>https://www.multitude.trd.br/omegat-2/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3176,6 +3296,22 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110826Z" creationid="Agata Borkowska" creationdate="20210406T110826Z">
         <seg>tradycyjny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>webstart</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170546Z" creationid="Agata Borkowska" creationdate="20210428T170546Z">
+        <seg>webstart</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>windows</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170543Z" creationid="Agata Borkowska" creationdate="20210428T170543Z">
+        <seg>windows</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3394,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230129Z" creationid="la_justyna" creationdate="20210331T230129Z">
         <seg>
 {{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.odt' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.pdf' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170403Z" creationid="Agata Borkowska" creationdate="20210428T170403Z">
+        <seg>{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.pdf' | prepend: site.baseurl_root }}</seg>
       </tuv>
     </tu>
     <tu>
