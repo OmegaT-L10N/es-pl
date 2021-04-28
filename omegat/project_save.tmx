@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>#download-wizard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170410Z" creationid="DELL" creationdate="20210428T170410Z">
+        <seg>#download-wizard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>#get-started</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T053222Z" creationid="DELL" creationdate="20210403T165001Z">
@@ -106,6 +114,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115525Z" creationid="Agata Borkowska" creationdate="20210406T115525Z">
         <seg>&lt;i1&gt;Program OmegaT można zainstalować na dowolnym systemie operacyjnym zdolnym do uruchomienia oprogramowania Java Runtime Environment 1,6.&lt;/i1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;k0&gt;git clone https://git.code.sf.net/p/omegat/code omegat-code&lt;/k0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170414Z" creationid="DELL" creationdate="20210428T170414Z">
+        <seg>&lt;k0&gt;git clone https://git.code.sf.net/p/omegat/code omegat-code&lt;/k0&gt;</seg>
       </tuv>
     </tu>
     <tu>
