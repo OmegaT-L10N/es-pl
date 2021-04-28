@@ -126,10 +126,50 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Complemento Apertium&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;Complemento Apertium&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;Complemento de filtros de Okapi&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Conversor de archivos TMX de Wordfast&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>&lt;a0&gt;Conversor de archivos TMX de Wordfast&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Curso de formación&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>&lt;a0&gt;Curso de formación&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;a0&gt;Descargar&lt;/a0&gt; &lt;a1&gt;Introducción&lt;/a1&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210403T170033Z" creationid="DELL" creationdate="20210403T170033Z">
         <seg>&lt;a0&gt;Pobieranie&lt;/a0&gt; &lt;a1&gt;Wprowadzenie&lt;/a1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Diccionarios ortográficos&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>&lt;a0&gt;Diccionarios ortográficos&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -142,6 +182,94 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Este sitio web&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>&lt;a0&gt;Este sitio web&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Framework Okapi&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>&lt;a0&gt;Framework Okapi&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Iconos&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>&lt;a0&gt;Iconos&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Introducción a OmegaT 2.5.0).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170805Z" creationid="DELL" creationdate="20210428T170805Z">
+        <seg>&lt;a0&gt;Introducción a OmegaT 2.5.0).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;LF Aligner&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>&lt;a0&gt;LF Aligner&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Ondiloto&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>&lt;a0&gt;Ondiloto&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>&lt;a0&gt;OpenOffice.org&lt;/a0&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Plugin para navegador web&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;Plugin para navegador web&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Repositorio de TMX de la localización&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>&lt;a0&gt;Repositorio de TMX de la localización&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Scripts de Toxic&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;Scripts de Toxic&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Scripts y procedimientos de Samuel Murray&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>&lt;a0&gt;Scripts y procedimientos de Samuel Murray&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;a0&gt;Selector de descarga&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T201026Z" creationid="DELL" creationdate="20210406T201026Z">
@@ -150,10 +278,114 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>&lt;a0&gt;Stripper&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;Stripper&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;TKount&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;TKount&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;TMXCleaner&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;TMXCleaner&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;TMXMerger&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;TMXMerger&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Textos de muestra&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>&lt;a0&gt;Textos de muestra&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Toxic para Linux&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;Toxic para Linux&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Toxic para Windows&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;Toxic para Windows&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Toxic&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>&lt;a0&gt;Toxic&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Utilidad de alineación Aligner&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;Utilidad de alineación Aligner&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;Utilidad de alineación Bligner&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>&lt;a0&gt;Utilidad de alineación Bligner&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>&lt;a0&gt;Vista general de descargas&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T201246Z" creationid="DELL" creationdate="20210406T201246Z">
         <seg>&lt;a0&gt;Przegląd pobrań&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a0&gt;bitext2tmx&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>&lt;a0&gt;bitext2tmx&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>&lt;a2&gt;Libre Office&lt;/a2&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>&lt;b0&gt; &lt;s1&gt;×&lt;/s1&gt; &lt;/b0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170617Z" creationid="DELL" creationdate="20210428T170617Z">
+        <seg>&lt;b0&gt; &lt;s1&gt;×&lt;/s1&gt; &lt;/b0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -1774,6 +2006,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170649Z" creationid="DELL" creationdate="20210428T170649Z">
+        <seg>MediaWiki (Wikipedia)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Microsoft Word, Excel, Power Point</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170648Z" creationid="DELL" creationdate="20210428T170648Z">
+        <seg>Microsoft Word, Excel, Power Point</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Muchos de los que están leyendo esto probablemente sean traductores que han traducido mucha documentación de usuario.</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T044844Z" creationid="DELL" creationdate="20210407T044844Z">
@@ -2118,6 +2366,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)&lt;/a0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170833Z" creationid="DELL" creationdate="20210428T170833Z">
+        <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Por lo tanto, siempre es seguro instalar la versión de OmegaT con JRE.</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T104506Z" creationid="Natalia Kołosowska" creationdate="20210406T104506Z">
@@ -2290,6 +2546,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T131121Z" creationid="Agata Borkowska" creationdate="20210406T131045Z">
         <seg>Wymagania wobec uzytkownika</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170805Z" creationid="DELL" creationdate="20210428T170805Z">
+        <seg>Revisión de OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3142,10 +3406,58 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>documentation</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170734Z" creationid="DELL" creationdate="20210428T170734Z">
+        <seg>documentation</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170613Z" creationid="DELL" creationdate="20210428T170613Z">
+        <seg>download</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#downloadTrunk</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170751Z" creationid="DELL" creationdate="20210428T170751Z">
+        <seg>download#downloadTrunk</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>download#downloads</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T053517Z" creationid="DELL" creationdate="20210406T201225Z">
         <seg>download#downloadsi</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#latest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170657Z" creationid="DELL" creationdate="20210428T170657Z">
+        <seg>download#latest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#selector</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170655Z" creationid="DELL" creationdate="20210428T170655Z">
+        <seg>download#selector</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>download#standard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170656Z" creationid="DELL" creationdate="20210428T170656Z">
+        <seg>download#standard</seg>
       </tuv>
     </tu>
     <tu>
@@ -3174,6 +3486,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>howtos/spelling.html#repositories</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>howtos/spelling.html#repositories</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://bligner.aligner.free.fr</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>http://bligner.aligner.free.fr</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170354Z" creationid="Anna Wolska" creationdate="20210428T170354Z">
@@ -3190,11 +3518,51 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://okapiframework.org/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>http://okapiframework.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://okapiframework.org/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>http://okapiframework.org/wiki/index.php?title=Okapi_Filters_Plugin_for_OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://openoffice.org/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>http://openoffice.org/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://qabiria.com/s/learnomegat</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233049Z" creationid="la_justyna" creationdate="20210331T233049Z">
         <seg>
 http://qabiria.com/s/learnomegat</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://sourceforge.net/projects/aligner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>http://sourceforge.net/projects/aligner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://sourceforge.net/projects/bitext2tmx</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>http://sourceforge.net/projects/bitext2tmx</seg>
       </tuv>
     </tu>
     <tu>
@@ -3207,11 +3575,43 @@ http://qabiria.com/s/learnomegat</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170805Z" creationid="DELL" creationdate="20210428T170805Z">
+        <seg>http://vertalersnieuws.blogspot.com/2011/12/omegat-vrije-vertaalsoftware-groeit-op.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>http://wiki.apertium.org/wiki/Apertium-OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T231218Z" creationid="la_justyna" creationdate="20210331T231218Z">
         <seg>
 http://wpml.org/documentation/translating-your-contents/using-desktop-cat-tools/translating-wordpress-xliff-files-in-omegat/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.leuce.com/autoit/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170803Z" creationid="DELL" creationdate="20210428T170803Z">
+        <seg>http://www.leuce.com/autoit/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.libreoffice.org/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>http://www.libreoffice.org/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3282,6 +3682,14 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>https://github.com/yoursdearboy/omegat-browser</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>https://github.com/yoursdearboy/omegat-browser</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170420Z" creationid="Anna Wolska" creationdate="20210428T170420Z">
@@ -3308,6 +3716,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170749Z" creationid="DELL" creationdate="20210428T170749Z">
+        <seg>https://sourceforge.net/p/omegat/donate/?source=website</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170413Z" creationid="Anna Wolska" creationdate="20210428T170413Z">
@@ -3328,6 +3744,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170404Z" creationid="Agata Borkowska" creationdate="20210428T170404Z">
         <seg>https://www.multitude.trd.br/omegat-2/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170617Z" creationid="DELL" creationdate="20210428T170617Z">
+        <seg>https://www.youtube.com/channel/UC2EFKLWWI4gh9BGpMf0-_5g</seg>
       </tuv>
     </tu>
     <tu>
@@ -3368,6 +3792,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170554Z" creationid="Agata Borkowska" creationdate="20210428T170554Z">
         <seg>linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>mailto:localization@omegat.org</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170745Z" creationid="DELL" creationdate="20210428T170745Z">
+        <seg>mailto:localization@omegat.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -3541,6 +3973,38 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{{ '/files/TMXCleaner-1.0.RC1.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/TMXCleaner-1.0.RC1.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/TMXMerger.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>{{ '/files/TMXMerger.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/WF.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>{{ '/files/WF.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/aligner.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170757Z" creationid="DELL" creationdate="20210428T170757Z">
+        <seg>{{ '/files/aligner.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{{ '/files/guide/OmegaT_for_Beginners_' | append:site.lang | append:'.odt' | prepend: site.baseurl_root }}</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230129Z" creationid="la_justyna" creationdate="20210331T230129Z">
@@ -3558,10 +4022,98 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{{ '/files/omegat-icons.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>{{ '/files/omegat-icons.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/omegatk/ondiloto.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>{{ '/files/omegatk/ondiloto.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/omegatk/stripper.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/omegatk/stripper.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210314T190235Z" creationid="Justita" creationdate="20210314T190235Z">
         <seg>&gt;{{ '/files/omegatk/tkount.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/omt_website.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170802Z" creationid="DELL" creationdate="20210428T170802Z">
+        <seg>{{ '/files/omt_website.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/sample_texts_1.0.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>{{ '/files/sample_texts_1.0.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/tmx_repository.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170801Z" creationid="DELL" creationdate="20210428T170801Z">
+        <seg>{{ '/files/tmx_repository.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/toxic.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/toxic.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/toxic_linux.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/toxic_linux.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/toxic_scripts.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/toxic_scripts.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/toxic_windows.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170758Z" creationid="DELL" creationdate="20210428T170758Z">
+        <seg>{{ '/files/toxic_windows.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ '/files/training/translation_memory_training_course.zip' | prepend: site.baseurl_root }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170759Z" creationid="DELL" creationdate="20210428T170759Z">
+        <seg>{{ '/files/training/translation_memory_training_course.zip' | prepend: site.baseurl_root }}</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +4170,30 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170428Z" creationid="Anna Wolska" creationdate="20210428T170428Z">
         <seg>{{ site.data.links.support }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{site.baseurl_root}}/img/quote1.jpg</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170728Z" creationid="DELL" creationdate="20210428T170728Z">
+        <seg>{{site.baseurl_root}}/img/quote1.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{site.baseurl_root}}/img/quote3.jpg</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170730Z" creationid="DELL" creationdate="20210428T170730Z">
+        <seg>{{site.baseurl_root}}/img/quote3.jpg</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{site.baseurl_root}}/img/screenshots/main_window_{{ site.lang }}.png</seg>
+      </tuv>
+      <tuv lang="pl" changeid="DELL" changedate="20210428T170652Z" creationid="DELL" creationdate="20210428T170652Z">
+        <seg>{{site.baseurl_root}}/img/screenshots/main_window_{{ site.lang }}.png</seg>
       </tuv>
     </tu>
     <tu>
