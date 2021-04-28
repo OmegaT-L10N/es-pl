@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>#</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170626Z" creationid="Agata Borkowska" creationdate="20210428T170626Z">
+        <seg>#</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>#download-wizard</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210428T170410Z" creationid="DELL" creationdate="20210428T170410Z">
@@ -62,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170602Z" creationid="Agata Borkowska" creationdate="20210428T170602Z">
+        <seg>$ &lt;s0&gt;java -version&lt;/s0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>(El software que hace eso se llama "traducción automática" y tendrá que buscarlo en otra parte).</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T191716Z" creationid="DELL" creationdate="20210406T191716Z">
@@ -98,6 +114,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T194305Z" creationid="DELL" creationdate="20210406T194305Z">
         <seg>...i około 30 innych formatów plików.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>35</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170645Z" creationid="Agata Borkowska" creationdate="20210428T170645Z">
+        <seg>35</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Donation to OmegaT - multiplatform CAT tool</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170647Z" creationid="Agata Borkowska" creationdate="20210428T170647Z">
+        <seg>Donation to OmegaT - multiplatform CAT tool</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Durante la instalación, dependiendo de su sistema operativo, puede recibir varias advertencias de seguridad.&lt;br0/&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125125Z" creationid="Natalia Kołosowska" creationdate="20210406T125125Z">
@@ -1510,6 +1542,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Linux</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170557Z" creationid="Agata Borkowska" creationdate="20210428T170557Z">
+        <seg>Linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Lista de reproducción de vídeos de OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232339Z" creationid="la_justyna" creationdate="20210331T232339Z">
@@ -1666,6 +1706,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T233436Z" creationid="la_justyna" creationdate="20210330T233436Z">
         <seg>Główni członkowie projektu:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Mac OS X</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170556Z" creationid="Agata Borkowska" creationdate="20210428T170556Z">
+        <seg>Mac OS X</seg>
       </tuv>
     </tu>
     <tu>
@@ -2830,6 +2878,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>USD</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170648Z" creationid="Agata Borkowska" creationdate="20210428T170648Z">
+        <seg>USD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>USD &lt;a0&gt;Donar&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T132109Z" creationid="Agata Borkowska" creationdate="20210406T132109Z">
@@ -3054,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Web Start</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170547Z" creationid="Agata Borkowska" creationdate="20210428T170547Z">
+        <seg>Web Start</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Windows</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170544Z" creationid="Agata Borkowska" creationdate="20210428T170544Z">
@@ -3066,6 +3130,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T193244Z" creationid="DELL" creationdate="20210406T193244Z">
         <seg>XHTML i HTML</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>_donations</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170647Z" creationid="Agata Borkowska" creationdate="20210428T170647Z">
+        <seg>_donations</seg>
       </tuv>
     </tu>
     <tu>
@@ -3268,6 +3340,54 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>jre</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170607Z" creationid="Agata Borkowska" creationdate="20210428T170607Z">
+        <seg>jre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>jre64b</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170612Z" creationid="Agata Borkowska" creationdate="20210428T170612Z">
+        <seg>jre64b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>latest</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170621Z" creationid="Agata Borkowska" creationdate="20210428T170621Z">
+        <seg>latest</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>linux</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170554Z" creationid="Agata Borkowska" creationdate="20210428T170554Z">
+        <seg>linux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>nojre</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170614Z" creationid="Agata Borkowska" creationdate="20210428T170614Z">
+        <seg>nojre</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>osx</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170555Z" creationid="Agata Borkowska" creationdate="20210428T170555Z">
+        <seg>osx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>other</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115220Z" creationid="Agata Borkowska" creationdate="20210406T115220Z">
@@ -3284,10 +3404,34 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>some version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170626Z" creationid="Agata Borkowska" creationdate="20210428T170626Z">
+        <seg>some version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>sponsorship.html</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170440Z" creationid="Anna Wolska" creationdate="20210428T170440Z">
         <seg>sponsorship.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>standard</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170618Z" creationid="Agata Borkowska" creationdate="20210428T170618Z">
+        <seg>standard</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>thank.you.omegat@gmail.com</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170646Z" creationid="Agata Borkowska" creationdate="20210428T170646Z">
+        <seg>thank.you.omegat@gmail.com</seg>
       </tuv>
     </tu>
     <tu>
@@ -3312,6 +3456,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170543Z" creationid="Agata Borkowska" creationdate="20210428T170543Z">
         <seg>windows</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% asset donation.js %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170649Z" creationid="Agata Borkowska" creationdate="20210428T170649Z">
+        <seg>{% asset donation.js %}</seg>
       </tuv>
     </tu>
     <tu>
