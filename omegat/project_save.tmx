@@ -3698,10 +3698,28 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171051Z" creationid="la_justyna" creationdate="20210428T171051Z">
+        <seg>
+http://www.youtube.com/watch?v=9oRsBcRXflE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170509Z" creationid="Agata Borkowska" creationdate="20210428T170509Z">
         <seg>http://www.youtube.com/watch?v=iakqcUvRsEU</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171034Z" creationid="la_justyna" creationdate="20210428T171034Z">
+        <seg>
+http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
       </tuv>
     </tu>
     <tu>
