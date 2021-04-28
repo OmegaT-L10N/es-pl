@@ -2998,6 +2998,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>TMXCleaner</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170926Z" creationid="Anna Wolska" creationdate="20210428T170926Z">
+        <seg>TMXCleaner</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>TMXMerger</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170934Z" creationid="Anna Wolska" creationdate="20210428T170934Z">
+        <seg>TMXMerger</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>También es posible hacer encargos a desarrolladores externos para su implementación en OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163901Z" creationid="Anna Wolska" creationdate="20210331T163851Z">
@@ -3058,6 +3074,14 @@
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T110741Z" creationid="Agata Borkowska" creationdate="20210406T110741Z">
         <seg>Sposób instalacji</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Toxic</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T171023Z" creationid="Anna Wolska" creationdate="20210428T171023Z">
+        <seg>Toxic</seg>
       </tuv>
     </tu>
     <tu>
