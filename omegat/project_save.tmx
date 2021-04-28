@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170354Z" creationid="Anna Wolska" creationdate="20210428T170354Z">
+        <seg>http://mac.softpedia.com/get/Word-Processing/OmegaT.shtml</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>http://qabiria.com/s/learnomegat</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T233049Z" creationid="la_justyna" creationdate="20210331T233049Z">
@@ -3082,11 +3090,28 @@ http://www.youtube.com/playlist?list=PLFED193FA64E53D60</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170420Z" creationid="Anna Wolska" creationdate="20210428T170420Z">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-development
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230942Z" creationid="la_justyna" creationdate="20210331T230942Z">
         <seg>
 https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170413Z" creationid="Anna Wolska" creationdate="20210428T170413Z">
+        <seg>https://sourceforge.net/p/omegat/feature-requests/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3119,6 +3144,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T103807Z" creationid="Agata Borkowska" creationdate="20210406T103758Z">
         <seg>o przekładzie i&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>sponsorship.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170440Z" creationid="Anna Wolska" creationdate="20210428T170440Z">
+        <seg>sponsorship.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -3271,8 +3304,8 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       <tuv lang="es">
         <seg>{{ site.data.links.support }}</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000445Z" creationid="la_justyna" creationdate="20210331T000445Z">
-        <seg>{{ site.data.links.support }</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170428Z" creationid="Anna Wolska" creationdate="20210428T170428Z">
+        <seg>{{ site.data.links.support }}</seg>
       </tuv>
     </tu>
     <tu>
