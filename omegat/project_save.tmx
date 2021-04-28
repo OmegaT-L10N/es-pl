@@ -2134,6 +2134,22 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>OmT-l10n</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172115Z" creationid="la_justyna" creationdate="20210428T172115Z">
+        <seg>OmT-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmTdev</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172052Z" creationid="la_justyna" creationdate="20210428T172052Z">
+        <seg>OmTdev</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>OmegaT - La herramienta TAO gratuita</seg>
       </tuv>
       <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210409T133757Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210409T133757Z">
@@ -3102,6 +3118,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Telegram</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172241Z" creationid="la_justyna" creationdate="20210428T172241Z">
+        <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Texto sin formato</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T194213Z" creationid="DELL" creationdate="20210406T194213Z">
@@ -3210,6 +3234,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230048Z" creationid="la_justyna" creationdate="20210331T230048Z">
         <seg>Tutoriale</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Twitter</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172224Z" creationid="la_justyna" creationdate="20210428T172224Z">
+        <seg>Twitter</seg>
       </tuv>
     </tu>
     <tu>
@@ -3813,6 +3845,14 @@ http://www.youtube.com/watch?v=waW8nXGyUBU</seg>
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172106Z" creationid="la_justyna" creationdate="20210428T172106Z">
+        <seg>https://lists.sourceforge.net/lists/listinfo/omegat-l10n</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-OmegaT.html</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T230942Z" creationid="la_justyna" creationdate="20210331T230942Z">
@@ -3826,6 +3866,22 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170402Z" creationid="Agata Borkowska" creationdate="20210428T170402Z">
         <seg>https://omegat.sourceforge.io/manual-standard/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172138Z" creationid="la_justyna" creationdate="20210428T172138Z">
+        <seg>https://sourceforge.net/p/omegat/bugs/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172151Z" creationid="la_justyna" creationdate="20210428T172151Z">
+        <seg>https://sourceforge.net/p/omegat/documentation/</seg>
       </tuv>
     </tu>
     <tu>
@@ -3850,6 +3906,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T124624Z" creationid="Natalia Kołosowska" creationdate="20210406T124624Z">
         <seg>https://support.apple.com/kb/ph14369</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>https://twitter.com/OmegaTOfficial</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172214Z" creationid="la_justyna" creationdate="20210428T172214Z">
+        <seg>https://twitter.com/OmegaTOfficial</seg>
       </tuv>
     </tu>
     <tu>
@@ -3918,10 +3982,27 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>mailto:info@omegat.org</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172251Z" creationid="la_justyna" creationdate="20210428T172251Z">
+        <seg>mailto:info@omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>mailto:localization@omegat.org</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210428T170745Z" creationid="DELL" creationdate="20210428T170745Z">
         <seg>mailto:localization@omegat.org</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>mailto:webmaster@omegat.org</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172301Z" creationid="la_justyna" creationdate="20210428T172301Z">
+        <seg>
+mailto:webmaster@omegat.org</seg>
       </tuv>
     </tu>
     <tu>
@@ -3946,6 +4027,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T115220Z" creationid="Agata Borkowska" creationdate="20210406T115220Z">
         <seg>inne</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>philosophy.html</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172028Z" creationid="la_justyna" creationdate="20210428T172028Z">
+        <seg>philosophy.html</seg>
       </tuv>
     </tu>
     <tu>
@@ -4347,10 +4436,27 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{{ site.data.links.facebook }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172203Z" creationid="la_justyna" creationdate="20210428T172203Z">
+        <seg>{{ site.data.links.facebook }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{{ site.data.links.support }}</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210428T170428Z" creationid="Anna Wolska" creationdate="20210428T170428Z">
         <seg>{{ site.data.links.support }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ site.data.links.telegram }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T172234Z" creationid="la_justyna" creationdate="20210428T172234Z">
+        <seg>
+{{ site.data.links.telegram }}</seg>
       </tuv>
     </tu>
     <tu>
