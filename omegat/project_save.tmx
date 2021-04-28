@@ -480,16 +480,16 @@
       <tuv lang="es">
         <seg>&lt;s1&gt;La ventaja&lt;/s1&gt;: una vez que se haya iniciado, las actualizaciones futuras de la versión Web Start se instalarán automáticamente en su equipo.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T114802Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
-        <seg>&lt;s1&gt;Zaleta&lt;/s1&gt;: .&lt;br2/&gt;: po pierwszym uruchomnieniu przyszłe aktualizacje wersji Web Start zainstalują się automatycznie na komputerze użytkownika.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T171027Z" creationid="Agata Borkowska" creationdate="20210406T114610Z">
+        <seg>&lt;s1&gt;Zaleta&lt;/s1&gt;: po pierwszym uruchomnieniu przyszłe aktualizacje wersji Web Start zainstalują się automatycznie na komputerze użytkownika.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es">
         <seg>&lt;s3&gt;La desventaja&lt;/s3&gt;: por el momento, no se puede usar esta versión con complementos, por lo que no están disponibles todas las funciones.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210414T130748Z" creationid="Agata Borkowska" creationdate="20210406T115012Z">
-        <seg>&lt;s3&gt;Wada&lt;/s3&gt;:na ten moment tej wersji nie można używać z dodatkami, więc niektóre funkcje nie będą dostępne.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T171036Z" creationid="Agata Borkowska" creationdate="20210406T115012Z">
+        <seg>&lt;s3&gt;Wada&lt;/s3&gt;: na ten moment tej wersji nie można używać z dodatkami, więc niektóre funkcje nie będą dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1128,8 +1128,8 @@
       <tuv lang="es">
         <seg>El JRE incluido es la versión de 64 bits.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210406T123225Z" creationid="Agata Borkowska" creationdate="20210406T123225Z">
-        <seg>Dołączone oprogramowanie JRE jest wersją 64-biową.</seg>
+      <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170913Z" creationid="Agata Borkowska" creationdate="20210406T123225Z">
+        <seg>Dołączone oprogramowanie JRE jest wersją 64-bitową.</seg>
       </tuv>
     </tu>
     <tu>
