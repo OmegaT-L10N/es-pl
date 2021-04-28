@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171807Z" creationid="la_justyna" creationdate="20210428T171807Z">
+        <seg>Kos Ivantsov</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La &lt;a0&gt;documentación&lt;/a0&gt; es muy importante.</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T044654Z" creationid="DELL" creationdate="20210407T044654Z">
@@ -3382,6 +3390,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171723Z" creationid="la_justyna" creationdate="20210428T171723Z">
+        <seg>Vincent Bidaux</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Vídeo 1</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T232543Z" creationid="la_justyna" creationdate="20210331T232543Z">
@@ -4031,11 +4047,29 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>{% endif %} {% endfor %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171946Z" creationid="la_justyna" creationdate="20210428T171946Z">
+        <seg>
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>{% for author in site.data.credits.website %}</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210428T171243Z" creationid="la_justyna" creationdate="20210428T171243Z">
         <seg>
 {% for author in site.data.credits.website %}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171819Z" creationid="la_justyna" creationdate="20210428T171819Z">
+        <seg>
+{% for dev in site.data.contributors %} {% if dev.name.size &gt; 0 %}</seg>
       </tuv>
     </tu>
     <tu>
@@ -4253,6 +4287,14 @@ https://nblocalization.netbeans.org/docs/HOWTOs/How-to-translate-NetBeans-using-
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210428T171330Z" creationid="la_justyna" creationdate="20210428T171330Z">
         <seg>{{ author }}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>{{ dev.name }}</seg>
+      </tuv>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210428T171829Z" creationid="la_justyna" creationdate="20210428T171829Z">
+        <seg>{{ dev.name }}</seg>
       </tuv>
     </tu>
     <tu>
