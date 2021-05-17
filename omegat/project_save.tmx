@@ -2758,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Show English Version</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210517T171853Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210517T171853Z">
+        <seg>Show English Version</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Si OmegaT le ha resultado de utilidad y le gustaría expresar su agradecimiento, puede hacer una &lt;a0&gt;donación&lt;/a0&gt; en nuestra cuenta de Paypal.</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T052311Z" creationid="DELL" creationdate="20210407T052311Z">
