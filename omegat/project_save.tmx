@@ -640,8 +640,8 @@
       <tuv lang="es">
         <seg>Así se pueden administrar muchas sugerencias con más facilidad.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161223Z" creationid="Anna Wolska" creationdate="20210331T161223Z">
-        <seg>Dzięki temu łatwiej jest zająć się dużą liczbą propozycji.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T202235Z" creationid="Anna Wolska" creationdate="20210331T161223Z">
+        <seg>Dzięki temu łatwiej jest im zająć się dużą liczbą propozycji.</seg>
       </tuv>
     </tu>
     <tu>
@@ -976,8 +976,8 @@
       <tuv lang="es">
         <seg>Cuando un usuario ha formulado un cambio o mejora a OmegaT, hay un procedimiento definido para enviarlo para consideración del equipo de desarrollo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161842Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
-        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu programistów za pomocą określonego narzędzia. </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T202209Z" creationid="Anna Wolska" creationdate="20210331T160617Z">
+        <seg>Zmiany i ulepszenia programu OmegaT proponowane przez użytkowników docierają do zespołu deweloperów za pomocą określonego narzędzia. </seg>
       </tuv>
     </tu>
     <tu>
