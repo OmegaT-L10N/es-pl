@@ -1494,6 +1494,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Grupo de Búsqueda Tradumática</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T173423Z" creationid="Justita" creationdate="20210519T173423Z">
+        <seg>Grupa badawcza Tradumática</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Grupo de Facebook</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T000353Z" creationid="la_justyna" creationdate="20210331T000353Z">
@@ -2946,6 +2954,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T203721Z" creationid="DELL" creationdate="20210406T203721Z">
         <seg>Bez wątpienia programowanie jest najważniejszą funkcją, a bez programowania program nie może powstać.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Sin embargo, algunas funciones del programa han sido encargadas por promotores comerciales quiénes después han donado de vuelta las características a la comunidad.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174147Z" creationid="Justita" creationdate="20210519T174147Z">
+        <seg>Jednakże, niektóre funkcje programu zostały zamówione przez twórców komercyjnych, którzy następnie z powrotem przekazali je społeczności..</seg>
       </tuv>
     </tu>
     <tu>
