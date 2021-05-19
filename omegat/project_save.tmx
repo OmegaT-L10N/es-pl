@@ -176,8 +176,8 @@
       <tuv lang="es">
         <seg>&lt;a0&gt;El patrocinio del desarrollo ya ha significado la incorporación de algunas funcionalidades.&lt;/a0&gt; Si usted desea financiar el trabajo de implementación de su funcionalidad deseada, contacte al equipo de desarrollo en privado para solicitar una cotización.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T163511Z" creationid="Anna Wolska" creationdate="20210331T163511Z">
-        <seg>&lt;a0&gt;Wprowadzono już kilka rozwiązań sponsorowanych.&lt;/a0&gt;Jeśli chciałbyś sfinansować wdrożenie jakiejś funkcji, skontaktuj się prywatnie z zespołem programistów i poproś o wycenę.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201845Z" creationid="Anna Wolska" creationdate="20210331T163511Z">
+        <seg>&lt;a0&gt;Wprowadzono już kilka rozwiązań sponsorowanych.&lt;/a0&gt; Jeśli chciałbyś sfinansować wdrożenie jakiejś funkcji, skontaktuj się prywatnie z zespołem deweloperów i poproś o wycenę.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1968,8 +1968,8 @@
       <tuv lang="es">
         <seg>Los desarrolladores de OmegaT, al ser voluntarios, estarán más dispuestos a implementar una RFE cuyo desarrollo sea financiado por el solicitante.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162749Z" creationid="Anna Wolska" creationdate="20210331T162409Z">
-        <seg>Współtwórcy OmegaT jako wolontariusze chętniej przyjmują propozycje, których realizacja byłaby finansowana przez osobę przesyłającą sugestię. </seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201827Z" creationid="Anna Wolska" creationdate="20210331T162409Z">
+        <seg>Deweloperzy programu OmegaT jako wolontariusze chętniej przyjmują propozycje, których realizacja byłaby finansowana przez osobę przesyłającą sugestię. </seg>
       </tuv>
     </tu>
     <tu>
@@ -3256,8 +3256,8 @@
       <tuv lang="es">
         <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162503Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
-        <seg>Przyjęcie propozycji zależy przede wszystkim od tego, czy zespół programistów uzna ją za korzystną dla programu OmegaT, a także od tego, czy któryś ze współtwórców chciałby wprowadzić dane rozwiązanie.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201743Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
+        <seg>Przyjęcie propozycji zależy przede wszystkim od tego, czy zespół deweloperów uzna ją za korzystną dla programu OmegaT, a także od tego, czy któryś ze współtwórców chciałby wprowadzić dane rozwiązanie.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4961,8 +4961,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201246Z" creationid="Anna Wolska" creationdate="20210317T173306Z">
-        <seg>Każdy może na przykład zmodyfikować kod źródłowy programu OmegaT i przesłać te zmiany do zespołu programistów.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201543Z" creationid="Anna Wolska" creationdate="20210317T173306Z">
+        <seg>Każdy może na przykład zmodyfikować kod źródłowy programu OmegaT i przesłać te zmiany do zespołu deweloperów.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4972,8 +4972,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Por ejemplo, nada detiene a un usuario a escribir su propio manual o a grabar un video demostrativo sobre OmegaT y si el proyecto lo considera de alguna utilidad, es probable que lo ponga a disposición de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T153240Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
-        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o OmegaT, a jeśli dany materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201614Z" creationid="Anna Wolska" creationdate="20210317T170917Z">
+        <seg>Na przykład nic nie stoi na przeszkodzie, aby użytkownik napisał swój własny poradnik lub nagrał film pokazowy o programie OmegaT, a jeśli dany materiał okaże się przydatny, to prawdopodobnie zostanie udostępniony społeczności użytkowników programu.</seg>
       </tuv>
     </tu>
     <tu>
