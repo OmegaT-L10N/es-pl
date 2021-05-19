@@ -726,6 +726,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>CJ Traducciónes</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T172949Z" creationid="Justita" creationdate="20210519T172949Z">
+        <seg>CJ Tłumaczenia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Captura de pantalla de OmegaT</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210406T195602Z" creationid="DELL" creationdate="20210406T195602Z">
@@ -1704,8 +1712,8 @@
       <tuv lang="es">
         <seg>La gran mayoría del trabajo en el proyecto OmegaT se ha completado de forma voluntaria.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T172654Z" creationid="Justita" creationdate="20210519T172654Z">
-        <seg>Większość prac przy projekcie OmegaT se ha completado de forma voluntaria.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T172736Z" creationid="Justita" creationdate="20210519T172654Z">
+        <seg>Większość prac przy projekcie OmegaT została wykonana przez wolontariuszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3048,8 +3056,8 @@
       <tuv lang="es">
         <seg>Sponsorship</seg>
       </tuv>
-      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210519T171537Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210519T171537Z">
-        <seg>Sponsorship</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T172713Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210519T171537Z">
+        <seg>Patronat</seg>
       </tuv>
     </tu>
     <tu>
@@ -3618,6 +3626,14 @@
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T125433Z" creationid="Natalia Kołosowska" creationdate="20210406T125433Z">
         <seg>git clone https://git.code.sf.net/p/omegat/code omegat-code</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>hasta ahora, los promotores son:</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T172914Z" creationid="Justita" creationdate="20210519T172914Z">
+        <seg>W obecnej chiwli patronami są:</seg>
       </tuv>
     </tu>
     <tu>
