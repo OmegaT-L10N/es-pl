@@ -1646,6 +1646,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Introducción a OmegaT 2.5.0).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174458Z" creationid="Justita" creationdate="20210519T174458Z">
+        <seg>Wprowadzenie do OmegaT 2.5.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>JRE</seg>
       </tuv>
       <tuv lang="pl" changeid="Agata Borkowska" changedate="20210428T170539Z" creationid="Agata Borkowska" creationdate="20210428T170539Z">
@@ -2648,8 +2656,8 @@
       <tuv lang="es">
         <seg>Revisión de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="DELL" changedate="20210428T170805Z" creationid="DELL" creationdate="20210428T170805Z">
-        <seg>Revisión de OmegaT</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174439Z" creationid="DELL" creationdate="20210428T170805Z">
+        <seg>Recenzja OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -2960,8 +2968,8 @@
       <tuv lang="es">
         <seg>Sin embargo, algunas funciones del programa han sido encargadas por promotores comerciales quiénes después han donado de vuelta las características a la comunidad.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T174147Z" creationid="Justita" creationdate="20210519T174147Z">
-        <seg>Jednakże, niektóre funkcje programu zostały zamówione przez twórców komercyjnych, którzy następnie z powrotem przekazali je społeczności..</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174310Z" creationid="Justita" creationdate="20210519T174147Z">
+        <seg>Jednakże, niektóre funkcje programu zostały zamówione przez komercyjnych sponsorów, którzy następnie przekazali je społeczności..</seg>
       </tuv>
     </tu>
     <tu>
@@ -3080,8 +3088,8 @@
       <tuv lang="es">
         <seg>Sponsorship</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T172713Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210519T171537Z">
-        <seg>Patronat</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174335Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210519T171537Z">
+        <seg>Sponsorzy</seg>
       </tuv>
     </tu>
     <tu>
@@ -3656,8 +3664,8 @@
       <tuv lang="es">
         <seg>hasta ahora, los promotores son:</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T174239Z" creationid="Justita" creationdate="20210519T172914Z">
-        <seg>Na dzien dzisiejszy sponsorami są:</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174318Z" creationid="Justita" creationdate="20210519T172914Z">
+        <seg>Na dzień dzisiejszy sponsorami są:</seg>
       </tuv>
     </tu>
     <tu>
