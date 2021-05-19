@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Breve introducción de OmegaT, 2009 (en Vietnamés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175119Z" creationid="Justita" creationdate="20210519T175119Z">
+        <seg>Krótkie wprowadzenie do OmegaT, 2009 (w języku wietnamskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Briac Pilpré</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210428T171530Z" creationid="la_justyna" creationdate="20210428T171530Z">
@@ -1218,6 +1226,14 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210330T131528Z" creationid="Justita" creationdate="20210330T131528Z">
         <seg>Usuwanie całego tekstu z zachowaniem znaczników lub wszystkich znaczników z zachowaniem tesktu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>En PCW.GR (en Griego).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175053Z" creationid="Justita" creationdate="20210519T175053Z">
+        <seg>Na stronie PCW.GR (w języku greckim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2502,6 +2518,30 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Por Corinne McKay (en Inglés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174940Z" creationid="Justita" creationdate="20210519T174940Z">
+        <seg>Autorstwa Corinne McKay (w języku angielskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Por Leo Viëtor (en Holandés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175016Z" creationid="Justita" creationdate="20210519T175016Z">
+        <seg>Autorstwa Leo Viëtora (w języku niderlandzkim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Por Takashi Miyamoto (en Japonés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174902Z" creationid="Justita" creationdate="20210519T174902Z">
+        <seg>Autorstwa Takashi Miyamoto (w języku japońskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Por Václav Hejda (en Checo)</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210519T174652Z" creationid="Justita" creationdate="20210519T174652Z">
@@ -2710,10 +2750,42 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Revisión de OmegaT 1.6.1_1.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174844Z" creationid="Justita" creationdate="20210519T174844Z">
+        <seg>Recenzja OmegaT 1.6.1_1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Revisión de OmegaT 2.3.0.</seg>
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210519T174633Z" creationid="Justita" creationdate="20210519T174633Z">
         <seg>Recenzja OmegaT 2.3.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT, 11 de Abril 2008.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174920Z" creationid="Justita" creationdate="20210519T174920Z">
+        <seg>Recenzja OmegaT, 11 kwietnia 2008.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT, 2009.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175028Z" creationid="Justita" creationdate="20210519T175028Z">
+        <seg>Recenzja OmegaT, 2009.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT, 2010.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174950Z" creationid="Justita" creationdate="20210519T174950Z">
+        <seg>Recenzja OmegaT, 2010.</seg>
       </tuv>
     </tu>
     <tu>
