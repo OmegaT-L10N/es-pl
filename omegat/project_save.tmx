@@ -1702,6 +1702,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>La gran mayoría del trabajo en el proyecto OmegaT se ha completado de forma voluntaria.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T172654Z" creationid="Justita" creationdate="20210519T172654Z">
+        <seg>Większość prac przy projekcie OmegaT se ha completado de forma voluntaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>La lista de los desarrolladores de OmegaT.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T235430Z" creationid="la_justyna" creationdate="20210330T235430Z">
