@@ -1598,6 +1598,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Instituto Laue-Langevin</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T173144Z" creationid="Justita" creationdate="20210519T173144Z">
+        <seg>Instytut Laue-Langevin</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Instrucciones detalladas</seg>
       </tuv>
       <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100204Z" creationid="Natalia Kołosowska" creationdate="20210406T100204Z">
