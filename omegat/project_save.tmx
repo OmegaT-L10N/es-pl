@@ -1094,6 +1094,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Descripción de OmegaT (2008).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174739Z" creationid="Justita" creationdate="20210519T174739Z">
+        <seg>Opis OmegaT (2008).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Desde su origen, el proyecto ha recibido el apoyo de docenas de otros colaboradores, demasiados para mencionarlos aquí, pero cuya ayuda agradecemos encarecidamente.</seg>
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210330T234353Z" creationid="la_justyna" creationdate="20210330T234323Z">
@@ -2470,10 +2478,42 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174622Z" creationid="Justita" creationdate="20210519T174622Z">
+        <seg>Autorstwa Arno Petersa y Mariëtte van Drunen (w języku niderlandzkim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)&lt;/a0&gt;</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210428T170833Z" creationid="DELL" creationdate="20210428T170833Z">
         <seg>Por Arno Peters y Mariëtte van Drunen (en holandés)&lt;/a0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Por Asier Sarasua Garmendia (en Basque).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174831Z" creationid="Justita" creationdate="20210519T174831Z">
+        <seg>Autorstwa Asiera Sarasuy Garmendii (w języku baskijskim).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Por Václav Hejda (en Checo)</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174652Z" creationid="Justita" creationdate="20210519T174652Z">
+        <seg>Autorstwa Václava Hejdy (w języku czeskim)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Por Yutaka Kachi (en Japonés).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174718Z" creationid="Justita" creationdate="20210519T174718Z">
+        <seg>Autorstwa Yutaka Kachi (w języku japońskim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2698,22 @@
       </tuv>
       <tuv lang="pl" changeid="Justita" changedate="20210519T174439Z" creationid="DELL" creationdate="20210428T170805Z">
         <seg>Recenzja OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT 1.6 RC5.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174703Z" creationid="Justita" creationdate="20210519T174703Z">
+        <seg>Recenzja OmegaT 1.6 RC5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Revisión de OmegaT 2.3.0.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T174633Z" creationid="Justita" creationdate="20210519T174633Z">
+        <seg>Recenzja OmegaT 2.3.0.</seg>
       </tuv>
     </tu>
     <tu>
