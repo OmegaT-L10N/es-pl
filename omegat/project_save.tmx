@@ -1736,8 +1736,8 @@
       <tuv lang="es">
         <seg>La discusión técnica detallada sobre los cambios es mejor llevarla directamente a los desarrolladores de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T155933Z" creationid="Anna Wolska" creationdate="20210331T155933Z">
-        <seg>Techniczne szczegóły dotyczące zmian lepiej kierować bezpośrednio do współtwórców OmegaT.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201527Z" creationid="Anna Wolska" creationdate="20210331T155933Z">
+        <seg>Techniczne szczegóły dotyczące zmian lepiej kierować bezpośrednio do deweloperów programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2408,8 +2408,8 @@
       <tuv lang="es">
         <seg>Para esto, hay una &lt;a0&gt;lista de distribución de correo para desarrolladores&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T161528Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
-        <seg>Do tego celu służy &lt;a0&gt;lista mailingowa współtwórców&lt;/a0&gt;.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201500Z" creationid="Anna Wolska" creationdate="20210331T160152Z">
+        <seg>Do tego celu służy &lt;a0&gt;lista mailingowa dla deweloperów&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4818,8 +4818,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Como ocurre con lo demás en el proyecto OmegaT, el trabajo de programar OmegaT es hecho por voluntarios y, respetando la filosofía del proyecto, los desarrollos y mejoras que hacen a OmegaT quedan finalmente a su criterio.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T151946Z" creationid="Anna Wolska" creationdate="20210317T175805Z">
-        <seg>Tak jak wszystkie inne prace związane z OmegaT, programowanie także wykonywane jest przez wolontariuszy. Zgodnie z główną ideą projektu, to od nich zależy rozwój programu i wprowadzane ulepszenia.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201316Z" creationid="Anna Wolska" creationdate="20210317T175805Z">
+        <seg>Tak jak wszystkie inne prace związane z programem OmegaT, programowanie także wykonywane jest przez wolontariuszy. Zgodnie z główną ideą projektu, to od nich zależy rozwój programu i wprowadzane ulepszenia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4829,8 +4829,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Desarrollo de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T174137Z" creationid="Anna Wolska" creationdate="20210317T174137Z">
-        <seg>Rozwój OmegaT</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201257Z" creationid="Anna Wolska" creationdate="20210317T174137Z">
+        <seg>Rozwój programu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
