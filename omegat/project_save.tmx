@@ -1256,8 +1256,8 @@
       <tuv lang="es">
         <seg>En primer lugar está el &lt;a0&gt;grupo de usuarios de OmegaT&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154230Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
-        <seg>Przede wszystkim mają do dyspozycji grupę dyskusyjną.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201208Z" creationid="Anna Wolska" creationdate="20210331T154128Z">
+        <seg>Przede wszystkim mają do dyspozycji &lt;a0&gt;grupę dyskusyjną&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1408,8 +1408,8 @@
       <tuv lang="es">
         <seg>Este es el foco principal de la comunidad de usuarios de OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T154610Z" creationid="Anna Wolska" creationdate="20210331T154410Z">
-        <seg>Jest to główny trzon społeczności użytkowników OmegaT.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201216Z" creationid="Anna Wolska" creationdate="20210331T154410Z">
+        <seg>Jest to główny trzon społeczności użytkowników programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4807,8 +4807,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Así se garantiza la protección de los intereses de los usuarios y también ha significado que OmegaT recibiera la &lt;a0&gt;garantía "100% FREE" de Softpedia&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T174122Z" creationid="Anna Wolska" creationdate="20210317T173547Z">
-        <seg>Dzięki temu zagwarantowana jest ochrona interesów użytkowników, a ponadto projekt OmegaT uzyskał odznaczenie dla programów bezpiecznych w stu procentach według portalu Softpedia.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201143Z" creationid="Anna Wolska" creationdate="20210317T173547Z">
+        <seg>Dzięki temu zagwarantowana jest ochrona interesów użytkowników, a ponadto projekt OmegaT uzyskał odznaczenie &lt;a0&gt;"100% FREE" na portalu Softpedia&lt;/a0&gt;.</seg>
       </tuv>
     </tu>
     <tu>
@@ -4961,8 +4961,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>Por ejemplo, cualquiera es libre de hacer cambios al código de OmegaT y a enviar esos cambios al equipo de desarrollo.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Anna Wolska" changedate="20210317T173306Z" creationid="Anna Wolska" creationdate="20210317T173306Z">
-        <seg>Każdy może na przykład zmodyfikować kod źródłowy OmegaT i przesłać te zmiany do zespołu programistów.</seg>
+      <tuv lang="pl" changeid="Anna Wolska" changedate="20210519T201246Z" creationid="Anna Wolska" creationdate="20210317T173306Z">
+        <seg>Każdy może na przykład zmodyfikować kod źródłowy programu OmegaT i przesłać te zmiany do zespołu programistów.</seg>
       </tuv>
     </tu>
     <tu>
