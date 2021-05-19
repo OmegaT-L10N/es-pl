@@ -712,8 +712,8 @@
       <tuv lang="es">
         <seg>Breve introducción de OmegaT, 2009 (en Vietnamés).</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T175119Z" creationid="Justita" creationdate="20210519T175119Z">
-        <seg>Krótkie wprowadzenie do OmegaT, 2009 (w języku wietnamskim).</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175217Z" creationid="Justita" creationdate="20210519T175119Z">
+        <seg>Krótkie wprowadzenie do programu OmegaT, 2009 (w języku wietnamskim).</seg>
       </tuv>
     </tu>
     <tu>
@@ -890,6 +890,14 @@
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T054150Z" creationid="DELL" creationdate="20210407T050559Z">
         <seg>W celu uzuskania &lt;a0&gt;szczegółowych informacji na temat lokalizacji/tłumaczenia programu OmegaT,&lt;/a0&gt; skontaktuj się z koordynatorem ds.lokalizacji programu OmegaT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Contiene una descripción completa de OmegaT.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175203Z" creationid="Justita" creationdate="20210519T175203Z">
+        <seg>Zawiera kompletny opis programu OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2134,6 +2142,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Mini-reseña de OmegaT, 2012.</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175235Z" creationid="Justita" creationdate="20210519T175235Z">
+        <seg>Mini-recenzja programu OmegaT, 2012.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Muchos de los que están leyendo esto probablemente sean traductores que han traducido mucha documentación de usuario.</seg>
       </tuv>
       <tuv lang="pl" changeid="DELL" changedate="20210407T044844Z" creationid="DELL" creationdate="20210407T044844Z">
@@ -2234,6 +2250,22 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210331T225022Z" creationid="la_justyna" creationdate="20210331T225022Z">
         <seg>OmegaT zawiera pełną instrukcję obsługi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT en Wikipedia</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175306Z" creationid="Justita" creationdate="20210519T175306Z">
+        <seg>Wpis dotyczący programu OmegaT w Wikipedii</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>OmegaT en Wikipedia &lt;s0&gt;25 idiomas&lt;/s0&gt;</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175353Z" creationid="Justita" creationdate="20210519T175334Z">
+        <seg> Wpis dotyczący programu OmegaT w Wikipedii &lt;s0&gt;25 języków&lt;/s0&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2736,8 +2768,8 @@
       <tuv lang="es">
         <seg>Revisión de OmegaT</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210519T174439Z" creationid="DELL" creationdate="20210428T170805Z">
-        <seg>Recenzja OmegaT</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175359Z" creationid="DELL" creationdate="20210428T170805Z">
+        <seg>Recenzja programu OmegaT</seg>
       </tuv>
     </tu>
     <tu>
@@ -3314,6 +3346,14 @@
       </tuv>
       <tuv lang="pl" changeid="la_justyna" changedate="20210428T172241Z" creationid="la_justyna" creationdate="20210428T172241Z">
         <seg>Telegram</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
+        <seg>Tesis de grado de Sébastien Guillardeau, 2010 (en Alemán).</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Justita" changedate="20210519T175147Z" creationid="Justita" creationdate="20210519T175147Z">
+        <seg>Praca dyplomowa Sébastiena Guillardeau, 2010 (w języku niemieckim).</seg>
       </tuv>
     </tu>
     <tu>
