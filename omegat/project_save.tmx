@@ -3038,6 +3038,14 @@
     </tu>
     <tu>
       <tuv lang="es">
+        <seg>Sponsorship</seg>
+      </tuv>
+      <tuv lang="pl" changeid="Maria Rombel-Kuśmierska" changedate="20210519T171537Z" creationid="Maria Rombel-Kuśmierska" creationdate="20210519T171537Z">
+        <seg>Sponsorship</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="es">
         <seg>Su adopción depende, en primer lugar, de si el equipo de desarrollo la considera beneficiosa para OmegaT y, en segundo lugar, de que haya algún desarrollador dispuesto a implementarla.</seg>
       </tuv>
       <tuv lang="pl" changeid="Anna Wolska" changedate="20210331T162503Z" creationid="Anna Wolska" creationdate="20210331T162250Z">
