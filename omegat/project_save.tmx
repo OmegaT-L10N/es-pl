@@ -1216,8 +1216,8 @@
       <tuv lang="es">
         <seg>El proyecto OmegaT es mantenido por un grupo informal e internacional de voluntarios.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233229Z" creationid="la_justyna" creationdate="20210330T233229Z">
-        <seg>Projektem OmegaT kieruje międzynarodowa grupa wolontariuszy</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T155843Z" creationid="la_justyna" creationdate="20210330T233229Z">
+        <seg>Projektem OmegaT kieruje międzynarodowa grupa wolontariuszy.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1400,8 +1400,8 @@
       <tuv lang="es">
         <seg>Este es el &lt;a0&gt;canal de soporte recomendado&lt;/a0&gt; al que invitamos a los usuarios a suscribirse.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234911Z" creationid="la_justyna" creationdate="20210330T234911Z">
-        <seg>Zapraszamy do&lt;a0&gt;subskrypcji w celu&lt;/a0&gt;wsparcia.</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160127Z" creationid="la_justyna" creationdate="20210330T234911Z">
+        <seg>Zapraszamy do&lt;a0&gt;subskrypcji&lt;/a0&gt;w celu wsparcia.</seg>
       </tuv>
     </tu>
     <tu>
@@ -1760,8 +1760,8 @@
       <tuv lang="es">
         <seg>La filosofía del proyecto está descrita &lt;a0&gt;aquí&lt;/a0&gt;.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T234528Z" creationid="la_justyna" creationdate="20210330T234157Z">
-        <seg>Więcej na temat idei&lt;a0&gt;projektu znajdziesz tutaj&lt;/a0&gt;.</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T155957Z" creationid="la_justyna" creationdate="20210330T234157Z">
+        <seg>Więcej na temat idei&lt;a0&gt;projektu znajdziesz&lt;/a0&gt;tutaj.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3272,8 +3272,8 @@
       <tuv lang="es">
         <seg>Su objetivo es desarrollar, distribuir y dar soporte al uso de OmegaT, un programa de memorias de traducción de código abierto.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T233421Z" creationid="la_justyna" creationdate="20210330T233421Z">
-        <seg>Celem projektu jest rozwój i pomoc w użytkowaniu OmegaT, programu pamięci tłumaczeniowych w wolnym dostępie</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T155848Z" creationid="la_justyna" creationdate="20210330T233421Z">
+        <seg>Celem projektu jest rozwój i pomoc w użytkowaniu OmegaT, programu pamięci tłumaczeniowych w wolnym dostępie.</seg>
       </tuv>
     </tu>
     <tu>
