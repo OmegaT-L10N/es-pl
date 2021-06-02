@@ -2184,8 +2184,8 @@
       <tuv lang="es">
         <seg>No pudimos encontrar la página que busca.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232626Z" creationid="la_justyna" creationdate="20210330T232626Z">
-        <seg>Podana strona nie istnieje</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T155542Z" creationid="la_justyna" creationdate="20210330T232626Z">
+        <seg>Podana strona nie istnieje.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2688,8 +2688,8 @@
       <tuv lang="es">
         <seg>Puede ir a la &lt;a0&gt;página principal&lt;/a0&gt; y debería encontrar la información que necesita desde ahí.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T232744Z" creationid="la_justyna" creationdate="20210330T232653Z">
-        <seg>Wszelkie informacje&lt;a0&gt;znajdują się&lt;/a0&gt;na stronie głównej</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T155807Z" creationid="la_justyna" creationdate="20210330T232653Z">
+        <seg>Wszelkie informacje&lt;a0&gt;znajdują się na stronie&lt;/a0&gt;głównej.</seg>
       </tuv>
     </tu>
     <tu>
