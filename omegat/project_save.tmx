@@ -872,16 +872,16 @@
       <tuv lang="es">
         <seg>Contactar al &lt;a0&gt;administrador del proyecto OmegaT&lt;/a0&gt; sobre cualquier tema no descrito aquí.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T000651Z" creationid="la_justyna" creationdate="20210331T000651Z">
-        <seg>Kontakt z&lt;a0&gt;administratorem projektu OmegaT&lt;/a0&gt;w innych kwestiach.</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160244Z" creationid="la_justyna" creationdate="20210331T000651Z">
+        <seg>Kontakt z &lt;a0&gt;administratorem projektu OmegaT &lt;/a0&gt;w innych kwestiach. </seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="es">
         <seg>Contactar al &lt;a3&gt;administrador web&lt;/a3&gt; sobre cualquier tema relacionado específicamente con el sitio web.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224858Z" creationid="la_justyna" creationdate="20210331T224806Z">
-        <seg>Kontakt z&lt;a3&gt;administratorem sieci&lt;/a3&gt;w kwestiach związanych ze stroną internetową.</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160310Z" creationid="la_justyna" creationdate="20210331T224806Z">
+        <seg>Kontakt z &lt;a3&gt;administratorem sieci&lt;/a3&gt; w kwestiach związanych ze stroną internetową.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2344,8 +2344,8 @@
       <tuv lang="es">
         <seg>OmegaT también tiene las siguientes listas de distribución de correo y sistemas de seguimiento alojados en Sourceforge:</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210330T235351Z" creationid="la_justyna" creationdate="20210330T235041Z">
-        <seg>Omega T posiada listy dystrybucyjne poczty e-mail ii systemy monitorowania hostowane w Sourceforge </seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160200Z" creationid="la_justyna" creationdate="20210330T235041Z">
+        <seg>Omega T posiada listy dystrybucyjne poczty e-mail ii systemy monitorowania hostowane w Sourceforge. </seg>
       </tuv>
     </tu>
     <tu>
@@ -2488,8 +2488,8 @@
       <tuv lang="es">
         <seg>Para solicitudes de soporte, usar el &lt;a1&gt;canal de soporte recomendado&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T224637Z" creationid="la_justyna" creationdate="20210331T224637Z">
-        <seg>W celu uzyskania pomocy lub użycia&lt;a1&gt;odpowiedniego kanału wsparcia&lt;/a1&gt;.&lt;br2/&gt;</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160332Z" creationid="la_justyna" creationdate="20210331T224637Z">
+        <seg>W celu uzyskania pomocy lub użycia&lt;a1&gt; odpowiedniego kanału wsparcia&lt;/a1&gt;.&lt;br2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
