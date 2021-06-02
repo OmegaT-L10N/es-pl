@@ -4429,8 +4429,8 @@ mailto:webmaster@omegat.org</seg>
       <tuv lang="es">
         <seg>{% if platform.link != null %} &lt;a0&gt;Descargar&lt;/a0&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210406T100446Z" creationid="Natalia Kołosowska" creationdate="20210406T100446Z">
-        <seg>{% if platform.link != null %} &lt;a0&gt;Descargar&lt;/a0&gt;</seg>
+      <tuv lang="pl" changeid="Natalia Kołosowska" changedate="20210602T170833Z" creationid="Natalia Kołosowska" creationdate="20210406T100446Z">
+        <seg>{% if platform.link != null %} &lt;a0&gt;Pobierz&lt;/a0&gt;</seg>
       </tuv>
     </tu>
     <tu>
