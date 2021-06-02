@@ -1384,8 +1384,8 @@
       <tuv lang="es">
         <seg>Estas utilidades permiten el uso de OmegaT para traducir formatos de archivos para los que los filtros de conversión a XLIFF están disponibles.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T232117Z" creationid="la_justyna" creationdate="20210331T232117Z">
-        <seg>Te narzędzia pozwalają na wykorzystanie OmegaT w celu tłumaczenia formatów plików i aby  filtry konwersji do XLIFF były dostępne</seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160700Z" creationid="la_justyna" creationdate="20210331T232117Z">
+        <seg>Te narzędzia pozwalają na wykorzystanie OmegaT w celu tłumaczenia formatów plików i aby  filtry konwersji do XLIFF były dostępne.</seg>
       </tuv>
     </tu>
     <tu>
@@ -2608,8 +2608,8 @@
       <tuv lang="es">
         <seg>Procedimiento de uso de OmegaT para localizar NetBeans IDE.</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210331T231057Z" creationid="la_justyna" creationdate="20210331T231057Z">
-        <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji NetBeans IDE.. </seg>
+      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160539Z" creationid="la_justyna" creationdate="20210331T231057Z">
+        <seg>Postępowanie w użytkowaniu OmegaT w celu lokalizacji NetBeans IDE. </seg>
       </tuv>
     </tu>
     <tu>
