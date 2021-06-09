@@ -2840,8 +2840,8 @@
       <tuv lang="es">
         <seg>Script de línea de comandos de Java para eliminar las unidades de traducción prescindibles de un archivo TMX: elimina todas las unidades de traducción sin segmento meta o en las que el segmento meta es igual que el segmento origen.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T183646Z" creationid="Justita" creationdate="20210314T183646Z">
-        <seg>Wykonywany z linii poleceń skrypt Java usuwający zbędne jednostki tłumaczeniowe z pliku TMX (usuwa wszystkie jednostki bez segmentu docelowego i jednostki, w których segment źródłowy i docelowy są takie same).</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T093706Z" creationid="Justita" creationdate="20210314T183646Z">
+        <seg>Wykonywany z linii poleceń skrypt Java usuwający zbędne jednostki tłumaczeniowe z pliku TMX (usuwa wszystkie jednostki bez segmentu docelowego i jednostki, w których segment źródłowy i docelowy są takie same)</seg>
       </tuv>
     </tu>
     <tu>
@@ -2864,8 +2864,8 @@
       <tuv lang="es">
         <seg>Scripts y procedimientos de Samuel Murray</seg>
       </tuv>
-      <tuv lang="pl" changeid="la_justyna" changedate="20210602T160858Z" creationid="Justita" creationdate="20210330T130748Z">
-        <seg>Skrypty i proceduty autorstwa Samuela Murray'a.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T093743Z" creationid="Justita" creationdate="20210330T130748Z">
+        <seg>Skrypty i procedury autorstwa Samuela Murray'a.</seg>
       </tuv>
     </tu>
     <tu>
