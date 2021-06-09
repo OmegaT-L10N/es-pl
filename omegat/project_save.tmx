@@ -2848,8 +2848,8 @@
       <tuv lang="es">
         <seg>Script para extraer texto traducible de archivos de texto sin formato (p.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T190058Z" creationid="Justita" creationdate="20210314T190058Z">
-        <seg>Skrypt służący do wyodrębnienia tekstu do przetłumaczenia z niesformatowanych plików tekstowych (p.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T094047Z" creationid="Justita" creationdate="20210314T190058Z">
+        <seg>Skrypt służący do wyodrębnienia tekstu do przetłumaczenia z niesformatowanych plików tekstowych (</seg>
       </tuv>
     </tu>
     <tu>
