@@ -2456,8 +2456,8 @@
       <tuv lang="es">
         <seg>Para la mayoría de estos scripts se necesita MS Windows, aunque algunos procedimientos también pueden funcionar en otras plataformas.&lt;br0/&gt;</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210330T131009Z" creationid="Justita" creationdate="20210330T131009Z">
-        <seg>Większość tych skryptów wymaga systemu MS Windows, aczkolwiek niektóre procedury mogą również działać na innych platformach&lt;br0/&gt;</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T094222Z" creationid="Justita" creationdate="20210330T131009Z">
+        <seg>Większość tych skryptów wymaga systemu MS Windows, aczkolwiek niektóre procedury mogą również działać na innych platformach.&lt;br0/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2728,8 +2728,8 @@
       <tuv lang="es">
         <seg>Repositorio de TMX de la localización</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210324T152319Z" creationid="Justita" creationdate="20210324T152247Z">
-        <seg>Repozytorium lokalizacyjne TMXn</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T094154Z" creationid="Justita" creationdate="20210324T152247Z">
+        <seg>Repozytorium lokalizacyjne TMX</seg>
       </tuv>
     </tu>
     <tu>
@@ -3808,8 +3808,8 @@
       <tuv lang="es">
         <seg>ej., código fuente) para traducirlo en OmegaT.</seg>
       </tuv>
-      <tuv lang="pl" changeid="Justita" changedate="20210314T190325Z" creationid="Justita" creationdate="20210314T190135Z">
-        <seg>np., kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
+      <tuv lang="pl" changeid="Justita" changedate="20210609T094053Z" creationid="Justita" creationdate="20210314T190135Z">
+        <seg>np. kodu źródłowego) w celu przetłumaczenia go w OmegaT.</seg>
       </tuv>
     </tu>
     <tu>
